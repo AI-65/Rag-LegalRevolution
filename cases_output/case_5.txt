@@ -1,0 +1,255 @@
+II ZR 128/73
+Gericht: BGH,    Datum: 3. Feb 1975,    Fundstelle: JurionRS 1975, 11240; BGHZ 64, 11
+§ 4 GmbHG, § 35 GmbHG, § 164 BGB - Haftung des GmbH-Geschäftsführung, Führung der Gesellschaftsbezeich-
+nung im Firmennamen, Stellvertretung, Offenkundigkeitsprinzip
+Leitsätze:
+Der GmbH-Geschäftsführer kann unter Umständen einem Geschäftspartner der GmbH nach Rechtscheins-
+grundsätzen für eine Gesellschaftsverbindlichkeit haften, wenn er entgegen § 4 Abs. 2 GmbHG im Ge-
+schäftsverkehr der Firma der Gesellschaft nicht die zusätzliche Bezeichnung "mit beschränkter Haftung"
+("mbH") hinzufügt.
+a. Wer auf einem Wechsel unter dem Stempel einer Personenfirma zeichnet, verpflichtet den Firmenin-
+haber und nicht sich selbst, auch wenn nicht besonders zum Ausdruck kommt, daß der Zeichner mit
+dem Inhaber der Firma nicht identisch ist, sondern als dessen Vertreter handelt (Ergänzung zu BGHZ
+62, 216).
+b. Die Auslegungsregel des § 164 Abs. 2 BGB, wonach derjenige selbst verpflichtet wird, dessen Wille im
+fremden Namen zu handeln, nicht erkennbar hervortritt, ist nicht anwendbar, wenn erkennbar ist,
+wer Vertragspartner sein soll, und lediglich unklar bleibt, ob der Erklärende selbst dieser Vertrags-
+partner ist oder nur dessen Vertreter.
+Zur Examnsrelevanz: noch nicht bearbeitet
+Fundstellen:
+JurionRS 1975, 11240; BGHZ 64, 11; NJW 1975 1166; DB 1975, 923, MDR 1975, 647
+Aus dem Urteil:
+(nach JurionRS 1975, 11240 - www.recht.jurion.de)
+ 
+Tatbestand
+ 
+Die Klägerin ist Inhaberin und Ausstellerin von fünf in der Zeit vom 4. bis 25. April 1972 ausgestellten Wechseln
+über insgesamt 28.451,55 DM. Die Wechsel sind gezogen auf "Heinrich F., Großtischlerei, G. bei Ha., B.straße ...".
+Unter dem quergedruckten Wort "Angenommen" befindet sich ein Stempelabdruck: "Heinrich F., Großtischlerei,
+G. bei Ha." (darunter zwei Telefonnummern), den der Beklagte mit seinem Namenszug unterzeichnet hat.
+ 
+Inhaber der Firma F. war zunächst der Bauunternehmer Heinrich F., der im April 1970 verstorben ist. Durch nota-
+riellen Vertrag vom 12. November 1971 übertrugen seine Erben das Geschäft mit Aktiven und Passiven sowie
+dem Recht der Firmenfortführung auf die E. Bauzubehör, Metallfenster und Fassadenbau GmbH (im folgenden: E.
+GmbH), die vom Beklagten als Geschäftsführer vertreten wurde, das zum Betriebsvermögen gehörende Grund-
+stück erwarb der Beklagte persönlich. Zum Handelsregister meldeten die Beteiligten an, daß der Beklagte (nicht
+die E. GmbH) das Unternehmen erworben habe. Diese Anmeldung wurde jedoch, bevor eine Eintragung erfolgt
+ist, am 7. Juli 1972 zurückgenommen. Die E. GmbH ist später in Konkurs gefallen.
+ 
+Vor der Übertragung des Unternehmens auf die E. GmbH hatte die Klägerin die Firma F. mit Waren beliefert und
+hierfür Wechsel genommen. Die Wechsel wurden, nachdem die Klägerin von der Unternehmensübertragung er-
+fahren hatte, prolongiert und durch die Klagewechsel ersetzt. Da diese nicht eingelöst worden sind, nimmt die
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+22/168
+äge
+ de  e agte  
+ 
+ec se e a
+e  au  a
+u g de  
+ec se su
+e ebst 
+se  u d oste  
+ 
+spruch. Sie ist der Ansicht, daß der Beklagte, nicht die E. GmbH, als Wechselannehmer hafte; jener habe ein Ver-
+tretungsverhältnis zur GmbH nicht deutlich gemacht, vielmehr habe er sich als Inhaber der Firma F. ausgegeben.
+Demgegenüber hat der Beklagte geltend gemacht, er habe die Wechsel im Namen der Firma F. angenommen und
+Inhaberin dieser Firma sei die E. GmbH. Daß er sich selbst als Erwerber der Firma F. bezeichnet habe, hat er be-
+stritten.
+ 
+Landgericht und Oberlandesgericht haben der Klage stattgegeben. Mit der Revision - die die Klägerin zurückzu-
+weisen beantragt - verfolgt der Beklagte seinen Antrag, die Klage abzuweisen, weiter.
+ 
+Gründe
+ 
+Die Revision hat keinen Erfolg.
+ 
+Das Berufungsgericht folgert aus der Anwendung der Vorschrift des § 164 Abs. 2 BGB, nicht die E. GmbH, sondern
+der Beklagte sei aus den Akzepten verpflichtet. Dieser habe dem Firmenstempel "Heinrich F., Großtischlerei" le-
+diglich seinen Namenszug hinzugefügt, ohne durch einen Vertreterzusatz oder durch Unterzeichnung unter einer
+Gesellschaftsfirma kenntlich zu machen, daß er nicht im eigenen Namen handele. In dieser Weise zeichne grund-
+sätzlich der Inhaber einer Einzelfirma. Handlungsbevollmächtigte und Prokuristen müßten einen das Vollmachts-
+verhältnis ausdrückenden Zusatz beifügen (§§ 51, 57 HGB), der Geschäftsführer einer GmbH aber zeichne unter
+der GmbH-Firma (§ 35 Abs. 3 GmbHG), die einen auf die Gesellschaftsform hinweisenden Zusatz haben müsse (§
+4 Abs. 2 GmbHG). Lediglich der persönlich haftende Gesellschafter einer offenen Handelsgesellschaft oder Kom-
+manditgesellschaft - der sich gemäß § 128 HGB selbst verpflichte - könne, wenn die Gesellschaft eine einzelkauf-
+männische Firma übernommen habe, mit dieser Firma und seinem Namen ohne Hinzufügung eines Vertreterzu-
+satzes zeichnen. Nicht durchgreifend, so meint das Berufungsgericht weiter, sei das Vorbringen des Beklagten,
+der Klägerin sei gleichgültig gewesen, wer Inhaber der Firma F. gewesen sei. Es sei zwar denkbar, daß jemand bei
+einem Geschäft mit einer Handelsfirma auf jeden Fall mit dem Firmeninhaber abschließen wolle, wer immer das
+sein möge. Die Entgegennahme eines Wechsels sei aber ein Kreditgeschäft, bei dem es dem Kaufmann zumeist
+auf die Person des Schuldners ankomme. Nichts spreche dafür, daß es hier anders gewesen sei.
+ 
+Der Revision ist einzuräumen, daß diese Ausführungen der rechtlichen Nachprüfung nicht standhalten. Im Ergeb-
+nis ist jedoch dem Berufungsgericht beizutreten.
+ 
+1.
+ 
+Für die Auslegung, wer als Wechselschuldner verpflichtet ist, kommt es in erster Linie auf die in der Wechselur-
+kunde niedergelegte Erklärung an. Die Wechselurkunde ist zum Umlauf bestimmt und bildet die Grundlage für
+den Rechtserwerb Dritter. Deshalb gilt nach ständiger Rechtsprechung der Grundsatz, daß der typische Sinn der
+Erklärung maßgebend, ist; für die Auslegung sind, abgesehen von der Urkunde selbst, nur solche Umstände her-
+anzuziehen, die einem am Begebungsvertrag nicht beteiligten Dritten mutmaßlich bekannt sind oder von ihm
+ohne Schwierigkeiten erkannt werden können (RGZ 112, 85, 86 stdg. Respr.; BGHZ 21, 155, 161 f) [BGH 28.06.1956
+- II ZR 12/55]. Typischer Sinn einer unter Angabe einer Firma abgegebenen Erklärung ist aber die Verpflichtung
+des Inhabers dieser Firma, und zwar auch dann, wenn nicht hinreichend zum Ausdruck kommt, daß der Unter-
+zeichnende mit dem Inhaber der Firma nicht identisch ist und deshalb nur als dessen Vertreter handeln konnte
+und wollte. Bei der Wechselerklärung, der regelmäßig ein Kreditgeschäft zugrunde liegt, ist das entgegen der An-
+sicht des Berufungsgerichts nicht anders. Bei ungestörtem Geschäftsablauf würde kein Kaufmann, wenn ihm eine
+Firma angegeben wird und besondere weitere Umstände bei Vertragsschluß keine Rolle gespielt haben, daran
+denken, sich nicht an diese "Firma", d.h. deren Inhaber, sondern die unterzeichnende Person zu wenden. Umge-
+kehrt würde man dem Inhaber einer Firma, unter deren Namen ein von ihm bevollmächtigter Vertreter die Unter-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+23/168
+sc
+t ge e stet at, sc
+e
+c  gestatte , se
+e e pfl
+c tu g u eug e  u d s c  da au  u be u e , de  e t e
+ter habe das Vertretungsverhältnis nicht deutlich genug gekennzeichnet. Beim später gescheiterten Geschäft -
+wenn der Firmeninhaber in Konkurs gefallen ist - ist rückblickend keine andere Beurteilung möglich. Aus der vom
+Berufungsgericht herangezogenen Auslegungsregel des § 164 Abs. 2 BGB, wonach derjenige selbst verpflichtet
+wird, dessen Wille, im fremden Namen zu handeln, nicht erkennbar hervortritt, ergibt sich für einen solchen Fall
+nichts; sie kommt nicht zum Zuge, wenn die Art und Weise der Zeichnung dem Erklärungsempfänger kenntlich
+macht, wer sein Vertragspartner ist, und lediglich unklar bleibt, ob der Erklärende selbst dieser Vertragspartner
+oder nur dessen Vertreter ist (BGHZ 62, 216, 220 f [BGH 18.03.1974 - II ZR 167/72] m.w.N.).
+ 
+Selbstverständlich gilt der Grundsatz, daß in Fällen dieser Art der Firmeninhaber verpflichtet wird, nicht, wenn die
+Vertragschließenden eine Verpflichtung des Unterzeichners gewollt haben und sich das im Einzelfall auch aus der
+Wechselurkunde und den zu ihrer Auslegung heranziehbaren Umständen ergibt. Das ist jedoch hier nicht der Fall.
+Die Wechselerklärungen des Beklagten können daher nicht so angesehen werden, als habe er sie für sich selbst
+abgegeben. Als Bezogene und Akzeptantin war auf den Wechseln jeweils die Firma F. bezeichnet. Damit wurde,
+zumal die Firma der Name des Kaufmanns im Geschäftsverkehr ist (§ 17 HGB), die E. GmbH als die Firmeninhabe-
+rin verpflichtet. Dadurch, daß der Beklagte den Firmenstempel mit seinem Namen unterzeichnet hat, ohne auf
+ein Vertretungsverhältnis hinzuweisen, konnte für einen unbeteiligten Dritten um so weniger der Eindruck entste-
+hen, daß nicht der Inhaber der Firma, sondern der Beklagte verpflichtet werden sollte, als nur die Adresse und Te-
+lefonnummer der Firma F., nicht die des Beklagten, und als Bezogene nur die Firma F. ohne Zusatz angegeben
+waren.
+ 
+Bei der Auslegung des vom Beklagten mit der Klägerin abgeschlossenen Wechselbegebungsvertrages würden al-
+lerdings die für die Auslegung der Wechsel Urkunde geltenden Einschränkungen nicht zu machen sein; insoweit
+gilt die allgemeine Regel, daß unter Berücksichtigung aller außerhalb der Wechselurkunde liegenden Umstände
+der Inhalt der Parteierklärungen zu ermitteln ist. Das kann zur Folge haben, daß sich Wechselerklärung und -be-
+gebung nicht decken, im Verhältnis von Wechselschuldner und erstem Nehmer, bei dem ein gutgläubiger Erwerb
+von Wechselrechten nicht in Betracht kommt, eine Wechselverpflichtung des Akzeptanten infolgedessen nicht
+wirksam entsteht (Jacobi, Wechsel- und Scheckrecht S. 218 zu Fn. 4) und dessen Haftung allenfalls aus anderen
+Gründen herzuleiten sein kann. Hierauf kommt es aber im vorliegenden Falle nicht an. Die Klage ist im Wechsel-
+prozeß erhoben. Der Urteilsfindung kann daher nur der unstreitige oder mit Mitteln des Urkundenprozesses
+nachgewiesene Parteivortrag zugrunde gelegt werden. Dieser gibt nichts dafür her, daß die außerurkundlichen
+Wechselerklärungen des Beklagten von seinen urkundlichen Erklärungen zu den Wechseln abweichen. Die Kläge-
+rin hat zwar behauptet, der Beklagte habe sich ihr gegenüber ausdrücklich als Inhaber der Firma F. bezeichnet
+und bei den der Wechselhingabe vorausgegangenen Vertragsverhandlungen auf seinen Grundbesitz hingewie-
+sen. Diese Behauptungen, die möglicherweise für den Begebungsvertrag zu der Auslegung führen könnten, daß
+der Beklagte persönlich Wechselschuldner sein sollte, sind jedoch vom Beklagten bestritten und mit den im Ur-
+kundenprozeß zugelassenen Beweismitteln nicht nachgewiesen worden.
+ 
+2.
+ 
+Ist demnach unter Zugrundelegung des für das Wechselvorbehaltsurteil beachtlichen Prozeßstoffs davon auszu-
+gehen, daß die E. GmbH die Wechsel angenommen hat, so ist die Auffassung des Berufungsgerichts, der Beklagte
+habe für die Wechselsumme nebst Zinsen und Kosten einzustehen, gleichwohl im Ergebnis zutreffend. Den Be-
+klagten trifft nämlich eine Verpflichtung unter dem Gesichtspunkt der Rechtsscheinhaftung, da er die Wechsel un-
+ter Verstoß gegen § 4 Abs. 2 GmbHG mit der Firma F. gezeichnet hat, ohne einen Zusatz hinzugefügt zu haben,
+der klargestellt hätte, daß Firmeninhaberin eine Gesellschaft mit beschränkter Haftung war.
+ 
+a)
+ 
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+24/168
+Ge
+äß § 35 bs. 3 G
+b G at de  Gesc ä ts ü
+e  e
+e  G
+b  
+ de  
+e se u e c
+e , daß e  de  
+a de
+Gesellschaft seine Namensunterschrift beifügt. Dabei muß die Firma nach der Bestimmung des § 4 Abs. 2
+GmbHG die zusätzliche Bezeichnung "mit beschränkter Haftung" ("mbH") enthalten. Dies gilt, wie sich aus dem
+eindeutigen Gesetzeswortlaut ergibt und in der Rechtssprechung und im Schrifttum einhellig vertreten wird, nicht
+nur für eine von der GmbH neu gebildete Firma, sondern auch, wenn, wie hier, die von einem Einzelkaufmann
+oder einer Personengesellschaft übernommene Firma fortgeführt wird (BGHZ 62, 216, 226 [BGH 18.03.1974 - II ZR
+167/72]; Baumbach/Hueck, 13. Aufl. Anm. 4 A; Brodmann Anm. 5; Schilling in Hachenburg, 6. Aufl. Anm. 19;
+Scholz, 4. Aufl. Anm. 18: alle zu § 4 GmbHG; Feine, in Ehrenb. Hdb. Bd. III 3 S. 85). Ob die Firmenfortführung im
+vorliegenden Fall erlaubt war, oder ob nicht, da eine GmbH nach h. M. nicht verschiedene Firmen haben kann
+(RGZ 85, 397, 399; 113, 213, 216), im Falle der Beibehaltung der Firma Euro GmbH diese auch auf das erworbene
+Geschäft hätte erstreckt (oder bei einer Fortführung der Firma F. als Zweigniederlassung als Hauptniederlas-
+sungszusatz hätte beigefügt) werden müssen, ist hierbei ohne Bedeutung. Denn in diesem Falle war es gemäß § 4
+Abs. 2 GmbHG geboten, mit einer Firma zu unterzeichnen, die den Zusatz "mit beschränkter Haftung" enthielt.
+ 
+b)
+ 
+Der Verstoß gegen § 4 Abs. 2 GmbHG rührt zur Rechtsscheinhaftung des Beklagten.
+ 
+Wer als GmbH-Geschäftsführer mit einer Personenfirma ohne mbH-Zusatz zeichnet, erweckt den Eindruck, der
+Firmeninhaber, für den er handelt, sei keine Kapitalgesellschaft oder sonstige, nur mit einem beschränkten Ver-
+mögen haftende juristische Person, sondern ein Einzelkaufmann oder eine Personengesellschaft, die ein einzel-
+kaufmännisches Unternehmen fortführt (zum letzteren BGHZ 62, 216, 224 ff) [BGH 18.03.1974 - II ZR 167/72];
+denn für alle juristischen Personen mit beschränkter Haftung schreibt das Gesetz die Verlautbarung der Gesell-
+schaftsform in der Firma oder im Verbandsnamen vor (vgl. außer § 4 Abs. 2 GmbHG die §§ 4, 279 AktG; 3 Abs. 2
+GenG; 65 BGB; 18 Abs. 2 VAG). Damit wird durch die Zeichnung ohne GmbH-Zusatz gesetzeswidrig ein falscher
+Anschein geschaffen. Das gesetzliche Gebot, das Fehlen einer unbeschränkten persönlichen Haftung offenzule-
+gen, geht von dem Gedanken aus, daß im Rechtsverkehr ein Bedürfnis besteht, den Geschäftspartnern hierüber
+Klarheit zu verschaffen: sei es, weil es ihnen auf die Haftung einer weiteren Vermögensmasse neben dem Ge-
+schäftsvermögen ankommt, sei es, weil man erwartet, die persönliche Einstandspflicht mit dem Privatvermögen
+werde einen Kaufmann im allgemeinen zu einer behutsameren, auch für die Gläubiger weniger risikoreichen Ge-
+schäftsführung veranlassen, während eine Haftungsbeschränkung bei Abschlüssen mit ihm häufig größere Vor-
+sicht am Platze erscheinen läßt. Dieser vom Gesetz vorausgesetzten Beurteilung, welche Bedeutung der Kenntnis
+vom Fehlen der Mithaftung einer natürlichen Person im Geschäftsverkehr zukommt, entspricht in den Fällen, in
+denen der Geschäftsführer einer GmbH die von ihm zu erwartende Offenlegung unterläßt, so im Rechtsverkehr
+unzutreffende Vorstellungen erweckt und damit die Gefahr von Dispositionen herbeiführt, die die Geschäftspart-
+ner sonst nicht oder nicht in diser Form getroffen hätten, eine Vertrauenshaftung dieses Geschäftsführers wegen
+des von ihmso geschaffenen Rechtscheins, jedenfalls darin, wenn das für die Haftung tatsächlich zur Verfügung
+stehende beschränkte Geschäftsvermögen zur Befriedigung letzten Endes nicht ausreicht.
+ 
+c)
+ 
+Die Rechtscheinhaftung des Beklagten für die Wechselverbindlichkeiten der E. GmbH setzt freilich weiterhin vor-
+aus, daß die Klägerin die wahren Verhältnisse nicht gekannt und sich im Vertrauen auf unbeschränkte Haftungs-
+verhältnisse bei der "Firma F." auf die Wechselprolongation eingelassen hat. Das darzulegen und zu beweisen, ist
+aber nicht Sache der Klägerin. Das gesetzliche Gebot, beim Handeln einer GmbH die fehlende persönliche Haf-
+tung einer natürlichen Person offenzulegen, verfolgt das Ziel, dem Rechtsverkehr insoweit einen gesteigerten Ver-
+kehrs- und Vertrauensschutz zu verschaffen. Dieser Schutzzweck würde nur höchst unvollkommen erreicht und
+die Vorschrift weitgehend entwertet werden, wenn der Geschäftspartner den meist schwierigen Nachweis führen
+müßte, daß er die wahren Verhältnisse weder gekannt hat noch kennen mußte, und daß weiterhin die Tatsache,
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+25/168
+daß de  e so efi
+a e
+ 
+b
+usat  
+uge ügt a , ü  se
+e 
+tsc
+eßu ge  auc  u säc
+c  ge ese  st.
+Soweit es sich, wie hier um die Rechtscheinhaftung als Folge des Verstoßes gegen ein gesetzliches Offenbarungs-
+gebot handelt, ist es infolgedessen sachgerecht, demjenigen, der die Rechtscheinfolgen nicht gegen sich gelten
+lassen will, in Annäherung an die gesetzlich geregelten Fälle der Rechtscheinhaftung und des Gutglaubensschut-
+zes die Beweislast dafür aufzuerlegen, daß sein Vertragsgegner die Haftungsbeschränkung kannte oder kennen
+mußte oder daß diese für ihn im konkreten Fall keine Rolle gespielt hat. Eine solche Beweislastverteilung steht
+auch im Einklang mit der Rechtsprechung des VII. Zivilsenats, nach der bei Verletzung einer vertraglichen Aufklä-
+rungspflicht die Beweislast dafür, daß diese Pflichtverletzung für die Disposition des anderen Teiles nicht ursäch-
+lich geworden ist, zu Lasten dessen geht, dem der Verstoß zur Last fällt (BGHZ 61, 118).
+ 
+d)
+ 
+Wendet man diese Rechtssätze auf den vorliegenden Fall der Rechtsscheinhaftung wegen Verstoßes gegen § 4
+Abs. 2 GmbHG an, so ergibt sich, daß der Beklagte haftet. Er hat zwar behauptet, die Klägerin habe von dem Er-
+werb der Firma F. durch die E. GmbH erfahren. Diese Behauptung ist aber von der Klägerin bestritten, und ihre
+Richtigkeit ist mit im Urkundenprozeß zugelassenen Beweismitteln nicht nachgewiesen worden.
+ 
+Im Ergebnis ist damit der Beklagte von den Vorinstanzen zu Recht verurteilt worden. Seine Revision ist
+zurückzuweisen.

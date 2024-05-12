@@ -1,0 +1,416 @@
+II ZR 167/72
+Gericht: BGH,    Datum: 18. Mär 1974,    Fundstelle: JurionRS 1974, 12464; BGHZ 62, 216
+Rechtsscheinhaftung, Vertragspartner, Auslegung bei Verwendung eines Firmennamens der mit dem Namen des
+Geschäftsführers identisch ist, Gesellschaftszusatz in der Firmenbezeichnung
+Leitsätze:
+Zur Auslegung, wer Vertragspartner ist, wenn ein Vertreter, dessen Name mit einer Firma gleichlautet, ohne
+einen die Vertretung klarstellenden Zusatz abschließt.
+Sind die Erklärungen der Parteien nach den Umständen dahin auszulegen, daß nicht der Vertragschlie-
+ßende, sondern ein Dritter Vertragspartner sein soll, so kommt der Vertrag auch dann mit dem Dritten zu-
+stande, wenn der Geschäftsgegner irrtümlich den Vertragschließenden für die Vertragspartei gehalten hat.
+Gründet ein Einzelkaufmann zur Fortführung seines Handelsgeschäfts mit einem anderen eine offene Han-
+delsgesellschaft oder Kommanditgesellschaft, so kann die bisherige Firma ohne einen Zusatz, der das Vor-
+handensein einer Gesellschaft andeutet, fortgeführt werden.
+Eine Kommanditgesellschaft, deren persönlich haftende Gesellschafterin eine GmbH ist, ist - entsprechend
+§ 4 Abs. 2 GmbHG, § 4 Abs. 2 AktG - auch bei einer abgeleiteten Firma verpflichtet, einen Zusatz wie etwa
+"GmbH & Co." in die Firma aufzunehmen.
+Zur Examensrelevanz: noch nicht bearbeitet
+Fundstellen:
+JurionRS 1974, 12464; BGHZ 62, 216; NJW 1974, 1191; MDR 1974, 913; DB 1974, 1278; DNotZ 1974, 743
+Aus dem Urteil:
+(nach JurionRS 1974, 12464 - www.recht.jurion.de)
+ 
+Tatbestand
+ 
+Der Beklagte war Inhaber eines Unternehmens in Rheydt, das sich mit der Ausführung von Bedachungs-, Isolie-
+rungs-, Blitzschutz- und Bauklempnerarbeiten befaßte und einen Großhandel mit Bedachungs-, Isolierungs- und
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+26/168
+t sc ut a t e
+ bet eb. Se t 96  a  das Gesc ä t u te  de  
+a 
+ot a  . ( a
+e des e agte ) 
+ a
+delsregister eingetragen. Ende 1967/Anfang 1968 wurde es in eine GmbH & Co. KG umgewandelt. Zu diesem
+Zweck gründete der Beklagte zusammen mit seiner Ehefrau die "K." Verwaltungsgesellschaft mit beschränkter
+Haftung" und wurde deren alleiniger Geschäftsführer. Außerdem errichteten sie unter Eintritt der GmbH und der
+Ehefrau des Beklagten in das bisherige einzelkaufmännische Unternehmen eine Kommanditgesellschaft, in der
+persönlich haftende Gesellschafterin die GmbH, Kommanditisten der Beklagte und seine Ehefrau wurden. Die bis-
+herige Firma "Lothar K." wurde von der Kommanditgesellschaft unverändert übernommen. Diese Vorgänge wur-
+den Anfang 1968 ins Handelsregister eingetragen und bekanntgemacht.
+ 
+Im Juni 1970 bestellte der Beklagte bei der Klägerin in Heizen Baumaterialien, die er, wie in der Auftragsbestäti-
+gung angegeben, "für das Bauvorhaben medizinische Fakultät der Universität Göttingen" benötigte. Für die Auf-
+tragsbestätigung und spätere Schreiben verwendete er jeweils Firmenbriefbögen, auf denen oben links der Name
+"Lothar K." (darunter nochmals der Name mit Adresse und Postfach) und oben rechts der Zusatz "Bedachungen,
+Isolierungen, Blitzschutz, Bauklempnerei, Großhandel in Bedachungsmaterial" aufgedruckt waren. Unterzeichnet
+waren die Schreiben mit der maschinengeschriebenen Unterschrift
+ 
+"LOTHAR K.
+ 
+Bedachungen"
+ 
+und dem beigefügten handschriftlichen Namenszug des Beklagten ("K."). Aufgrund der Bestellung lieferte die Klä-
+gerin im Laufe des Jahres 1971 Materialien im Werte von 43.638,32 DM, 1972 wurde über das Vermögen der
+GmbH & Co. KG das Konkursverfahren eröffnet.
+ 
+Mit der vorliegenden Klage nimmt die Klägerin den Beklagten auf Zahlung des Kaufpreises in Anspruch. Der Kauf-
+vertrag, so meint sie, sei mit ihm, nicht mit der GmbH & Co. KG zustande gekommen. Daß der Beklagte - wie er
+behauptet - im Namen der Kommanditgesellschaft gehandelt habe, sei aus der Auftragsbestätigung nicht zu er-
+kennen gewesen. Zumindest hafte er kraft Rechtsscheins.
+ 
+Das Landgericht hat den Beklagten zur Zahlung verurteilt, das Oberlandesgericht hat die Klage abgewiesen. Mit
+der Revision, die der Beklagte zurückzuweisen beantragt, möchte die Klägerin die Wiederherstellung des landge-
+richtlichen Urteils erreichen.
+ 
+Gründe
+ 
+I.
+ 
+Das Berufungsgericht gelangt zudem Ergebnis, daß nach dem Willen des Beklagten und den für die Klägerin er-
+kennbaren Umständen nicht der Beklagte, sondern die Kommanditgesellschaft Vertragspartner der Klägerin ge-
+worden sei. Schon die Verwendung von Firmenbriefbögen mit der Firma "Lothar K." spreche dafür, daß der Ver-
+trag mit dem Handelsgeschäft - der GmbH & Co. KG -, nicht mit dem Beklagten persönlich geschlossen worden
+sei. Letzte Zweifel in dieser Hinsicht würden durch den Inhalt des Vertrages ausgeräumt; ein Privatmann tätige
+nicht Käufe des vorgesehenen Umfangs, die für ein Universitätsbauvorhaben bestimmt gewesen seien. Auch der
+maschinengeschriebene Unterschriftszusatz "Lothar K. Bedachungen" weise deutlich auf das Handeln für eine
+Firma hin. Da aber die GmbH & Co. KG das einzige Unternehmen gewesen sei, das derartige Geschäfte unter der
+Firma "Lothar K." betrieben habe, habe der Vertrag nur sie betreffen können. Gegen diese Ausführungen wendet
+sich die Revision ohne Erfolg.
+ 
+1.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+27/168
+ 
+Die Revision ist der Ansicht, wegen der vom Beklagten verwendeten Firma "Lothar K." habe die Klägerin anneh-
+men müssen, nicht eine GmbH & Co. oder überhaupt eine Gesellschaft, sondern ein Einzelkaufmann sei ihr als
+Vertragspartei entgegengetreten. Ob diese Auffassung in tatsächlicher Hinsicht zutreffend ist (vgl. dazu unter   II 
+), kann im vorliegenden Zusammenhang dahinstehen. Darauf, ob die Klägerin die Firma Lothar K. für ein einzel-
+kaufmännisches Unternehmen oder eine Gesellschaft gehalten hat, kommt es nämlich für die Frage, wer Ver-
+tragspartner der Klägerin geworden ist, nicht an. Wie das Berufungsgericht festgestellt hat, wurde der Vertrag -
+dies ergab sich vor allem aus der Verwendung der Firmenbriefbögen und aus der maschinengeschriebenen Un-
+terschrift "Lothar K. Bedachungen" - mit der Firma Lothar K., d.h. mit dem Inhaber dieser Firma, nicht mit dem
+Privatmann Lothar K. geschlossen. Der Vertragsgegner war also bereits namentlich eindeutig bestimmt; denn die
+Firma Lothar K. - wobei die Firmenbezeichnung als solche erkennbar hervortrat - war ein anderer Name als der
+Personenname Lothar K.; und es lag auch nicht etwa der Sonderfall vor, daß die Art des Geschäfts oder sonstige
+Umstände ausnahmsweise darauf hindeuteten, daß ein anderer als der namentlich Bezeichnete Vertragspartei
+werden sollte; im Gegenteil, gerade der Inhalt des Vertrages bestätigte, daß im Namen der Firma, nicht im Namen
+des Privatmanns Lothar K. gehandelt wurde. Unter diesen Umständen war es unerheblich, ob sich die Klägerin
+über den Inhaber der Firma irrte, insbesondere statt der GmbH & Co. KG einen unbeschränkt haftenden Einzel-
+kaufmann als Vertragspartner annahm, und der Beklagte insoweit möglicherweise einen falschen Eindruck er-
+weckt hat. Dadurch konnte allenfalls ein Anfechtungsrecht wegen Irrtums über die Person des Vertragsgegners (§
+119 Abs. 2 BGB) oder eine Haftung des Beklagten kraft Rechtsscheins begründet werden (vgl. dazu unter   II  ); die
+Auslegung, daß der Inhaber der Firma Lothar K. Vertragspartei wurde, wurde durch all dies nicht berührt.
+ 
+2.
+ 
+Für ihre Auffassung, daß der Vertrag mit dem Beklagten persönlich zustande gekommen sei, beruft sich die Revi-
+sion weiterhin auf den vertretungsrechtlichen Grundsatz, daß ein Rechtsgeschäft nur dann mit dem Vertretenen
+zustandekommt, wenn der Wille, im fremden Namen zu handeln, für den Gegner erkennbar geworden ist. Diese
+Voraussetzung, so meint die Revision, sei im vorliegenden Fall nicht erfüllt; der Beklagte habe in seinen Erklärun-
+gen ein Vertreterhandeln nicht zum Ausdruck gebracht; insbesondere habe er nicht im Namen der Komplemen-
+tär-GmbH, deren Geschäftsführer er gewesen sei, sondern unmittelbar im Namen der Firma Lothar K. (GmbH &
+Co. KG) unterzeichnet und damit den Eindruck erweckt, der Unterzeichnende ("K.") und der Inhaber der Firma K.
+seien identisch. Auch insoweit kann jedoch der Revision nicht gefolgt werden.
+ 
+Fraglich ist auch hier, ob nicht bereits ihr tatsächlicher Ausgangspunkt unzutreffend ist, das Auseinanderfallen
+von Vertragsschließendem (Beklagtem) und Vertragspartei (GmbH & Co. KG) sei für die Klägerin nicht erkennbar
+gewesen; möglicherweise muß sich nämlich die Klägerin gemäß § 15 Abs. 2 HGB den Inhalt des Handelsregisters
+entgegenhalten lassen, aus dem sich ergab, daß Inhaber der Firma Lothar K. eine Gesellschaft war, die nicht an-
+ders als durch Vertreter (Gesellschaftsorgane, Angestellte oder sonstige Bevollmächtigte) handeln konnte. Diese
+Frage kann jedoch offenbleiben. Denn jedenfalls findet der von der Revision herangezogene Grundsatz, daß man-
+gels Erkennbarkeit des Vertreterwillens das Geschäft mit dem Vertreter zustande kommt, im vorliegenden Fall
+keine Anwendung: Daß ohne Kundgabe des Vertreterwillens der Vertreter Vertragspartei wird (vgl. § 164 Abs. 1
+und 2 BGB), ist kein ausnahmslos geltender Rechtssatz, sondern nur eine Auslegungsregel. Ergeben die Um-
+stände, daß trotz fehlender Erkennbarkeit eines Vertreterhandelns ein Dritter Vertragspartei sein soll - so bei-
+spielsweise in gewissen Fällen des Handelns unter fremdem Namen (vgl. RGZ 87, 144; 145, 81, 91 f; BGH, Urt. v.
+29.9.51 -   II ZR   62/51, LM WG Art. 7 Nr. 1; BGHZ 45, 193) oder wenn bei einem betriebsbezogenen Geschäft der
+Geschäftsgegner den Vertreter für den Betriebsinhaber hält (vgl. RGZ 30, 77; 67, 148; JW 1921, 1309 Nr. 4 = Seuff-
+Arch. 76 Nr. 176; BGH, Urt. v. 27.6.57 -   II ZR   104/56, WM 1957, 1284 = BB 1957, 1014; OLG Dresden, SeuffArch.
+68 Nr. 74; OLG Rostock, SeuffArch. 68 Nr. 226; OLG München, HRR 1942 Nr. 425; OLG Celle, NJW 1963, 1253; Be-
+trieb 1963, 547; OLG Stuttgart, NJW 1973, 629) -, so kommt der Vertrag, wie in den genannten Entscheidungen
+ausgesprochen, mit dem Dritten zustande. Der Vertretungsrechtliche Offenkundigkeitsgrundsatz wird in diesen
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+28/168
+ä e  u  
+ u
+ese t c e  
+s c t du c b oc e , 
+so e
+ ä
+c , a s das use
+a de a e  o  e t ags
+schließendem und Vertragspartei verborgen bleibt; dagegen wird der hauptsächliche Zweck erreicht, die Person
+des Vertragsgegners für den Geschäftspartner von vornherein eindeutig erkennbar zu machen (vgl. Mot. I 225;
+Flume, Allg. Teil   II   S. 764). Im vorliegenden Fall aber ist - wenn man im Sinne der Revision die mangelnde Er-
+kennbarkeit des Aus einanderfallens von Vertragsschließendem und Vertragspartei unterstellt - ein solches Ver-
+tretergeschäft ohne Kundgabe des Vertreterwillens anzunehmen. Da es sich um ein unternehmensbezogenes Ge-
+schäft handelte und im Namen der Firma Lothar K. gehandelt wurde, sollte, wie das Berufungsgericht feststellt,
+der Inhaber dieser Firma Vertragspartner der Klägerin sein. Dies war für die Bestimmung der Vertragspartei ent-
+scheidend.
+ 
+3.
+ 
+Unbegründet ist schließlich die Rüge der Revision, das Berufungsgericht habe bei der Auslegung, wer als Vertrags-
+partei anzusehen war, unter Verletzung des § 286 ZPO die Möglichkeit außer Betracht gelassen, daß auch der Be-
+klagte, der von Beruf Handwerker war, als solcher außerhalb des Unternehmens der GmbH & Co. KG im Ge-
+schäftsverkehr auftreten konnte. Handelt es sich - wie im vorliegenden Fall - um einen eindeutig auf ein Handels-
+geschäft bezogenen Vertrag und soll ersichtlich der Inhaber des Handelsgeschäfts Vertragspartner werden, so
+kommt es nicht auf die Möglichkeit an, wer Inhaber sein könnte, sondern darauf, war es tatsächlich ist. Dafür, daß
+der Beklagte tatsächlich außerhalb der GmbH & Co. KG noch unternehmerisch tätig geworden wäre und hierbei
+die bestellten Baumaterialien benötigt hatte, gibt aber der Parteivortrag keinerlei Anhaltspunkt.
+ 
+II  .
+ 
+Ist danach Vertragspartner der Klägerin nicht der Beklagte, sondern die GmbH & Co. KG geworden, so kann sich
+nur fragen, ob der Beklagte unter dem Gesichtspunkt der Rechtsscheinhaftung neben der GmbH & Co. KG in An-
+spruch genommen werden kann. Auch dies ist im Ergebnis zu verneinen.
+ 
+1.
+ 
+Eine Rechtsscheinhaftung des Beklagten könnte sich daraus ergeben, daß durch ihn die GmbH & Co. KG gegen-
+über der Klägerin unter der bloßen Firma "Lothar K." aufgetreten ist, ohne einen Zusatz zu verwenden, der das
+Vorhandensein einer Gesellschaft und insbesondere die Gesellschaftsform der GmbH & Co. KG klarstellte. Eine
+solche Firmenführung, so meint die Revision, sei aus zweierlei Gründen unzulässig gewesen: Eine offene Handels-
+oder Kommanditgesellschaft, die gemäß §§ 22, 24 Abs. 1 HGB die Firma eines Einzelkaufmanns fortführe, müsse
+einen das Vorhandensein einer Gesellschaft andeutenden Zusatz beifügen; und eine GmbH & Co. KG, deren per-
+sönlich haftende Gesellschafter ausschließlich beschränkt haftende Gesellschaften seien, müsse dies in entspre-
+chender Anwendung des § 4 GmbHG durch einen Firmenzusatz offenbaren. Der Beklagte habe das nicht beachtet
+und deshalb bei der Klägerin den Anschein erweckt, ihr Vertragspartner sei ein Einzelkaufmann, möglicherweise
+auch eine Gesellschaft mit wenigstens einer unbeschränkt haftenden natürlichen Person als Gesellschafter.
+ 
+a)
+ 
+Der Revision ist einzuräumen, daß die Führung einer Firma ohne den gesetzlich vorgeschriebenen Gesellschafts-
+zusatz unter Umständen eine Rechtsscheinhaftung zur Folge haben kann. Tritt etwa der geschäftsführende Ge-
+sellschafter einer GmbH mit einem Dritten in Geschäftsbeziehung und gibt er in der geschäftlichen Korrespon-
+denz nur die Firma ohne die gemäß § 4 Abs. 2 GmbHG erforderliche zusätzliche Bezeichnung "mit beschränkter
+Haftung" an, so kann er dadurch - insbesondere wenn es sich nicht um eine Sach-, sondern um eine Personen-
+firma handelt - den Anschein eines Einzelkaufmanns oder einer Gesellschaft mit mindestens einem unbeschränkt
+haftenden Gesellschafter schaffen. Hieraus kann eine unbeschränkte persönliche Haftung kraft Rechtsscheins fol-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+29/168
+ge . aß s c  d e 
+c e  e
+ä t
+sse de  Gese sc a t aus de
+ a de s eg ste  e gebe  u d 
+tte ge
+äß §
+15 Abs. 2 HGB die bekannt gemachten Handelsregistereintragungen gegen sich gelten lassen müssen, steht der
+Haftung nicht unbedingt entgegen. Wie in der Rechtsprechung und im Schrifttum anerkannt, kann ein spezieller
+Vertrauenstatbestand gegenüber der Verlautbarung des Handelsregisters vorrangig sein (vgl. BGHZ 17, 13; BGH,
+Urt. v. 22.2.56 - IV   ZR   303/55, LM BGB § 242 [E] Nr. 8 m.w.N.; BGH, Urt. v. 8.5.72 -   II ZR 170/69, LM HGB § 15 Nr.
+4; H. P. Vestermann, Vertragsfreiheit und Typengesetzlichkeit im Recht der Personengesellschaften S. 264 f; Gott-
+hardt, JZ 1971, 312 ff; Stimpel, ZGR 1973, 73, 89 ff; Baumbach/Duden, HGB 20. Aufl. § 15 Anm. 3 D); dies muß auch
+für die neue Fassung des § 15 Abs. 2 HGB gelten, der nicht mehr darauf abstellt, ob die Nichtkenntnis der Han-
+delsregistereintragung auf Verschulden beruht. Würde man, wenn entgegen den Vorschriften der §§ 4 Abs. 2
+GmbHG, 4 AktG, 3 Abs. 1 GenG, 18 Abs. 2 Satz 2 VAG eine Firma ohne Angabe der Gesellschaftsform verwendet
+worden ist, in Anwendung des § 15 Abs. 2 HGB eine Rechtsscheinhaftung grundsätzlich verneinen, so würde der
+Zweck der genannten Vorschriften vereitelt werden, die beschränkte Haftung einer Gesellschaft schon aus der
+Firma, d.h. ohne Einsichtnahme des Handelsregisters erkennbar werden zu lassen.
+ 
+Im vorliegenden Fall braucht jedoch die Frage, ob und unter welchen Voraussetzungen ein durch unzulässigen Fir-
+mengebrauch verursachter Rechtsschein trotz entgegenstehender Eintragung im Handelsregister zur Haftung
+führen kann, nicht näher geprüft zu werden. Entgegen der Auffassung der Revision ist nämlich durch den Ge-
+brauch der Firma Lothar K. ein falscher Anschein, es handele sich um einen Einzelkaufmann oder um eine Gesell-
+schaft mit wenigstens einer natürlichen Person als persönlich haftendem Gesellschafter, nicht erweckt worden.
+ 
+b)
+ 
+Unzutreffend ist die in erster Linie vertretene Ansicht der Revision, jede Art von Personenhandelsgesellschaft, die
+gemäß §§ 22, 24 Abs. 1 HGB eine einzelkaufmännische Firma fortführt, müsse der Firma irgend einen das Gesell-
+schaftsverhältnis andeutenden Zusatz beifügen. § 19 HGB, der für die Firma der offenen Handels- und der Kom-
+manditgesellschaft einen Gesellschaftszusatz vorschreibt, gilt nur für den Fall der Neubildung der Firma; dies ent-
+spricht der nahezu einhelligen Auffassung in Schrifttum und Rechtsprechung (Würdinger, Großkomm. HGB 3.
+Aufl. § 22 Anm. 44, § 24 Anm. 8; Schlegelberger/Schröder, HGB 5. Aufl. § 22 Anm. 20; Baumbach/Duden, HGB 20.
+Aufl. §§ 22, 23 Bem. 2 C, § 24 Bem. 2 A; Hueck, Recht der oHG 4. Aufl. S. 12 - jeweils m.w.N.). Daß im Fall der Fir-
+menfortführung eine einzelkaufmännische Firma regelmäßig ohne Gesellschaftszusatz beibehalten werden darf,
+ergibt sich zweifelsfrei aus der früheren Fassung des § 22 HGB: Bis zum Inkrafttreten des Aktiengesetzes von 1937
+war dem heutigen § 22 Abs. 1 HGB, der für den Fall des Erwerbs eines Handelsgeschäfts die unveränderte Fort-
+führung der Firma zuläßt, ein zweiter Satz angefügt, wonach die Verpflichtung einer Aktiengesellschaft oder Kom-
+manditgesellschaft auf Aktien unberührt blieb, die Bezeichnung "Aktiengesellschaft" bzw. "Kommanditgesellschaft
+auf Aktien" in ihre Firma aufzunehmen (§ 20 HGB a.F.). Aus dieser Gesetzesfassung war im Wege des Gegen-
+schlusses zu folgern, daß bei der offenen Handels- und Kommanditgesellschaft die gemäß § 19 Abs. 1 und 2 HGB
+grundsätzlich ebenfalls bestehende Verpflichtung, einen Gesellschaftszusatz in die Firma aufzunehmen, für den
+Fall der Firmenfortführung nicht galt; dies entsprach auch dem Willen der Gesetzesverfasser (vgl. Denkschr. z.
+HGB S. 38 f). Im Zuge der Aktienrechtsnovelle von 1937 wurde sodann § 22 Abs. 1 Satz 2 - wie die sonstigen akti-
+enrechtlichen Bestimmungen - aus dem HGB entfernt und eine entsprechende Vorschrift, der heutige § 4 Abs. 2,
+in das Aktiengesetz aufgenommen. Damit war zwar die Bedeutung des § 22 Abs. 1 Satz 1 in seinem Verhältnis zu
+§ 19 Abs. 1 und 2 HGB nicht mehr so eindeutig wie früher. Da es sich jedoch insoweit um eine lediglich redaktio-
+nelle Gesetzesänderung handelte, ist für die Auslegung des § 22 Abs. 1 HGB auch jetzt noch die frühere Fassung
+des Gesetzes bedeutsam.
+ 
+Die tatsächliche Entwicklung erfordert insoweit ebenfalls keine andere Beurteilung. Nicht beigetreten werden
+kann der Ansicht der Revision, wenn im Falle der Fortführung einer Gesellschaftsfirma durch einen Einzelkauf-
+mann der Gesellschaftszusatz zu streichen sei (vgl. BGHZ 44, 286; 53, 65, 68 ff), so müsse folgerichtig bei Fortfüh-
+rung eines einzelkaufmännischen Geschäfts durch eine Gesellschaft ein Gesellschaftszusatz beigefügt werden.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+30/168
+e de ä e ege  
+c t g e c . 
+e e so e gese sc a t, be  de  
+e
+e e e so e  a te , d e Gesc ä ts ü
+u g
+in der Regel von mehreren Gesellschaftern kontrolliert wird und das Betriebsvermögen weitergehend als beim
+Einzelkaufmann vom Privat vermögen der Gesellschafter getrennt ist, gilt im Geschäftsverkehr vielfach als beson-
+ders kreditwürdig. Daher besteht im Fall der Firmenübertragung von einer Gesellschaft auf einen Einzelkaufmann
+ein stärkeres Bedürfnis, entsprechend dem Grundsatz der Firmenwahrheit den Inhaberwechsel offenzulegen, als
+wenn umgekehrt eine einzelkaufmännische Firma auf eine Gesellschaft übertragen wird.
+ 
+Aus ihrer generellen Ansicht, irgend ein Gesellschaftszusatz sei jedenfalls erforderlich gewesen, kann die Revision
+daher schon aus diesen Gründen keine Rechtscheinhaftung herleiten.
+ 
+c)
+ 
+Eine andere, nicht aus den §§ 19 ff HGB zu beantwortende Frage ist es, ob der Firma Lothar Krause ein Zusatz wie
+etwa GmbH & Co. KG hätte hinzugefügt werden müssen und ob sich die Klägerin, weil das nicht geschehen ist, auf
+einen Rechtsschein berufen kann, Inhaber der Firma K. sei ein Einzelkaufmann oder eine Gesellschaft mit mindes-
+tens einer natürlichen Person als persönlich haftendem Gesellschafter gewesen. Auch das ist jedoch im Ergebnis
+zu verneinen.
+ 
+aa)
+ 
+Zuzustimmen ist freilich der Auffassung der Revision, daß eine handelsrechtliche Personengesellschaft, deren
+persönlich haftende Gesellschafterin eine GmbH ist, zur Führung des Firmenzusatzes "GmbH & Co." verpflichtet
+ist. Für den Fall der Firmenneubildung ergibt sich dies bereits aus § 19 Abs. 1 und 2 HGB, wonach die Firma den
+Namen wenigstens eines persönlich haftenden Gesellschafters - hier also: den Namen der Komplementär-GmbH
+- mit einem Gesellschaftszusatz enthalten muß. Handelt es sich hingegen um eine abgeleitete Firma - wenn das
+Unternehmen eines Einzelkaufmanns oder einer Personengesellschaft auf eine GmbH & Co. übertragen wird (§
+22 Abs. 1 HGB) oder wenn, wie hier, eine GmbH unter Übernahme der Stellung des persönlich haftenden Gesell-
+schafters in das Geschäft eines Einzelkaufmanns oder einer Gesellschaft eintritt (§ 24 HGB) -, so folgt die Notwen-
+digkeit des "GmbH & Co."-Zusatzes aus der entsprechenden Anwendung der §§ 4 Abs. 2 GmbHG, 4 Abs. 2 AktG.
+Dies ergibt sich aus folgendem:
+ 
+Die §§ 4 Abs. 2 GmbHG, 4 Abs. 2 AktG bestimmen ausdrücklich, daß bei der GmbH und Aktiengesellschaft - an-
+ders als bei den Personengesellschaften des Handelsrechts - nicht nur die neu gebildete, sondern auch die abge-
+leitete Firma einen die Gesellschaftsform verdeutlichenden Zusatz enthalten muß. Der Grund für diese, gegen-
+über den Personengesellschaften strengere Durchführung des Prinzips der Firmenwahrheit liegt darin, daß sich
+die genannten Kapitalgesellschaften hinsichtlich der Kreditgrundlage von einem einzelkaufmännischen Unterneh-
+men oder einer Personengesellschaft wesentlich unterscheiden. Während der Einzelkaufmann oder die persön-
+lich haftenden Gesellschafter einer Personengesellschaft für die Geschäftsverbindlichkeiten nicht nur mit ihrem
+gesamten gegenwärtigen Vermögen - Geschäfts- und Privatvermögen -, sondern auch mit dem zukünftigen Ver-
+mögen haften und im Falle der Insolvenz besonderen persönlichen Verpflichtungen unterliegen (vgl. § 807 ZPO,
+§§ 100 f, 125 KO, §§ 68 f VerglO), ist die Haftung bei den Kapitalgesellschaften von vornherein auf eine bestimmte
+Vermögensmasse - das Gesellschaftsvermögen - beschränkt; ist das Vermögen erschöpft, so kommt eine Befriedi-
+gung der Gesellschaftsverbindlichkeiten für die Zukunft nicht mehr in Frage. Dieses Fehlen der persönlichen Ein-
+standspflicht, die einen Kaufmann im allgemeinen in erhöhtem Maße zu einer vorsichtigen, die Belange der Gläu-
+biger hinreichend berücksichtigenden Geschäftsführung veranlaßt, stellte den Gesetzgeber vor die Aufgabe, ei-
+nerseits die ungenügende persönliche Kreditgrundlage mach Möglichkeit durch besondere Gläubigerschutzbe-
+stimmungen auszugleichen (vgl. etwa §§ 30 f GmbHG, § 57 i.V.m. §§ 62, 93 Abs. 3 Nr. 1 AktG; §§ 63 f GmbHG, § 207
+Abs. 1 KO, § 93 Abs. 3 Nr. 6 AktG im Unterschied zu §§ 102, 210 Abs. 2 Satz: 1 KO), andererseits aber dafür zu sor-
+gen, daß das Fehlen der persönlichen Haftung im Geschäftsverkehr in ausreichender Weise offengelegt wird.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+31/168
+ 
+Dieser Grund für die verschärfte firmenrechtliche Publizität gemäß § 4 Abs. 2 GmbHG, § 4 AktG nötigt dazu, die
+genannten Bestimmungen auf die GmbH & Co. entsprechend anzuwenden. Die GmbH & Co. ist zwar der Form
+nach eine Personengesellschaft. Sachlich handelt es sich aber um eine Gesellschaft mit beschränkter Haftung, die
+insoweit der GmbH oder Aktiengesellschaft näher steht als einer normalen offenen Handels- oder Kommanditge-
+sellschaft: Wie bei den Kapitalgesellschaften ist die Haftung für die Verbindlichkeiten des Unternehmens auf eine
+bestimmte Vermögensmasse - das Gesellschaftsvermögen der Komplementär-GmbH und die Kommanditeinla-
+gen - beschränkt, und es fehlt, ebenso wie bei der GmbH oder der Aktiengesellschaft, die persönliche Haftung na-
+türlicher Personen als wesentliches gläubigerschützendes Element. Die Gefährdung der Gläubiger - die durch den
+auf die beschränkte Haftung hinweisenden Firmenzusatz klargestellt werden soll - ist aber noch größer als bei der
+GmbH oder Aktiengesellschaft. Denn die besonderen Gläubigerschutzbestimmungen des GmbH- bzw. Aktien-
+rechts gelten bei der GmbH & Co. in erster Linie nur für die Komplementär-GmbH, deren Vermögen vielfach nur
+einen geringen Bruchteil des Firmenkapitals ausmacht, und für die GmbH & Co. allenfalls mit Einschränkungen.
+ 
+bb)
+ 
+War damit die Kommanditgesellschaft Lothar Krause entsprechend § 4 Abs. 2 GmbHG, § 4 Abs. 2 AktG verpflich-
+tet, ihrer Firma den Zusatz "GmbH & Co." beizufügen, so ist gleichwohl im vorliegenden Fall ein Rechtsschein, daß
+es sich wegen des fehlenden Zusatzes nicht um eine GmbH & Co. handeln könne, nicht erzeugt worden. Zwar
+kann der Geschäftsverkehr, wenn nach dem Gesetz bestimmte Tatsachen zu offenbaren sind, grundsätzlich da-
+von ausgehen, daß das Gesetz beachtet wird und somit, wenn es an einer Offenbarung fehlt, der betreffende Tat-
+bestand nicht erfüllt ist. Dies gilt jedoch nur für den Normalfall. Im vorliegenden Fall hingegen war die Verpflich-
+tung, die Gesellschaftsform der GmbH & Co. in der Firma zu verlautbaren, nicht ohne weiteres ersichtlich. Sie er-
+gab sich nicht unmittelbar aus dem Gesetz, sondern nur aus einer entsprechenden Gesetzesanwendung, und war
+insbesondere in der Rechtspraxis nicht allgemein anerkannt; überwiegend in der Literatur, insbesondere in den
+gängigen Erläuterungsbüchern, in der höchstrichterlichen Rechtsprechung und - jedenfalls zum Teil - auch von
+den Registergerichten wurde bislang die Auffassung vertreten, die abgeleitete Firma einer GmbH & Co. sei ohne
+den Zusatz "GmbH & Co." zulässig (vgl. RFH, RStBl. 1929, 329; BayObLG, NJW 1966, 2173 = GmbHRdsch. 1966, 253
+m. Anm. Hesselmann; Baumbach/Duden, HGB 18. Aufl. § 24 Anm. 2 A; Böttcher/Beinert/Hennerkes, GmbH & Co.
+2. Aufl. S. 52 f; Herrmann, GmbHRdsch. 1967, 96; Hesselmann, RPfleger 1958, 368, 370; ders. Hdb. der GmbH &
+Co. KG 9. Aufl. S. 89 f; Köhler, StbJb 1954/55, 233, 258 f; Riechert, Betrieb 1956, 493, 495 f; Sudhoff in: Aktuelle Pro-
+bleme der GmbH & Co. S. 58 ff; Zintzen, GmbHRdsch. 1953, 23; ebenso neuerdings Klunzinger, Betrieb 1973, 1881
+ff; Reinhardt, Gesellschaftsrecht Rz. 867; Schilling, Großkomm. HGB 3. Aufl. § 161 Anm. 24; Sudhoff, der Gesell-
+schaftsvertrag der GmbH & Co. 2. Aufl. S. 123; a. A. H. Gohl, Die abgeleitete Firma der GmbH & Co., Diss. Köln
+1967 S. 43 ff, insbs. S. 82; Haas, GmbH-Rdsch. 1969, 20 ff; Schlegelberger/Schröder a.a.O. § 22 Anm. 20; vgl. auch
+Mertens, GmbHRdsch. 1967, 45, 48).
+ 
+Bei dieser Sachlage konnte niemand davon ausgehen, jene Verpflichtung werde als solche erkannt und im Rechts-
+verkehr beachtet.
+ 
+2.
+ 
+Ist damit eine Rechtsscheinhaftung unter firmenrechtlichen Gesichtspunkten zu verneinen, so läßt sich eine sol-
+che Haftung auch nicht daraus herleiten, daß der Beklagte die an die Klägerin gerichteten Schreiben jeweils mit
+seinem Namen und der Firma "Lothar K." gezeichnet hat, ohne hervorzuheben, daß er als Geschäftsführer der
+Komplementär-GmbH, die die GmbH & Co. KG vertrat, handelte. Daß der GmbH-Geschäftsführer in einer GmbH
+& Co. im Namen der GmbH, die Vertreterin der Kommanditgesellschaft ist, zeichnet, ist üblich, aber nicht notwen-
+dig. Mag der Geschäftsführer auch, wenn man das gesellschaftliche Innenverhältnis betrachtet, grundsätzlich
+nicht zur GmbH & Co., sondern zur Komplementär-GmbH in unmittelbaren Rechtsbeziehungen stehen, so ist er
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+32/168
+doc  
+c t ge öt gt, be  de  e c
+u g ü  d e o
+a d tgese sc a t deut c  u 
+ac e , daß e  
+ ( o  de
+GmbH) abgeleiteter Vertretungsmacht handelt.
+ 
+Die Verpflichtung, im Namen der GmbH zu zeichnen, läßt sich - entgegen der Ansicht des OLG Köln, MDR 1970,
+145, 146 - auch nicht aus § 35 Abs. 3 GmbHG herleiten. Die genannte Bestimmung besagt nur, daß die GmbH-
+Firma der Unterschriftszeichnung beizufügen ist, wenn im Namen einer GmbH Erklärungen abgegeben werden;
+dagegen läßt sich aus ihr nicht entnehmen, daß die Komplementär-GmbH bezeichnet werden muß, wenn ihr Ge-
+schäftsführer im Namen der GmbH & Co. handelt. § 35 Abs. 3 GmbHG könnte für die GmbH & Co. allenfalls die
+Bedeutung haben, daß er - ebenso wie § 4 Abs. 2 GmbHG - hinsichtlich der GmbH & Co. als solcher entsprechend
+anwendbar wäre mit der Folge, daß die für die Kommanditgesellschaft abgegebenen Erklärungen mit der Na-
+mensunterschrift und der Gesellschaftsfirma ("GmbH & Co.") zu zeichnen wären; damit würde erreicht, daß nicht
+nur, wenn die Firma der Kommanditgesellschaft im Geschäftsverkehr gebraucht wird, der firmenmäßige Hinweis
+auf die beschränkte Haftung zu geben ist (dies folgt bereits aus der entsprechenden Anwendung des § 4 Abs. 2
+GmbHG) sondern darüber hinaus, daß bei allen schriftlichen Erklärungen im Namen der GmbH & Co. mit der
+Firma zu zeichnen ist, womit - wegen der entsprechenden Anwendung des § 4 Abs. 2 GmbHG - firmenmäßig die
+beschränkte Haftung klargestellt werden würde. Ob § 35 Abs. 3 GmbHG in dieser Weise auf die GmbH & Co. anzu-
+wenden ist, braucht jedoch im vorliegenden Fall nicht erörtert zu werden. Denn der Beklagte hatte mit der Firma
+der GmbH & Co. gezeichnet. Diese enthielt nur nicht den entsprechend § 4 Abs. 2 GmbHG notwendigen Zusatz
+"GmbH & Co."; das aber konnte, wie dargelegt, keine Rechtsscheinhaftung begründen.
+ 
+Im Ergebnis läßt sich damit feststellen, daß aus der Zeichnung mit "Firma Lothar K." ein Rechtsschein, die vertre-
+tene Firma sei keine GmbH & Co, nicht erzeugt worden ist.
+ 
+3.
+ 
+Schließlich ergibt sich eine Rechtsscheinhaftung des Beklagten auch nicht aus der Besonderheit des vorliegenden
+Falles, daß der Beklagte, mit dessen Namen die Firma des Unternehmens gebildet worden war, nach der Über-
+nahme der Firma durch die GmbH & Co. KG deren Kommanditist geworden war und weiterhin als ihr Geschäfts-
+führer - als Geschäftsführer der die Kommanditgesellschaft vertretenden GmbH - aufgetreten ist. Ob und unter
+welchen Voraussetzungen der geschäftsführende Kommanditist in einem solchen Fall den Wechsel des Firmenin-
+habers gegenüber Geschäftspartnern offenbaren muß, die mit ihm schon früher, als er noch Einzelkaufmann
+war, in geschäftlichen Beziehungen gestanden haben, braucht hier nicht erörtert zu werden (vgl. dazu das zit. Urt.
+d. Sen. LM HGB § 15 Nr. 4). Denn die Klägerin ist mit der GmbH & Co. KG erstmals 1970 in Verbindung getreten,
+als das einzelkaufmännische Geschäft des Beklagten schon seit längerer Zeit auf die Kommanditgesellschaft
+übertragen worden war. Damit scheidet eine Rechtsscheinhaftung wegen Vertrauens auf den früheren Rechtszu-
+stand ohne weiteres aus.
+ 
+4.
+ 
+Nach allem hat das Berufungsgericht die Klage im Ergebnis zu Recht abgewiesen.

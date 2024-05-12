@@ -1,0 +1,84 @@
+II ZR 62/75
+Gericht: BGH,    Datum: 1. Dez 1975,    Fundstelle: DRsp Nr. 1996/14786; BGHZ 65, 309
+§ 15 HGB: Umfang des Vertrauensschutzes in die Richtigkeit des Handelsregisters; Haftung des ausgeschiedenen
+Komplementärs einer KG
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+126/168
+e tsät e:
+a. Der durch § 15 Abs. 1 HGB gewährte Vertrauensschutz setzt nicht voraus, daß derjenige, der sich auf das
+Handelsregister beruft, es tatsächlich eingesehen hat; das Gesetz läßt vielmehr bereits die dem Geschäfts-
+verkehr ganz allgemein gegebene Möglichkeit, sich anhand des Registers zu informieren, ausreichen.
+b. § 15 Abs. 1 HGB erklärt die Geltendmachung einer nicht eingetragenen Tatsache nur gegenüber einem Drit-
+ten für unzulässig, nicht aber gegenüber demjenigen, in dessen Angelegenheiten die Tatsache einzutragen
+war; diesem gegenüber kann sich der Dritte jederzeit auf die wirkliche Rechtslage berufen, wenn ihm das
+günstiger erscheint.
+c. Ein ausgeschiedener Komplementär, der nur gemeinschaftlich vertretungsberechtigt war und dessen Aus-
+scheiden aus der KG im Handelsregister weder eingetragen noch bekannt gemacht worden ist, haftet ei-
+nem Dritten gem. §§ 161 Abs. 2, 128 HGB für Verbindlichkeiten, die der verbliebene Gesellschafter für die
+nunmehr von ihm allein vertretene Gesellschaft begründet hat.
+Zur Examnsrelevanz: noch nicht bearbeitet
+Fundstellen:
+DRsp Nr. 1996/14786; BGHZ 65, 309; JuS 1976, 537; MDR 1976, 295; NJW 1976, 569
+Aus dem Urteil:
+(nach DRsp Nr. 1996/14786 - www.deubner-recht.de)
+Tatbestand
+Der Beklagte war neben dem Kaufmann K persönlich haftender Gesellschafter der B KG, die eine Maschinenfa-
+brik betreibt. Nach dem Gesellschaftsvertrag und dem Inhalt des Handelsregisters waren beide Gesellschafter
+nur gemeinschaftlich zur Vertretung der Gesellschaft berechtigt. Mit Wirkung vom 1. Oktober 1972 schied der Be-
+klagte aus der Gesellschaft aus; dies wurde jedoch erst im November 1973 im Handelsregister eingetragen und
+bekanntgemacht. In der Zwischenzeit bestellte die B KG Waren bei der Klägerin. Diese erteilte über die Lieferun-
+gen zwei Rechnungen vom 9. Februar und 6. März 1973 über 2.546,78 DM und 562,77 DM. Da die B KG nicht
+zahlte, erwirkte die Klägerin gegen die Gesellschaft sowie gegen Kersten und den Beklagten über den Gesamtbe-
+trag von 3.109,55 DM zuzüglich 6 DM Mahnspesen einen Zahlungsbefehl, der gegen die beiden ersteren rechts-
+kräftig für vollstreckbar erklärt wurde. Gegen den Beklagten erging ein Versäumnisurteil, gegen das er Einspruch
+einlegte.
+Die Klägerin hat geltend gemacht, der Beklagte hafte ihr, weil sein Ausscheiden aus der Gesellschaft bei Bestel-
+lung und Lieferung der Waren noch nicht im Handelsregister eingetragen gewesen sei. Demgegenüber hat der
+Beklagte eingewandt: Berufe sich die Klägerin auf das Handelsregister, so müsse sie sich auch entgegenhalten
+lassen, daß er, wäre er noch persönlich haftender Gesellschafter gewesen, als Gesamtvertreter bei Abschluß der
+Kaufverträge hätte mitwirken müssen und, da dies nicht geschehen sei, die Verträge unwirksam gewesen wären.
+Landgericht und Oberlandesgericht haben das gegen den Beklagten ergangene Versäumnisurteil aufrechterhal-
+ten. Mit der zugelassenen Revision, deren Zurückweisung die Klägerin beantragt, verfolgt der Beklagte seinen Kla-
+geabweisungsantrag weiter.
+Gründe
+Das Berufungsgericht bejaht die Haftung des Beklagten nach § 128 HGB, weil er gemäß § 15 Abs. 1 HGB der Klä-
+gerin die Tatsache seines zwischenzeitlichen Ausscheidens aus der Gesellschaft mangels Eintragung im Handels-
+register nicht entgegenhalten könne. Daß der andere, jetzt allein persönlich haftende Gesellschafter K, wäre der
+Beklagte nicht ausgeschieden, nur zusammen mit diesem zur Vertretung der Gesellschaft befugt gewesen wäre,
+hält das Berufungsgericht für unerheblich, weil es für das Zustandekommen des Vertrages mit der Gesellschaft
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+127/168
+u  au  d e be  e t agssc
+uß beste e de  a
+e  e
+ä t
+sse a
+o
+e; § 5 bs.  G  d e e 
+c t da u,
+denjenigen, in dessen Angelegenheiten eine Tatsache einzutragen sei, auf Kosten eines Dritten zu entlasten, wenn
+ihn eine Haftung treffe.
+Diesen Ausführungen (ebenso Würdinger, HGB-RGRK 3. Aufl. § 15 Anm. 12) ist beizutreten. Die Ansicht der Revi-
+sion, der Handelsregisterinhalt könne nur in seiner Gesamtheit gewürdigt werden und derjenige, der sich hin-
+sichtlich einer Tatsache auf das Handelsregister berufe, müsse sich entsprechend dem Gesamtinhalt des Regis-
+ters behandeln lassen, findet im Gesetz keine Stütze. Gegen sie spricht bereits der Wortlaut des § 15 Abs. 1 HGB,
+der die Geltendmachung einer nicht eingetragenen Tatsache nur gegenüber einem Dritten, nicht auch gegenüber
+demjenigen, in dessen Angelegenheiten sie einzutragen war, für unzulässig erklärt. Dementsprechend kann sich
+ein Außenstehender jederzeit auf die wirkliche Sachlage berufen, wenn ihm das günstiger erscheint (BGHZ 55,
+267, 273). Daß dem Dritten dies dann verwehrt wäre, wenn er sich gleichzeitig in anderer Hinsicht auf den von der
+wahren Sachlage abweichenden Registerinhalt beruft, kann weder dem Wortlaut noch dem Sinn der Vorschrift
+entnommen werden. Dem Standpunkt der Revision liegt offenbar die Vorstellung zugrunde, demjenigen, der sich
+auf die Nichteintragung einer bestimmten Tatsache berufe, könne bei der Einsicht in das Handelsregister dessen
+sonstiger Inhalt nicht verborgen geblieben sein, weswegen er sich die Kenntnis des gesamten Registerinhalts zu-
+rechnen lassen müsse. Diese Beurteilung geht jedoch von falschen Voraussetzungen aus. § 15 Abs. 1 HGB schützt
+zwar im Ausgangspunkt das Vertrauen auf die Richtigkeit der in Form des Handelsregisters geschaffenen öffentli-
+chen Informationsgrundlage über die Verhältnisse einer Handelsfirma. Dieser Vertrauensschutz setzt jedoch nicht
+voraus, daß derjenige, der sich auf das Handelsregister beruft, es tatsächlich eingesehen hat; vielmehr läßt das
+Gesetz bereits die dem Geschäftsverkehr ganz allgemein gegebene Möglichkeit, sich anhand des Registers zu in-
+formieren, als Grundlage für den erwähnten Vertrauensschutz ausreichen. Deshalb ist es aber auch nicht mög-
+lich, die in § 15 Abs. 1 HGB gezogenen Grenzen, innerhalb deren das Handelsregister eine Schutzwirkung entfal-
+ten soll, enger oder weiter zu ziehen, als sie dort tatbestandsmäßig normiert sind.

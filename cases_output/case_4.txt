@@ -1,0 +1,297 @@
+II ZR 123/94
+Gericht: BGH,    Datum: 27. Jan 1997,    Fundstelle: BGHZ 134, 333; DRsp-Nr. 1997/3345
+Haftung der Gesellschafter einer Vor-GmbH; Rechtsnatur der Verlustdeckungshaftung; Verlustdeckungs- und Vor-
+belastungshaftung bei der Vor-GmbH
+Leitsätze:
+Die Gesellschafter einer Vor-GmbH haften für die Verbindlichkeiten dieser Gesellschaft unbeschränkt. Es
+besteht eine einheitliche Gründerhaftung in Form einer bis zur Eintragung der Gesellschaft andauernden
+Verlustdeckungshaftung und einer an die Eintragung geknüpften Vorbelastungs- (Unterbilanz-)haftung (teil-
+weise Aufgabe von BGHZ 80, 129, 144; 91, 148, 152).
+Die Verlustdeckungshaftung ist ebenso wie die Vorbelastungs- (Unterbilanz-)haftung eine Innenhaftung
+(Aufgabe von BGHZ 65, 378, 383; 72, 45, 50).
+Fundstellen: BGHZ 134, 333; NJW 1997, 1503; ZIP 1997, 679; DRsp-Nr. 1997/3345
+Aus den Gründen:
+(nach DRsp-Nr. 1997/3345 - www.deubner-recht.de)
+Tatbestand:
+Der Kläger, Verwalter im Gesamtvollstreckungsverfahren über das Vermögen der H. GmbH i.G. (künftig: H. GmbH
+i.G.), nimmt die Beklagten als Gesellschafter anteilig auf Ausgleich von Verlusten in Anspruch, welche die Gesell-
+schaft nach einem per 31. Oktober 1991 zu Liquidationswerten erstellten Status erlitten haben soll.
+Die H. GmbH i.G. wurde am 3. November 1990 von der Beklagten zu 1 gegründet. Diese übertrug durch notariel-
+len Vertrag vom 31. Januar 1991 von ihrem Geschäftsanteil in Höhe von 50.000,-- DM mit sofortiger Wirkung je ei-
+nen Anteil von 13.000,-- DM auf die Beklagten zu 2 und 3. Die Gesellschafter beschlossen sodann, das Stammka-
+pital um 50.000,-- DM zu erhöhen. Die Stammeinlagen von dem auf 100.000,-- DM erhöhten Kapital übernahmen
+die Beklagte zu 1 mit 48.000,-- DM und die Beklagten zu 2 und 3 mit je 26.000,-- DM. Sie sind im März 1991 voll-
+ständig eingezahlt worden. Mit notariellem Vertrag vom 15. November 1991 übertrug der Beklagte zu 2 seinen
+Geschäftsanteil "mit sofortiger dinglicher Wirkung" auf den Beklagten zu 3.
+Die Gesellschaft wurde am 13. Februar 1991 zur Eintragung in das Handelsregister angemeldet. Sie nahm im An-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+16/168
+sc
+uß da a  
+e Gesc ä tstät g e t au . ac de
+ d e 
+sc e
+e t c  e egte  eg ste a te  
+ede  au ge u
+den worden waren, beanstandete das Kreisgericht D. mit Zwischenverfügung vom 28. Oktober 1991 den Eintra-
+gungsantrag. Zur Eintragung kam es nicht mehr. Am 28. November 1991 wurde die Eröffnung des Gesamtvollstre-
+ckungsverfahrens über das Vermögen der H. GmbH i.G. beantragt. Dieses Verfahren ist durch Beschluß des Kreis-
+gerichts D. vom 13. Februar 1992 eröffnet worden.
+Das Landgericht hat die Klage abgewiesen. Die dagegen eingelegte Berufung des Klägers hatte keinen Erfolg. Mit
+seiner Revision, die er auf die Beklagten zu 1 und 2 beschränkt hat, verfolgt der Kläger sein Klagebegehren weiter.
+Entscheidungsgründe:
+Die Revision des Klägers führt zur Aufhebung und Zurückverweisung.
+Entgegen der Ansicht des Berufungsgerichts haften die Beklagten zu 1 und 2 entsprechend ihrer Beteiligung für
+die von der H. GmbH i.G. erwirtschafteten, vom Gesellschaftsvermögen nicht gedeckten Verluste.
+I.
+Die Beklagten zu 1 und 2 waren ebenso wie der in der Revisionsinstanz nicht mehr am Verfahren beteiligte Be-
+klagte zu 3 bis zur Eröffnung des Gesamtvollstreckungsverfahrens Mitglieder der Vorgesellschaft. Das steht für
+die Beklagte zu 1, welche die H. GmbH i.G. als Alleingesellschafterin am 3. November 1990 errichtet hat, fest. Es
+kann aber auch für den Beklagten zu 2 nicht in Zweifel gezogen werden.
+1. Der Beklagte zu 2 ist - ebenso wie der Beklagte zu 3 - der Vorgesellschaft wirksam durch den mit der Beklagten
+zu 1 am 31. Januar 1991 geschlossenen Vertrag beigetreten. Zwar folgt das nicht aus der unter II vereinbarten,
+"mit sofortiger Wirkung vorgenommenen" Abtretung der Geschäftsanteile. Denn die Abtretung eines - künftigen -
+Geschäftsanteils, die auch schon vor der Eintragung der errichteten Gesellschaft in das Handelsregister zulässig
+ist, wird erst mit ihrer Eintragung wirksam (BGHZ 21, 242, 245; 21, 378, 383; 29, 300, 303). Der Beitritt zu einer Vor-
+GmbH kann - ebenso wie das Ausscheiden aus dieser Gesellschaft - nur durch Änderung des Gesellschaftsver-
+trags erfolgen, die einstimmig vorgenommen werden muß, soweit der Vertrag keine anderweitige Regelung ent-
+hält (BGHZ 15, 204, 206; 21, 242, 246; 29, 300, 303; BGH, Urt. v. 14. Dezember 1970 - II ZR 161/69, WM 1971, 306,
+307; Urt. v. 17. Januar 1983 - II ZR 89/82, WM 1983, 230; Hachenburg/Ulmer, GmbHG, 8. Aufl., § 11 Rdn. 35 m.w.N.
+in Fn. 65; abweichend Scholz/K. Schmidt, GmbHG, 8. Aufl., § 11 Rdn. 41). Die zwischen den Beklagten getroffene,
+notariell beurkundete Vereinbarung genügt diesen Voraussetzungen, mag dafür auch die unzutreffende Bezeich-
+nung der Geschäftsanteilsabtretung gewählt worden sein. Da die Beklagte zu 1 Alleingesellschafterin der H.
+GmbH i.G. war, konnte sie Anteile der Vor-GmbH unter Änderung des Gesellschaftsvertrags auf die Beklagten zu 2
+und 3 übertragen. Der Gesellschaftsvertrag ist entsprechend geändert worden: Gleichzeitig mit der Abtretung der
+Geschäftsanteile wurde eine Kapitalerhöhung durchgeführt. Aus diesem Anlaß sind die Geschäftsanteile neu ge-
+bildet und in § 4 zum Gegenstand des geänderten Gesellschaftsvertrags gemacht worden. Der Beklagte zu 2 ist
+unter diesen Umständen wirksam Gesellschafter der H. GmbH i.G. geworden.
+2. Der Beklagte zu 2 ist aufgrund der Vereinbarung vom 15. November 1991, durch die er seinen Geschäftsanteil
+auf den Beklagten zu 3 übertragen hat, nicht wirksam aus der H. GmbH i.G. ausgeschieden. Der Vertrag ist nur
+zwischen den Beklagten zu 2 und 3 geschlossen worden. Die Beklagte zu 1 war daran nicht beteiligt. Der Gesell-
+schaftsvertrag der Vor-GmbH ist daher nicht wirksam geändert worden. Der Beklagte zu 2 ist demnach Gesell-
+schafter der H. GmbH i.G. geblieben.
+II.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+17/168
+e e agte  u  u d  a te  
+ e
+ä t
+s 
+e  gese sc a t c e  ete gu g ü  d e be  de  . G
+b  .G. e
+getretenen Verluste. Diese Haftung ist nicht auf den Betrag der noch nicht eingezahlten Einlagen beschränkt, son-
+dern umfaßt die Verluste, die vom Gesellschaftsvermögen nicht abgedeckt werden. Einer Wiederauffüllung des
+Stammkapitals bedarf es nicht.
+1. Nach der bisherigen Rechtsprechung des Senats haften die Gesellschafter für Verbindlichkeiten der Vor-GmbH,
+die nicht in das Handelsregister eingetragen, sondern liquidiert wird, grundsätzlich nur bis zur Höhe ihrer Einlage-
+verpflichtung. Der Wille zu einer solchen Haftungsbeschränkung komme, wie der Senat ausgeführt hat, regelmä-
+ßig dadurch zum Ausdruck, daß der Geschäftsführer für eine "GmbH" oder "GmbH i.G. " auftrete. Dadurch werde
+für den Vertragspartner erkennbar, daß "die Vertretungsmacht und die ihr entsprechenden Vertragserklärungen
+des Geschäftsführers darauf beschränkt seien, die Gründer nur bis zur Höhe ihrer Einlagen zu verpflichten"
+(BGHZ 65, 378, 382; 72, 45, 49; 80, 129, 144; 80, 182, 184). Wird nach dieser Rechtsprechung die Einlage entspre-
+chend der im Gesellschaftsvertrag getroffenen Regelung bereits vor Eintragung der Gesellschaft vollständig einge-
+zahlt, scheidet eine weitergehende Inanspruchnahme des Gesellschafters aus seinem Privatvermögen aus (BGHZ
+65, 378, 382 f.).
+2. Gegen die Haftungsbeschränkung sind insbesondere nach Aufgabe des Vorbelastungsverbots und der damit
+verbundenen Einführung der Vorbelastungs- bzw. Unterbilanzhaftung (vgl. BGHZ 80, 129; 105, 300) berechtigte
+Bedenken erhoben worden.
+a) Die Entscheidung der Frage, ob die Gesellschafter der Vor-GmbH für Geschäfte, die mit ihrer Zustimmung auf-
+genommen worden sind, beschränkt oder unbeschränkt haften, ist im Ausgangspunkt daran auszurichten, daß
+nach allgemeinen Grundsätzen des bürgerlichen Rechts und des Handelsrechts derjenige, der als Einzelperson
+oder in Gemeinschaft mit anderen Geschäfte betreibt, für die daraus entstehenden Verpflichtungen haftet. Dieser
+Grundsatz gilt solange, wie er nicht durch das Gesetz abgeändert wird das hat sich in der Regelung zur Haftung
+der Kommanditisten (§§ 171 ff. HGB) und der Gesellschafter in den Gesellschaften mit beschränktem Haftungs-
+fonds niedergeschlagen - oder die Gesellschafter mit dem Vertragspartner keine vertragliche Beschränkung der
+Haftung herbeiführen (Flume, Die juristische Person, 1983, § 5 III 3, S. 164; ders., Die Personengesellschaft, 1977, §
+16 IV 4, S. 328 f.; vgl. auch John, Die organisierte Rechtsperson, 1977, S. 324; K. Schmidt, Gesellschaftsrecht, 2.
+Aufl., § 18 IV 1 b; § 34 III 3 c m.w.N. in Fn. 74; ders., Zur Stellung der oHG im System der Handelsgesellschaften,
+1972, S. 317; Scholz/K. Schmidt, GmbHG, 8. Aufl., § 11 Rdn. 82; Stimpel, FS Fleck, 1988, S. 345, 360 m.w.N. in Fn.
+49/44; Wiedemann, Jura 1970, S. 456 f.). Zutreffend wird darauf hingewiesen, daß angesichts dieser gesetzlichen
+Konzeption außerhalb der gesetzlich geregelten Fälle nicht etwa die Annahme einer unbeschränkten, sondern
+diejenige einer beschränkten Haftung begründungsbedürftig ist. Da die Gesellschaftsverpflichtungen Angelegen-
+heit der Gemeinschaft sind und den einzelnen Gesellschafter die Haftung für diese Verpflichtungen trifft, kann die
+Haftungsbeschränkung nicht auf Umstände wie die hinreichende Warnung der Gläubiger durch die Firmierung,
+den gegenständlichen Umfang der Vertretungsmacht des Geschäftsführers oder einen entsprechenden Willen
+der einzelnen Gesellschafter gestützt werden. Denn es geht nicht um die rechtsgeschäftliche Verpflichtung der
+Gründergesellschafter, sondern um ihre gesetzliche Haftung für die Verpflichtungen der Gemeinschaft und deren
+Ausschluß (Stimpel, FS Fleck aaO., S. 360; Flume, Die juristische Person aaO., S. 165).
+b) Die Regelung des § 13 Abs. 2 GmbHG, nach der den Gläubigern für Verbindlichkeiten der Gesellschaft nur das
+Gesellschaftsvermögen haftet, steht der Annahme einer unbeschränkten Haftung nicht entgegen. Die Vorschrift
+ist lediglich auf die eingetragene GmbH zugeschnitten. Eine Ausdehnung auf die Vor-GmbH kommt im Hinblick
+auf § 11 Abs. 1 GmbHG nicht in Betracht. Denn würde man den Kreis der auf die Vorgesellschaft anwendbaren
+Normen des GmbH-Rechts um die Vorschriften über die Aufbringung bzw. Sicherung des Stammkapitals und die
+Haftungsbeschränkung erweitern, würde sich die Bedeutung der Handelsregistereintragung auf die Umwandlung
+der Vorgesellschaft in eine juristische Person, also einen rein formalen Aspekt, beschränken. In materiell-rechtli-
+cher Hinsicht bestünde die Gesellschaft mit der Wirkung der beschränkten Haftung jedoch schon vor ihrer Eintra-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+18/168
+gu g ( eb, S St
+pe , 985, S. 399, 
+ .; 
+ o ge d St
+pe , S ec  aaO., S. 35  .). Ge ade das sc
+eßt § 
+Abs. 1 GmbHG aus. Einer solchen ausdehnenden Anwendung des § 13 Abs. 2 GmbHG steht auch die Haftungsre-
+gelung des § 11 Abs. 2 GmbHG entgegen. Der Gesetzgeber hat mit der Durchführung von Geschäften vor Eintra-
+gung der GmbH gerechnet und aus diesem Grunde im Gläubigerinteresse die unbeschränkte persönliche Haf-
+tung der "Handelnden" verlangt. Darunter ist in früherer Zeit nicht nur die Haftung der Geschäftsführer, sondern
+auch der Gründergesellschafter verstanden worden. Dieser gesetzgeberische Gedanke beansprucht auch unter
+der geänderten Voraussetzung Geltung, daß die Haftung der Gesellschafter heute anders konzipiert wird (Stim-
+pel, FS Fleck aaO., S. 355 f.).
+c) Im Schrifttum wird zudem auf den Wertungswiderspruch hingewiesen, der dann entsteht, wenn die Haftung
+der Gesellschafter in der Vor-GmbH beschränkt wird, nach Eintragung in Gestalt der Unterbilanzhaftung (Vorbe-
+lastungshaftung) jedoch eine unbeschränkte Haftung eingreifen soll. Es wird zu Recht als eine nicht hinnehmbare
+Inkonsequenz angesehen, die Haftung der Gründer bis zur Eintragung auf die bedungenen Einlagen zu reduzie-
+ren, nach Eintragung die Gesellschafter hingegen mit einer unbegrenzten Verlustausgleichspflicht zu belasten
+(Meister, FS Werner, 1984, S. 521, 548 f.; Lieb, FS Stimpel aaO., S. 411, 414; Stimpel, FS Fleck aaO., S. 359; K.
+Schmidt, ZHR 156 [1992], S. 93, 108; Hachenburg/Ulmer, GmbHG, 8. Aufl., § 11 Rdn. 64). Das Ungleichgewicht zwi-
+schen einer beschränkten Haftung vor Eintragung und einer unbeschränkten Einstandspflicht nach Eintragung
+würde bei Verlusten der Vorgesellschaft für die Gründer einen erheblichen Anreiz bieten, die Eintragung nicht
+weiterzubetreiben und die Gesellschaft zu liquidieren (Meister, FS Werner aaO., S. 548; Scholz/K. Schmidt aaO., §
+11 Rdn. 80). Ein Haftungsgleichlauf vor und nach Eintragung der GmbH erscheint daher unabdingbar. Er gebietet,
+eine unbeschränkte Haftung der mit der Aufnahme der Geschäftstätigkeit einverstandenen Gründer für sämtli-
+che Anlaufverluste der Vor-GmbH anzuerkennen (Lieb, FS Stimpel aaO., S. 414; Meister, FS Werner aaO., S. 548 f.;
+Stimpel, FS Fleck aaO., S. 360 f.; Hachenburg/Ulmer aaO., § 11 Rdn. 65; Scholz/K. Schmidt aaO., § 11 Rdn. 82;
+Lutter/Hommelhoff, GmbHG, 14. Aufl., § 11 Rdn. 8).
+d) Für dieses Ergebnis streitet auch eine rechtssystematische Überlegung. Eine Unterbilanzhaftung, die erst nach
+Eintragung Rechtsfolgen entfaltet, benötigt in der Entwicklungsstufe der Vor-GmbH ein gleichwertiges Äquivalent.
+Denn erst eine schon während des Bestehens der Vor-GmbH eingreifende unbeschränkte Haftung der Gründer
+kann die nach der Eintragung wirkende Vorbelastungs- oder Unterbilanzhaftung legitimieren (vgl. K. Schmidt, ZHR
+156 [1992] aaO., S. 108, 121). Es erscheint unter diesem Gesichtspunkt geboten, von einer einheitlichen Gründer-
+haftung auszugehen (Meister, FS Werner aaO., S. 549), die sich in eine Verlustdeckungshaftung und eine Vorbelas-
+tungshaftung aufspaltet, jedoch auf den gleichen, der jeweiligen Gründungsphase angepaßten Anspruchsvoraus-
+setzungen basiert (Hachenburg/Ulmer aaO., § 11 Rdn. 95).
+e) Mit Hilfe der Verlustdeckungshaftung wird auch der Interessenwiderstreit beseitigt, der zwischen Geschäftsfüh-
+rern, die zur Vermeidung einer Handelndenhaftung auf die Eintragung der GmbH drängen, und Gesellschaftern,
+die sich einer Eintragung wegen der Besorgnis der Vorbelastungshaftung widersetzen, besteht (vgl. dazu BGHZ
+80, 129, 142). Die Geschäftsführer haften bei Annahme einer Verlustdeckungshaftung vor Eintragung der GmbH
+nicht schärfer als die Gesellschafter. Scheitert die Eintragung, so können die gemäß § 11 Abs. 2 GmbHG in An-
+spruch genommenen Geschäftsführer ihren Regreßanspruch mittels der Verlustdeckungshaftung bei den Gesell-
+schaftern durchsetzen.
+Insgesamt erscheint es somit interessen- und sachgerecht, den Gesellschaftern das Geschäftsrisiko der Gesell-
+schaft in der Gründungsphase aufzuerlegen (vgl. Hachenburg/Ulmer aaO., § 11 Rdn. 95).
+III.
+Die Haftung trifft die Beklagten zu 1 und 2 im Innenverhältnis zur H. GmbH i.G. Der Kläger als Gesamtvollstre-
+ckungsverwalter über das Vermögen dieser Gesellschaft ist daher zur Geltendmachung des Haftungsanspruchs
+berechtigt.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+19/168
+1. Die Gründe, die bisher nach Ansicht des Senats im Gläubigerinteresse eine Außenhaftung erforderlich mach-
+ten, sind mit der Aufgabe des Vorbelastungsverbots und der Einführung der Vorbelastungshaftung entfallen.
+Denn dadurch, daß auch die Pflichten aus den von der Vor-GmbH getätigten Geschäften auf die eingetragene
+GmbH übergehen (vgl. dazu BGHZ 80, 129, 137 ff.) und darüber hinaus die Vorbelastungshaftung auch die den
+Mindesteinlagebetrag übersteigende Zahlung ergreift, die freiwillig vor Eintragung der GmbH zur Erfüllung der
+Resteinlagepflicht vorgenommen wird (vgl. BGHZ 105, 300), ist die besondere Gefahrenlage der Gläubiger, die
+dem Senat seinerzeit Veranlassung zur Annahme einer Außenhaftung gegeben hat, beseitigt.
+2. Zugleich weisen gewichtige Gründe auf eine Ausgestaltung der Verlustdeckungshaftung als Innenhaftung hin.
+a) Aufgrund ihrer Nähe zur rechtsfähigen GmbH ist diese Haftungsform für ihre Gesellschafter typischer als die
+für die oHG und in den von § 176 HGB gesetzten Grenzen auch für die KG maßgebende gesamtschuldnerische
+Außenhaftung der Gesellschafter (vgl. dazu Ulmer, ZIP 1996 aaO., S. 736 f.). Daher sollte die Haftungsverfassung
+der Vor-GmbH für Anlaufverluste den für die eingetragene GmbH geltenden Haftungsgrundsätzen angepaßt wer-
+den (Stimpel, FS Fleck aaO., S. 362; Ulmer, ZIP 1996, 733, 734). Entsprechend dem für die GmbH gültigen gesetzli-
+chen Konzept ist die an die Eintragung der GmbH geknüpfte Vorbelastungshaftung (Unterbilanzhaftung) folge-
+richtig stets unter dem Gesichtspunkt der internen Haftung der Gesellschafter gesehen worden. Der weitgehende
+Gleichlauf der Verlustdeckungshaftung mit der Vorbelastungshaftung, die beide in einem engen Zusammenhang
+stehen, spricht somit nachdrücklich dafür, auch dieses Rechtsinstitut als Innenregreß mit anteiliger Haftung aus-
+zuformen (Hachenburg/Ulmer aaO., § 11 Rdn. 65; Lutter/Hommelhoff aaO., § 11 Rdn. 8; Meister, FS Werner aaO.,
+S. 550; Stimpel, FS Fleck aaO., S. 361).
+Den Gläubigern entstehen dadurch keine unzumutbaren Nachteile, weil sie im Wege der Pfändung den Verlustde-
+ckungsanspruch der Vorgesellschaft gegen die Gründer verwerten können (Hachenburg/Ulmer aaO., § 11 Rdn.
+66). Zwar wird dagegen eingewandt, es stelle eine wesentliche Beeinträchtigung des Gläubigerschutzes dar, so
+daß diese gezwungen seien, aus einem gegen die Vor-GmbH erwirkten Titel die gegen die Gründergesellschafter
+gerichteten Einzelansprüche zu pfänden, Teilschulden einzuklagen und bei deren Uneinbringlichkeit schließlich
+die Ausfallhaftung geltend zu machen (K. Schmidt, ZIP 1996 aaO., S. 357). Es ist unbestreitbar, daß diese Voraus-
+setzungen den Gläubigern im Vergleich zu einer gesamtschuldnerischen Außenhaftung die Durchsetzung ihrer
+Ansprüche erschweren können. Die in diesem Zusammenhang gebotene Abwägung der Interessen der Gläubiger
+und Gesellschafter ergibt aber, daß diese Erschwernis für die Gläubiger nicht unzumutbar ist. Zutreffend ist dar-
+auf hingewiesen worden, daß sie nur in den Fällen der masselosen Insolvenz auftreten kann, diese aber bei der
+Vor-GmbH relativ selten sind (Ulmer, ZIP 1996 aaO., S. 735 f.). Des weiteren ist zu Recht entgegnet worden, daß es
+dem einzelnen Gesellschafter kaum zugemutet werden kann, sich einer der Höhe nach unbegrenzten gesamt-
+schuldnerischen Haftung anstelle einer durch die Anlaufverluste begrenzten anteiligen Verlustdeckungs- oder
+Vorbelastungshaftung auszusetzen (Stimpel, FS Fleck aaO., S. 361 f.; Ulmer, ZIP 1996 aaO., S. 736; Kort, ZIP 1996,
+S. 109, 113). Das betrifft insbesondere die kleinen und mittleren Gesellschafterbeteiligungen. Zudem kann es,
+sieht man einmal von den Insolvenzfällen ab, durchaus Fälle geben, in denen die Vor-GmbH bei Zahlungsfähigkeit
+die Zahlung mit guten Gründen ablehnt. Hier würde es insbesondere den unternehmerisch nicht beteiligten Ge-
+sellschafter unzumutbar belasten, sich die für die Rechtsverteidigung erforderlichen Informationen zuvor bei der
+Vor-GmbH beschaffen zu müssen, die dem Anspruchsbegehren des Gläubigers selbst ohne derartige Erschwer-
+nisse entgegentreten könnte.
+Insgesamt bewertet würde die gesamtschuldnerische Außenhaftung den Gläubigern ein nicht gebotenes Maß an
+Schutz gewähren (vgl. Ulmer, ZIP 1996 aaO., S. 736).
+b) Im Falle des Konkurses wäre bei Annahme einer unmittelbaren Haftung der Gesellschafter zu befürchten, daß
+ein Wettlauf der Gläubiger einsetzt und - etwa wenn einzelne Gesellschafter illiquide werden - ungleiche Befriedi-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+20/168
+gu gsc a ce  de  G äub ge  e tste e . S
+d d e 
+sp üc e dagege  
+ 
+e
+e
+ä t
+s gege  d e o G
+b  ge
+richtet, kann in der Regel eine gleichmäßige Befriedigung der Gläubiger erwartet werden. Das gilt vor allem des-
+halb, weil der Verlustdeckungsanspruch gegen die Vor-GmbH erst mit dem Scheitern der Eintragung entsteht
+(Hachenburg/Ulmer aaO., § 11 Rdn. 95). Der Fälligkeitszeitpunkt ist mit der Eröffnung des Konkursverfahrens bzw.
+mit dem Beginn der Liquidation bestimmt. Berechnungsschwierigkeiten sind nicht zu befürchten.
+Ist die Vor-GmbH hingegen vermögenslos, hat sie insbesondere keinen Geschäftsführer mehr oder sind weitere
+Gläubiger nicht vorhanden, kann ebenso wie bei der Einmann-Vor-GmbH dem Gläubiger der unmittelbare Zugriff
+gestattet werden. Die Eröffnung dieser Möglichkeit schafft keine Abwicklungsschwierigkeiten (Hachenburg/Ulmer
+aaO., § 11 Rdn. 67, 68).
+3. Ob eine unmittelbare Inanspruchnahme der Gesellschafter nach den Grundsätzen der Haftung in der oHG in
+Betracht kommt, wenn die Gesellschafter ihre Eintragungsabsicht aufgeben, den Geschäftsbetrieb aber fortfüh-
+ren, kann im vorliegenden Falle dahingestellt bleiben. Nach dem für die Vorinstanz zu unterstellenden Sachver-
+halt kann nicht davon ausgegangen werden, daß diese Voraussetzungen erfüllt sind. Da die Gesellschaft, wie sich
+aus den beigezogenen Vollstreckungsakten ergibt, erhebliche Forderungsausfälle zu verzeichnen hatte und am
+22. November 1991 ihre Zahlungen einstellen mußte, hat sie ihre Geschäftstätigkeit eingestellt und am 28. No-
+vember 1991 den Antrag auf Eröffnung des Gesamtvollstreckungsverfahrens gestellt. Damit war zugleich die Ent-
+scheidung darüber gefallen, daß das Eintragungsverfahren nicht fortgeführt werden sollte.
+Dem Vortrag des Klägers kann nicht entnommen werden, daß die Gründer die Absicht, die Eintragung der H.
+GmbH i.G. herbeizuführen, bereits zu einem früheren Zeitpunkt aufgegeben haben.
+4. In der praktischen Konsequenz reduzieren sich die Unterschiede zwischen Innen- und Außenhaftung nach alle-
+dem auf die Frage, ob die Abwicklungslast die Gläubiger oder die Gesellschafter zu tragen haben (K. Schmidt, ZHR
+156 aaO., S. 113). Bedeutung erlangt die Haftung der Gründergesellschaft in der Regel nur im Konkurs- und Liqui-
+dationsverfahren. Für diesen Fall der Liquidation oder des Konkurses gehen auch maßgebende Verfechter der
+Außenhaftung von einem Innenausgleich aus (vgl. u.a. K. Schmidt, ZHR 156 aaO., S. 119 f.). Umgekehrt befürwor-
+ten Vertreter der Innenhaftung für den Fall, daß die Vor-GmbH vermögenslos ist, insbesondere keinen Geschäfts-
+führer mehr hat und auch die Stellung eines Konkursantrags keine Aussicht auf Erfolg verspricht, die Zulässigkeit
+eines unmittelbaren Zugriffs auf das Vermögen der Gründergesellschafter (vgl. u.a. Hachenburg/Ulmer aaO., § 11
+Rdn. 67).
+5. Aufgrund dieser gesamten Umstände hält es der Senat teilweise unter Aufgabe seiner früheren Rechtspre-
+chung - für richtig, von einer einheitlichen Gründerhaftung auszugehen, die sich aus einer Verlustdeckungs- und
+einer Vorbelastungshaftung zusammensetzt. Der 10. Senat des Bundesarbeitsgerichts und der 2. Senat des Bun-
+dessozialgerichts haben sich dieser neuen Rechtsprechung des Senats angeschlossen (BAG, Beschl. v. 10. Juli 1996
+- 10 AZR 908/94 (B) und BSG, Beschl. v. 31. Mai 1996 - 2 S (U) 3/96).
+IV.
+Sind die Gesellschafter einer Vor-GmbH verpflichtet, die bei dieser Gesellschaft entstandenen, nicht vom Gesell-
+schaftsvermögen gedeckten Anlaufverluste auszugleichen, ist der Kläger als Insolvenzverwalter über das Vermö-
+gen der H. GmbH i.G. berechtigt, derartige Ansprüche gegen die Beklagten zu 1 und 2 geltend zu machen. Diese
+haften entsprechend ihrem Beteiligungsverhältnis.
+Das Berufungsgericht hat - aus seiner Sicht zu Recht - keine Feststellungen zur Höhe der Ansprüche getroffen. Da
+der per 31. Oktober 1991 erstellte Status offensichtlich nur vorläufiger Natur ist und die Parteien ihren Vortrag
+unter dem Eindruck des klagabweisenden erstinstanzlichen Urteils im wesentlichen auf den Grund des Anspruchs
+konzentriert haben, ist ihnen Gelegenheit zu geben, zur Höhe der angefallenen Verluste ergänzend vorzutragen.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+21/168
+as g t 
+ g e c e  
+e se ü  d e 
+age, ob d e Gese sc a te  d e Gesc ä te de  Ge
+e
+sc u d e
+ e
+e stä d
+lich aufgenommen haben.
+Die Sache war daher an das Berufungsgericht zurückzuverweisen.

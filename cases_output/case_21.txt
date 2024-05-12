@@ -1,0 +1,425 @@
+II ZR 54/80
+Gericht: BGH,    Datum: 9. Mär 1981,    Fundstelle: DRsp Nr. 2002/12587; NJW 1981, 1373
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+111/168
+§§ 8 bs.  
+. , 
+. 5, bs. ; 9c; 
+ bs.  G
+b G; §§ 
+8; 6  G : e pfl
+c tu g e
+e  o G
+b ; U
+a g de
+Versicherung über Einlageleistungen bei Bargründung
+Leitsätze:
+1. Eine Vorgesellschaft wird durch Geschäfte, die ihr Geschäftsführer mit Ermächtigung aller Gesellschafter im
+Namen der Gesellschaft abschließt, auch dann verpflichtet, wenn nach der Satzung nur Bareinlagen verein-
+bart sind.
+2. Die Rechte und Pflichten aus solchen Geschäften gehen mit der Eintragung der GmbH voll auf diese über
+(kein sog Vorbelastungsverbot).
+3. Für die Differenz, die sich durch solche Vorbelastungen zwischen dem Stammkapital und dem Wert des Ge-
+sellschaftsvermögens im Zeitpunkt der Eintragung ergibt, haften die Gesellschafter anteilig.
+4. Die bei der Anmeldung abzugebende Versicherung über Einlageleistungen und die entsprechende Prüfung
+durch das Registergericht haben sich bei einer Bargründung auch darauf zu erstrecken, inwieweit das An-
+fangskapital der GmbH bereits durch Schulden vorbelastet ist.
+5. Die Haftung der Gründer aus Verbindlichkeiten der Vorgesellschaft erlischt mit der Eintragung der GmbH.
+6. Eine Vor-GmbH kann persönlich haftende Gesellschafterin einer Kommanditgesellschaft sein. Handelt ihr
+Geschäftsführer im Namen der Kommanditgesellschaft und löst er hierdurch die Haftung der Vor-GmbH
+nach § 128 HGB aus, so haftet er bis zur Eintragung der GmbH persönlich nach § 11 Abs 2 GmbHG.
+Zur Examnsrelevanz: noch nicht bearbeitet
+Fundstellen:
+DRsp Nr. 2002/12587; NJW 1981, 1373; MDR 1981, 649; BGHZ 80, 129
+Aus dem Urteil:
+Tatbestand
+Der Ehemann der Beklagten, B. F., war persönlich haftender Gesellschafter der "B. F. KG", die ein Bauunterneh-
+men betrieb. Nach seinem Tode am 21. Juni 1978 erklärte die einzige Kommanditistin, sie wolle nicht, wie nach
+dem Gesellschaftsvertrag möglich, persönlich haftende Gesellschafterin werden. Auch die Beklagte und die weite-
+ren Erben von B. F. machten von der gleichen Möglichkeit keinen Gebrauch. Stattdessen errichtete die Beklagte
+zusammen mit dem Steuerbevollmächtigten Fr. durch Vertrag vom 31. Juli 1978 die "Bauunternehmen F. GmbH",
+deren erste Geschäftsführerin die Beklagte wurde und die als persönlich haftende Gesellschafterin in die Kom-
+manditgesellschaft eintrat. Die GmbH wurde am 5. Oktober 1978 in das Handelsregister eingetragen. Die Firma
+der Kommanditgesellschaft erhielt den Zusatz: "(GmbH & Co)".
+In der Zeit zwischen der Gründung und der Eintragung der GmbH beauftragten zwei Angestellte der Kommandit-
+gesellschaft in deren Namen, gestützt auf eine ihnen von der Beklagten als Geschäftsführerin der GmbH erteilte
+Vollmacht, die Klägerin mit der Herstellung von Stahlkonstruktionen. Die Klägerin führte diese Arbeiten aus und
+stellte hierüber im August und September 1978 Rechnungen im Gesamtbetrag von 16.331,84 DM aus, die von der
+Kommanditgesellschaft nicht bezahlt worden sind. Die Klägerin hat daraufhin die Beklagte gemäß § 11 GmbHG
+als Gesamtschuldnerin mit der Kommanditgesellschaft auf Zahlung der Rechnungssumme in Anspruch genom-
+men.
+Beide Vorinstanzen haben der Klage stattgegeben. Mit der Revision, deren Zurückweisung die Klägerin beantragt,
+möchte die Beklagte die Abweisung der Klage erreichen.
+Entscheidungsgründe
+Das Berufungsgericht hält die Beklagte nach § 11 Abs 2 GmbHG zur Erfüllung der Klageforderung für verpflichtet,
+weil sie durch die von ihr bevollmächtigten beiden Angestellten im Rahmen der Auftragserteilung für die Kom-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+112/168
+a d tgese sc a t ug e c  ü  de e  o
+p e
+e tä G
+b  ge a de t abe, be o  d ese 
+ das a de s eg ste
+eingetragen worden sei, und ihre darauf beruhende Haftung den Zeitpunkt der Eintragung überdauert habe. Die-
+ser Auffassung kann nicht gefolgt werden.
+1.
+Für die Frage, ob die Beklagte nach § 11 Abs 2 GmbHG oder unter einem anderen rechtlichen Gesichtspunkt für
+die Klageforderung haftet, ist wesentlich, welche gesellschaftsrechtlichen Verhältnisse in der Zeit von der Errich-
+tung der GmbH durch Vertrag vom 31. Juli 1978 bis zu deren Eintragung am 5. Oktober 1978, in der namens der
+"B. F. KG" der Konstruktionsauftrag an die Klägerin erteilt wurde, bestanden haben. Das hängt wiederum davon
+ab, ob eine Vor-GmbH bereits persönlich haftende Gesellschafterin einer Kommanditgesellschaft sein kann. Dies
+hält der Senat unter Aufgabe seines bisher gegenteiligen Standpunktes (BGHZ 63, 45, 47; Urt v 15.1.68 - II ZR
+221/65, WM 1968, 509) für möglich (ebenso Ulmer in Hachenburg, GmbHG, 7. Aufl, § 11 RdNr 102; Hüffer, JuS
+1980, 485, 487; Binz, Haftungsverhältnisse im Gründungsstadium der GmbH & Co KG, 1976, S 48ff, 145ff und
+GmbHRdsch 1976, 29, 31f; Huber in Festschr f Hefermehl, 1976, S 127, 148f; aM Kuhn, ebenda S 159, 160, 169; K.
+Schmidt, NJW 1975, 665f, 669).
+Gegen die Eignung einer Vorgesellschaft zur persönlich haftenden Gesellschafterin spricht nicht schon die über-
+wiegend vertretene Auffassung, daß nur natürliche oder juristische Personen sowie handelsrechtliche Personen-
+gesellschaften wegen ihrer Fähigkeit, im Rechtsverkehr selbständig als Einheit aufzutreten und eine entspre-
+chende Haftung zu übernehmen, diese Eignung haben, nicht aber Gesamthandsgemeinschaften wie namentlich
+Gesellschaften des bürgerlichen Rechts (Hueck, Das Recht der oHG, 4. Aufl, § 2; R. Fischer in Großkomm HGB, 3.
+Aufl, § 105 Anm 23ff). Denn die Vorgesellschaft ist als ein auf die künftige juristische Person hin angelegtes
+Rechtsgebilde bereits körperschaftlich strukturiert und daher imstande, durch ihre Geschäftsführer als Vertre-
+tungsorgan nach außen geschlossen aufzutreten (Ulmer aaO § 11 RdNr 102; eingehend hierzu Binz aaO S 145ff,
+213 mwN). Die bloße Möglichkeit, daß die Vorgesellschaft noch vor der Eintragung aufgelöst werden könnte, steht
+ihrer Eignung als persönlich haftender Gesellschafterin mindestens so lange nicht entgegen, wie die Eintragung
+noch betrieben wird. Auch verfügt die Vorgesellschaft nach Gesetz und Satzung bereits über ein gebundenes Min-
+destkapital in Gestalt von Einlagen oder Einlageforderungen, aus dem die Gesellschaftsgläubiger Befriedigung su-
+chen können (vgl BGHZ 45, 338, 347ff).
+Freilich fehlt zunächst noch die Prüfung der kapitalmäßigen Eintragungsvoraussetzungen durch das Registerge-
+richt, die jetzt § 9c in Verbindung mit § 8 Abs 1 Nr 4 und 5, Abs 2 GmbHG nF ausdrücklich regelt, ebenso wie die
+Eintragung selbst und deren öffentliche Bekanntgabe. Auch lassen sich die strengen Kapitalschutzvorschriften
+insbesondere der §§ 19, 30ff GmbHG jedenfalls nicht unmittelbar und uneingeschränkt auf die Vorgesellschaft
+übertragen (vgl Urt d Sen v 29.5.80 - II ZR 225/78, WM 1980, 955 zu 2c; aM Scholz/Winter, GmbHG 6. Aufl, § 11
+Anm 9). Deshalb ist es im Interesse der Gläubiger nur dann vertretbar, der Vorgesellschaft die "Komplementärfä-
+higkeit" zuzuerkennen, wenn man § 11 Abs 2 GmbHG auch auf den damit als möglich vorausgesetzten Fall er-
+streckt, daß der Geschäftsführer der GmbH nicht unmittelbar für diese ein Rechtsgeschäft abschließt, sondern in
+Ausübung der ihr als persönlich haftender Gesellschafterin zustehenden Vertretungsmacht die Kommanditgesell-
+schaft nach außen verpflichtet und hierdurch zugleich die gesetzliche Haftung der Vor-GmbH nach § 128 HGB
+auslöst. Denn nur so erhält der Gläubiger einen Ausgleich dafür, daß die Kapitalgrundlage des ihm "unbe-
+schränkt" haftenden Gesellschafters - der Vor-GmbH - noch nicht in gleichem Maße wie bei der eingetragenen
+GmbH gerichtlich kontrolliert, publiziert und durch zwingende Schutzvorschriften abgesichert ist (so - mit anderer
+Begr - Huber in Festschr Hefermehl, 1976, S 127, 142ff; Flume, Allg Teil des Bürgerlichen Rechts, I 1 § 16 IV 5 S 337;
+aM Binz aaO S 250 Fußn 674, 273ff unter Aufgabe seiner gegenteiligen Ansicht in GmbHRdsch 1976, 29, 34f; of-
+fengelassen in BGHZ 76, 320, 322f; zum Zweck des § 11 Abs 2 GmbHG vgl ferner K. Schmidt, Zur Stellung der oHG
+im System der Handelsgesellschaften, 1972, S 319f, GmbHRdsch 1973, 146, 151 u NJW 1980, 1979, 1980; Huber in
+Festschr f R. Fischer, 1979, S 263, 276ff; Scholz/Winter aaO § 11 Anm 19).
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+113/168
+.
+Die Eignung der Vor-GmbH für eine Komplementärrolle steht und fällt aber mit dem sogenannten Vorbelastungs-
+verbot, dh mit dem schon vom Reichsgericht entwickelten und bislang auch vom Senat mit dem eingeschränkten
+Inhalt vertretenen Grundsatz, daß die GmbH nur in solche vor ihrer Eintragung eingegangenen Verbindlichkeiten
+ohne weiteres eintritt, die in Gesetz und Satzung eine klare Grundlage haben, also bei Sachgründungen mit der
+Übernahme eines eingebrachten Gegenstandes, zB eines Handelsgeschäfts, für Rechnung der Gesellschaft not-
+wendig zusammenhängen (BGHZ 65, 378, 383; 45, 338, 342f). Denn eine Vorgesellschaft, die ihre Haftung nicht
+voll an die eingetragene GmbH weitergeben kann, ist als persönlich haftende Gesellschafterin untauglich (so zu-
+treffend K. Schmidt NJW 1978, 638, 639).
+Es ist daher notwendig zu prüfen, ob jener Grundsatz angesichts der Zweifel, denen er im neueren Schrifttum zu-
+nehmend ausgesetzt ist, noch dem heutigen Stand der Rechtsentwicklung entspricht (vgl hierzu Ulmer aaO § 11
+RdNr 22ff, 89ff u in Festschr f Ballerstedt, 1975, S 279ff; Scholz/Winter aaO § 11 Anm 36ff; Binz, Haftungsverhält-
+nisse S 79ff; Hüffer, JuS 1980, 485, 487; jeweils mwN; krit neuerdings auch R. Fischer in Pro GmbH, 1980, S 137,
+164; anders noch in Scholz/Fischer, GmbHG, 8. Aufl, § 11 Anm 5).
+a)
+Der Gesetzgeber hat die Problematik der Vorgesellschaft, ihrer Haftung für Verbindlichkeiten und des Übergangs
+dieser Verbindlichkeiten auf die eingetragene GmbH ursprünglich nicht gesehen. Er wollte den Betrieb eines wer-
+benden Unternehmens für eine noch in Gründung befindliche Kapitalgesellschaft nach Möglichkeit überhaupt
+verhindern; so begnügte er sich damit, bei gleichwohl schon vor der Eintragung aufgenommener Geschäftstätig-
+keit die Gläubiger auf eine Inanspruchnahme des "Handelnden" zu verweisen, wobei er "selbstverständlich" auch
+die Auftraggeber des Handelnden wie allgemein solche Gründer, mit deren Willen gehandelt worden ist, in die
+Haftung einbezogen wissen wollte (vgl BGH, Urt v 21.5.57 - VIII ZR 202/56, NJW 1957, 1186 zu II 2 unter Hinweis
+auf die Gesetzesmaterialien; K. Schmidt, Zur Stellung der oHG S 275ff sowie GmbHRdsch 1973, 146ff). Bei dieser
+weiten Auslegung des Handelndenbegriffes kam es in der Praxis, in der ein eigenmächtiges Tätigwerden des Ge-
+schäftsführers schon vor der Eintragung verhältnismäßig selten ist, auf eine etwaige Verpflichtung der Vorgesell-
+schaft oder ihrer Mitglieder meist gar nicht an, weil die Gründer ohnehin nach § 11 Abs 2 GmbHG zusammen mit
+dem Geschäftsführer hafteten.
+Die Frage nach einer Haftung der Vorgesellschaft und deren Schicksal nach Eintragung der GmbH ist in ihrer vol-
+len Tragweite erst deutlich geworden, seitdem der Senat die Handelndenhaftung nach § 11 Abs 2 GmbHG auf Ge-
+schäftsführer oder wie ein Geschäftsführer tätig gewordene Personen beschränkt hat (BGHZ 47, 25; 65, 378). Die
+dadurch ausgelösten Versuche, die Gründer auf einem anderen Wege, nämlich wegen ihrer Eigenschaft als Mit-
+glieder der Vorgesellschaft, zur Mithaftung heranzuziehen, machten es notwendig, die Folgen einer Geschäftstä-
+tigkeit der Vorgesellschaft, auch im Hinblick auf den Rechtszustand nach der Eintragung der GmbH, näher zu be-
+stimmen. Hierfür ist wichtig, daß der Gesetzgeber die Bildung von Gesamthandsvermögen in der Hand einer Vor-
+gesellschaft voraussetzt und dem auf der anderen Seite die Fähigkeit entsprechen muß, durch das satzungsmä-
+ßige Vertretungsorgan schon vor der Eintragung Verbindlichkeiten einzugehen (vgl § 7 Abs 2 und 3 GmbHG nF;
+BGHZ 45, 338, 343, 347f). Damit läßt sich die Forderung, die künftige GmbH tunlichst von Vorbelastungen freizu-
+halten, nur schwer auf eine Weise in Einklang bringen, bei der die berechtigten Interessen aller Betroffenen, aber
+auch die Sicherheit und Leichtigkeit des Rechtsverkehrs ausreichend gewahrt bleiben. Diese Schwierigkeit und
+das Nebeneinander von Organhaftung und Gründerhaftung haben zu einer Rechtsunsicherheit geführt, die sich
+in einer Vielfalt der unterschiedlichsten Meinungen widerspiegelt.
+Der Gesetzgeber hat, wie schon bei Erlaß des Aktiengesetzes von 1965 (vgl hierzu R. Fischer, Pro GmbH S 161
+Fußn 68), auch bei der Novellierung des GmbH-Gesetzes durch das Gesetz vom 4. Juli 1980 davon abgesehen,
+durch eine Regelung des Rechts der Vorgesellschaft Klarheit zu schaffen, weil er meinte, es sei zweckmäßiger, die
+damit zusammenhängenden Streitfragen der Wissenschaft und Rechtsprechung zur Klärung zu überlassen (BTDs
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+114/168
+53 S 96 u § 
+ bs ). a
+t st d e ec tsp ec u g u
+e
+ oc  ac d üc
+c e  a s b s e  o  d e u gabe
+gestellt, nach einer Lösung zu suchen, die den tragenden Grundsätzen des Kapitalgesellschaftsrechts, dem Stand
+der rechtswissenschaftlichen Erkenntnisse, den Belangen der Beteiligten wie namentlich auch der Gläubiger und
+den Bedürfnissen des Rechtsverkehrs möglichst gerecht wird.
+b)
+Hierbei ist davon auszugehen, daß die Konkurrenz der Handelndenhaftung mit einer Haftung der Vorgesellschaft
+nach der gegenwärtigen Gesetzeslage unvermeidbar ist. Auch ist nicht daran vorbeizukommen, daß es ein Kern-
+gedanke des Kapitalgesellschaftsrechts ist, die juristische Person nur mit einem garantierten Mindestkapital als
+der unerläßlichen Betriebsgrundlage und Haftungsgrundlage ins Leben treten zu lassen; darauf, daß die GmbH
+wenigstens im Augenblick ihrer Eintragung, in dem sie "als solche" entsteht (§ 11 Abs 1 GmbHG), über diesen öf-
+fentlich verlautbarten Haftungsfonds tatsächlich verfügt, soll sich der Rechtsverkehr verlassen dürfen (Lutter, Ka-
+pital, Sicherung der Kapitalaufbringung und Kapitalerhaltung in den Aktienrechten und GmbH-Rechten der EWG,
+1964, S 128 zu Fußn 83; Wiedermann, JuRA 1970, 439, 453f; Binz, Haftungsverhältnisse S 88ff, 93f mwN). Dieser
+Grundsatz der Kapitalaufbringung kommt namentlich in den zwingenden Vorschriften der §§ 19, 21ff GmbHG
+zum Ausdruck, aber auch in den Anmeldungsbestimmungen, Haftungsbestimmungen und Kontrollbestimmun-
+gen der §§ 7ff GmbHG. Diese stellen es zwar für die Mindesteinzahlungen und für Sacheinlagen - wie schon das
+bisherige Recht - auf den Zeitpunkt der Anmeldung ab, in dem sich diese Leistungen "endgültig" in der freien Ver-
+fügung der Geschäftsführer befinden sollen (§ 7 Abs 2 und 3, § 8 Abs 2 GmbHG nF). Das hat aber vor allem prakti-
+sche Gründe und soll nicht etwa bedeuten, daß das weitere Schicksal der Einlagen bis zur Eintragung gleichgültig
+wäre. Ist zB der Wert einer Sacheinlage nach der Anmeldung unter den in der Satzung angegebenen Betrag ge-
+sunken, so soll das Gericht, wenn ihm dies bekannt wird, die Eintragung ablehnen (Begr zu § 9 Abs 1 Satz 1
+GmbHG, BTDs 8/1347 S 35; Geßler, BB 1980, 1385, 1387 für den Fall, daß die Ursachen schon vor der Anmeldung
+liegen; zum bisherigen Recht vgl Ulmer in Hachenburg, § 5 RdNr 68). Leistet bei einer Bargründung ein Gesell-
+schafter über den im Gesetz (§ 7 Abs 2 GmbHG) oder in der Satzung vorgeschriebenen Betrag hinaus schon vor
+der Eintragung Zahlungen in das Gesellschaftsvermögen, so wird er von seiner Einlageverpflichtung nur insoweit
+frei, als diese Zahlungen der Gesellschaft noch im Zeitpunkt der Eintragung unverbraucht zur Verfügung stehen
+(BGHZ 37, 75 m Anm R. Fischer, LM GmbHG § 11 Nr 13; BGHZ 51, 157, 159f). Es ist also im Grundsatz daran fest-
+zuhalten, daß es dem Zweck der Kapitalaufbringungsvorschriften widerspricht, das garantierte Anfangsvermögen
+der GmbH vorweg durch eine Belastung mit Verbindlichkeiten auszuhöhlen, die sich weder aus dem Gesetz noch
+aus der Satzung unmittelbar oder mittelbar ergibt (BGHZ 65, 378, 383).
+Solche zu Lasten der Vorgesellschaft begründete Schulden von einem Übergang auf die eingetragene GmbH aus-
+zuschließen, ist aber kein geeignetes und angemessenes Mittel, die Unversehrtheit des Stammkapitals im Augen-
+blick der Eintragung zu gewährleisten. Denn damit verträgt es sich nicht, daß nach heute nahezu einhelliger Mei-
+nung das gesamte in der Vorgesellschaft angesammelte Aktivvermögen mit der Eintragung auf die GmbH über-
+geht. Ein Gläubiger, der zB das Gesellschaftsvermögen durch Lieferung von Betriebseinrichtungen oder Waren
+vermehrt hat, hätte dann bei strikter Anwendung des Unversehrtheitsgrundsatzes unter Umständen das Nachse-
+hen, wenn dieses Vermögen infolge des Übergangs auf die eingetragene GmbH seinem Zugriff plötzlich entzogen
+wäre. Das widerspräche nicht nur dem Rechtsgedanken des § 419 BGB, sondern wäre auch mit den Geboten des
+Verkehrsschutzes und der Gerechtigkeit überhaupt unvereinbar. Zudem wäre die damit aufgerichtete Sperre ge-
+gen Vorwegbelastungen des Stammkapitals vielfach wirkungslos, weil die Geschäftsführer im Hinblick auf ihre
+Haftung nach § 11 Abs 2 GmbHG daran interessiert sein könnten, den Geschäftsabschluß sofort nach der Eintra-
+gung der GmbH in deren Namen zu genehmigen (Wiedemann, JuRA 1970, 448ff; Huber in Festschr f R. Fischer S
+272ff).
+Die eingetragene GmbH mit "nicht notwendigen" Verbindlichkeiten zu verschonen, wäre allenfalls dann vertret-
+bar, wenn auch die ihnen entsprechenden Aktiva bei der Vorgesellschaft verblieben und dort weiterhin als Haf-
+tungsmasse zur Verfügung stünden. Das scheitert aber schon daran, daß die Vorgesellschaft mit der Eintragung
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+115/168
+de  G
+b  
+ d ese  au ge t u d da
+t a s e
+öge st äge  eg ä t (U
+e  
+ ac e bu g, § 
+ d
+ 9  u est
+schr f Ballerstedt S 285, 300). Überdies wäre eine Aufspaltung des Aktivvermögens in einen auf die GmbH überge-
+henden und einen zurückbleibenden, weil aus Geschäften außerhalb der Satzung herrührenden Teil weder sach-
+gerecht noch praktikabel. Bei gemischten Sachgründungen und Bargründungen wäre den Gläubigern damit oh-
+nehin nicht viel geholfen, weil mindestens die Sacheinlagen bei Eintragung der GmbH zwangsläufig aus dem haf-
+tenden Vermögen der Vorgesellschaft ausscheiden müßten. Es wäre aber auch ungerechtfertigt, solche Vermö-
+gensstücke, die aus baren Einlagemitteln angeschafft worden sind - sofern sie sich von anderen überhaupt sicher
+unterscheiden lassen - von einem Übergang auf die GmbH auszuschließen. Ebensowenig liegt eine mögliche Lö-
+sung darin, durch Gesetz und Satzung nicht gedeckte Geschäfte einfach als unwirksam zu behandeln. Das kommt
+im wesentlichen nur bei Verträgen mit den Gründern selbst in Betracht, sofern es sich um eine Umgehung der
+Sachgründungsvorschriften handelt (vgl BGHZ 28, 314, 316; Urt d Sen v 19.12.74 - II ZR 177/72, LM AktG 1965, § 27
+Nr 1). Im übrigen verlangt das GmbH-Gesetz, anders als § 27 AktG, auch in der Neufassung des § 5 Abs 4 die Fest-
+setzung einer Sachübernahme in der Satzung nur insoweit, als diese auf eine Stammeinlage angerechnet werden
+soll (Deutler, GmbHRdsch 1980, 145, 147f).
+Freilich ist zu berücksichtigen, daß die Vertretungsmacht der Geschäftsführer in der Vorgesellschaft durch deren
+Zweck begrenzt ist, als notwendige Vorstufe zur juristischen Person deren Entstehung zu fördern und bis dahin
+das schon eingebrachte Vermögen zu verwalten und zu erhalten (Scholz/Fischer, GmbHG § 11 Anm 3c, 5; Ulmer in
+Hachenburg § 11 RdNr 36f, 57, 92). Geht es dabei zB um die Fortführung eines als Sacheinlage eingebrachten
+Handelsgeschäfts, so wird sich diese Vertretungsbefugnis praktisch weitgehend mit der umfassenden Vertre-
+tungsmacht des Geschäftsführers einer eingetragenen GmbH nach den §§ 35ff GmbHG decken (Urt d Sen v
+10.1.63 - II ZR 19/62, LM GmbHG § 11 Nr 12). Bei Bargründungen beschränkt sie sich dagegen im allgemeinen auf
+solche Rechtshandlungen, die unerläßlich sind, um die gesetzlichen Eintragungsvoraussetzungen und die Eintra-
+gung selbst herbeizuführen. Die Gründer sind aber nicht gehindert, die Vertretungsmacht der Geschäftsführer zu
+erweitern, zumal das GmbH-Gesetz, wie schon erwähnt, Erwerbsgeschäfte im Gründungsstadium nicht so streng
+wie das Aktienrecht beschränkt. Das kann insbesondere der Fall sein, wenn die Gründer den oder die Geschäfts-
+führer übereinstimmend ermächtigen, bereits vor der Eintragung ein Geschäft weiterzubetreiben oder zu eröff-
+nen oder, wie hier, namens der Vorgesellschaft die Komplementärrolle in einer Kommanditgesellschaft und damit
+die Haftung nach § 128 HGB zu übernehmen. Hierfür bedarf es (anders als bei einem Mitgliederwechsel nach den
+Urteilen BGHZ 21, 242 und 29, 300) nicht der Form des § 2 GmbHG. Denn die Regelung der Organvertretungs-
+macht hat nur für die Dauer der Vorgesellschaft Bedeutung, da nach der Eintragung § 37 Abs 2 GmbHG eingreift.
+Schließt ein Geschäftsführer im Rahmen einer solchen Ermächtigung für die Vor-GmbH oder die durch sie vertre-
+tene Kommanditgesellschaft Geschäfte ab, so sind diese für und gegen den Geschäftsinhaber wirksam (so im Er-
+gebnis Ulmer, wie zuvor; zu eng ders in Festschr f Ballerstedt S 291, 295: Erweiterung der Vertretungsmacht nur
+durch die Satzung; zu weitgehend andererseits Scholz/Winter aaO § 11 Anm 7 und Binz, Haftungsverhältnisse S
+134ff, die § 37 Abs 2 GmbHG in das Gründungsstadium vorverlegen wollen: Unbeschränkte Organvertretungs-
+macht auch ohne besondere Ermächtigung).
+Damit erweist es sich aus den schon angeführten Gründen als notwendig, sämtliche Aktiva und Passiva der Vor-
+gesellschaft, auch soweit sie aus nicht durch die Satzung gedeckten Geschäften stammen, nahtlos auf die GmbH
+übergehen zu lassen.
+c)
+Dieser Übergang kann bei Verbindlichkeiten, die mit einer satzungsgemäß eingebrachten Sacheinlage, wie na-
+mentlich einem Handelsgeschäft, notwendig verbunden sind, zur Folge haben, daß der Wert des eingebrachten
+Gegenstandes den Betrag der dafür übernommenen Stammeinlage in Wirklichkeit nicht (oder nicht mehr) er-
+reicht. In diesem Fall muß der Gesellschafter den Fehlbetrag in Geld ausgleichen (§ 9 GmbHG nF; ebenso zum bis-
+herigen Recht BGHZ 68, 191; sog Differenzhaftung). Der Unversehrtheitsgrundsatz wird hier also nicht buchstäb-
+lich, sondern wertmäßig verstanden, dh das eingebrachte Sachvermögen soll bei Aufstellung einer Bilanz einen
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+116/168
+t übe sc uß 
+ ö e de  Sta
+ap taff
+e  au
+e se  (
+ede
+a
+, Ju
+ 9 0, 53; 
+, a tu gs e
+ä t
+nisse S 95ff).
+Nicht grundsätzlich anders verhält es sich bei Bargründungen: Hier brauchen die in Geld geschuldeten Einlagen,
+anders als eine Sacheinlage, bei der Eintragung noch nicht in voller Höhe effektiv zur Verfügung der Geschäftsfüh-
+rer zu stehen (§ 7 Abs 2 und 3 GmbHG nF). In Höhe des Teils der Stammeinlage, der über die vorweg zu entrich-
+tenden Mindestbeträge hinausgeht, bestehen vielmehr lediglich Einlageforderungen, die in der Eröffnungsbilanz
+als solche zu verbuchen sind. Insofern gilt auch bei Bargründungen der "Grundsatz der wertmäßigen Aufbringung
+des Stammkapitals". Dann ist es aber nur folgerichtig, hier ebenfalls eine Differenzhaftung eingreifen zu lassen,
+also die Gesellschafter gegenüber der eingetragenen GmbH zur Ausfüllung der Kapitallücke zu verpflichten, die
+bilanzmäßig durch Vorbelastungen entstanden ist. Denn es macht vom Sinn der Kapitalaufbringungsvorschriften
+her grundsätzlich keinen Unterschied, ob zB ein als Sacheinlage eingebrachtes Unternehmen infolge ungünstiger
+Geschäftsabschlüsse nachträglich nicht mehr den in der Satzung festgesetzten Wert hat, ob schon vor Fälligkeit
+eingezahlte Bareinlagen bei der Eintragung verbraucht sind (vgl vorstehend zu b) oder ob das in Geldeinlagen und
+Geldeinlageforderungen verkörperte Stammkapital durch Verbindlichkeiten aus einer gemeinsam gewollten vor-
+zeitigen Geschäftsaufnahme schon vor der Eintragung aufgezehrt ist, so daß die GmbH mit einer Unterbilanz
+oder sogar überschuldet ins Leben tritt.
+Soll der gleiche, nunmehr ausdrücklich in § 9 GmbHG niedergelegte Rechtsgedanke in allen diesen vergleichbaren
+Fällen sachgerecht zur Geltung kommen, so bedeutet dies, daß die Gesellschafter auch bei einer Bargründung
+der GmbH gegenüber anteilig für die Differenz zwischen dem Stammkapital (abzüglich solcher Gründungskosten,
+die der Sache nach zu Lasten der GmbH gehen, wie insbesondere Eintragungsgebühren und Bekanntmachungs-
+gebühren) und dem Wert des Gesellschaftsvermögens im Zeitpunkt der Eintragung haften, was gegebenenfalls
+eine Ausfallhaftung gemäß § 24 GmbHG einschließt. Damit sind die Interessen der Altgläubiger und Neugläubiger
+ebenso wie die der Gesellschaft selbst mindestens so wirksam gewahrt wie bei einer Vorbelastungssperre, die
+durch einen nachträglichen Eintritt der GmbH in die von der Vorgesellschaft getätigten Geschäfte leicht umgan-
+gen werden könnte (Ulmer in Hachenburg, GmbHG § 11 RdNr 27ff, 91 sowie in Festschr f Ballerstedt S 292ff; Binz,
+Haftungsverhältnisse S 127ff). Die Bedenken, die im Schrifttum gegen eine solche (anteilige) Nachzahlungspflicht
+erhoben worden sind (Scholz/Winter aaO § 11 Anm 38; Huber in Festschr f R. Fischer S 290ff unter Aufgabe seiner
+mit Ulmer übereinstimmenden Ansicht in Festschr f Hefermehl S 252f), greifen nicht durch. Sie unterschätzen die
+gesetzliche Bedeutung der an bestimmte Sicherheiten gebundenen Eintragung als Entstehungsgrund für die juris-
+tische Person (§ 11 Abs 1, § 13 GmbHG), mit der die Vorschriften zum Schutz des Stammkapitals erst voll eingrei-
+fen, und verkennen auch, daß allein die Differenzhaftung zu einer angemessenen Gleichbehandlung von Altgläu-
+bigern und Neugläubigern führen kann. Denn beide erhalten die gleiche Chance, aus dem durch Nachzahlungen
+der Gesellschafter aufzufüllenden Gesellschaftsvermögen Befriedigung suchen zu können.
+Richtig ist allerdings, daß die nach Eintragung der GmbH drohende Differenzhaftung zu einem Interessenkonflikt
+zwischen (Fremdgeschäftsführern) Geschäftsführern und Gründer-Gesellschaftern führen kann, wenn es um die
+Frage geht, ob eine schon in die Verlustzone geratene oder sogar überschuldete Gesellschaft noch zur Eintragung
+gebracht werden soll. Eine sachgerechte Lösung dieses Konflikts kann aber nur darin liegen, daß die Gesellschaf-
+ter sich entscheiden müssen, ob sie an der Gründung festhalten und das hierzu fehlende Kapital nachschießen
+oder ob sie die Geschäftsführer anweisen wollen, den Eintragungsantrag zurückzuziehen, was dann alsbald zur Li-
+quidation der Vorgesellschaft führen muß. Tun sie aber nichts dergleichen und setzen sie, ohne die Eintragung
+weiterzubetreiben, den Geschäftsbetrieb in der bisherigen Weise fort, so können sie sich auch hinsichtlich der Alt-
+schulden nicht mehr darauf berufen, sie hätten ihre Haftung auf das Stammkapital beschränkt. Das gilt unabhän-
+gig davon, ob sie ein Grundhandelsgewerbe im Sinne von § 1 HGB betreiben oder nicht (vgl BGHZ 51, 30, 32; 22,
+240). Denn die Möglichkeit, die Haftung allein schon durch das Auftreten als "GmbH" zu begrenzen (BGHZ 72, 45,
+49f; Urt d Sen v 29.5.80 - II ZR 225/78, WM 1980, 955), rechtfertigt sich nur durch den gesetzlich vorgegebenen
+Zwang, bis zur Entstehung der GmbH zunächst ein Vorstadium zu durchlaufen, und setzt voraus, daß die Gläubi-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+117/168
+ge  au g u d d eses u t ete s tatsäc
+c  e
+a te  dü e , s c  ege  
+e  
+sp üc e a  e
+e e t ede  sc o
+bestehende oder demnächst entstehende GmbH mit einem gesetzlich kontrollierten und garantierten Haftungs-
+fonds halten zu können. Entfällt diese Voraussetzung, ohne daß die Gesellschafter hieraus die notwendige Folge-
+rung einer sofortigen Abwicklung der Vorgesellschaft ziehen, so brauchen sich die Gläubiger auch nicht mehr mit
+der Haftung des Handelnden nach § 11 Abs 2 GmbHG zufrieden zu geben, sondern können daneben die Gesell-
+schafter persönlich voll in Anspruch nehmen.
+d)
+Es ist nicht der Sinn der Differenzhaftung, die Eintragung der GmbH trotz unzureichender Kapitalausstattung zu
+ermöglichen (vgl Geßler, BB 1980, 1385, 1387). Bei Bargründungen werden sich daher die Versicherung des Ge-
+schäftsführers nach § 8 Abs 2 GmbHG nF und die entsprechende Prüfung durch das Registergericht gemäß § 9c
+GmbHG nF in sinngemäßer Auslegung dieser Vorschriften auch darauf zu erstrecken haben, inwieweit das aus
+Geldeinlagen oder Geldeinlageforderungen gebildete Startkapital bereits durch Verbindlichkeiten vorbelastet ist.
+Auf diese Weise werden Versuche erschwert, die strengeren Eintragungsvoraussetzungen bei einer Sachgründung
+zu umgehen.
+3.
+Für den vorliegenden Sachverhalt ergibt sich hieraus:
+a)
+Nach der Errichtung der GmbH am 31. Juli 1978 ist die zunächst bestehende Vorgesellschaft durch Vereinbarung
+mit der bisherigen Kommanditistin persönlich haftende Gesellschafterin der "B. F. KG" geworden. Ihre Stelle hat
+dann die eingetragene GmbH eingenommen. Die besonderen Fragen, die sich aus dem Betrieb eines nicht unter
+§ 1 HGB fallenden Unternehmens ergeben (vgl BGHZ 69, 95), spielen hier keine Rolle, weil die Kommanditgesell-
+schaft bereits im Handelsregister eingetragen war. Damit entfällt eine Haftung der Beklagten nach § 11 Abs 2
+GmbHG. Denn nach der Rechtsprechung des Senats kommt diese Haftung nicht in Betracht, wenn ein namens
+der Kommanditgesellschaft eingegangenes Geschäft dieser gegenüber wirksam geworden ist, infolgedessen auch
+die eingetragene GmbH nach § 128 HGB haftet und auf diese Weise dem Interesse der Gläubiger an einer Ver-
+pflichtung des vertragsmäßigen Schuldners voll Genüge getan ist (BGHZ 76, 320). Das Bedenken des Landge-
+richts, ein Geschäftsführer könnte im Namen der GmbH ein vor deren Eintragung abgeschlossenes Geschäft nur
+deshalb genehmigen, um auf diese Weise seiner Haftung nach § 11 Abs 2 GmbHG zu entgehen, ist gegenstands-
+los, da die GmbH, wie zu 2 ausgeführt wurde, auch ohne Genehmigung in alle Verbindlichkeiten der Vorgesell-
+schaft eintritt, für einen dadurch bedingten Kapitalverlust aber die Gesellschafter zum Ausgleich heranziehen
+kann.
+b)
+Unter dem Gesichtspunkt, daß die Beklagte als Mitglied der Vorgesellschaft deren Haftung nach § 128 HGB, be-
+schränkt auf das Gesellschaftsvermögen und noch geschuldete Einlagen, mittragen mußte, läßt sich ihre Verurtei-
+lung durch die Vorinstanzen ebenfalls nicht halten. Denn diese Mithaftung ist spätestens mit der Eintragung der
+GmbH erloschen (Wiedemann, JuRA 1970, 456f; K. Schmidt, NJW 1978, 1979, 1980, GmbHRdsch 1973, 152 sowie
+Zur Stellung der oHG S 346ff). Dabei kann offenbleiben, ob an der Auffassung festzuhalten ist, daß die Gläubiger
+der Vorgesellschaft deren Mitglieder bis zur Höhe ihrer noch nicht geleisteten Einlagen auch persönlich in An-
+spruch nehmen können (BGHZ 72, 45, 48f; 65, 378, 382), oder ob nur die Vorgesellschaft mit ihrem Gesamthands-
+vermögen - einschließlich noch offener Einlageforderungen - haftet (so Binz, Haftungsverhältnisse S 233ff; Huber
+in Festschr f R. Fischer S 285ff; vgl auch R. Fischer in Pro GmbH S 164). Auch wenn man mit der bisherigen Recht-
+sprechung des Senats die Gründer für Schulden der Vorgesellschaft (auch) persönlich haften läßt, ist es mit dem
+nur vorläufigen Charakter dieser Haftung schlecht zu vereinbaren, daß sie das Erlöschen der Vorgesellschaft in-
+folge des Übergangs aller Rechte und Pflichten auf die eingetragene GmbH überdauern soll, sei es auch nur mit
+der - ihren Wert stark vermindernden - Einschränkung, daß der Verpflichtete sich durch Leistung seiner noch aus-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+118/168
+ste e de  
+age 
+ das Gese sc a ts e
+öge  be e e  a
+ (so U
+e  
+ ac e bu g § 
+ d
+ 33, 6 ). e
+dadurch, daß der Gläubiger die juristische Person mit ihrem gesetzlichen Garantiekapital in Anspruch nehmen
+kann, hat er alles erreicht, was sein als "GmbH" auftretender Geschäftsgegner ihm versprochen hat. Eine dane-
+ben fortbestehende persönliche Haftung der Gründer ginge über die Verpflichtungserklärung des Geschäftsfüh-
+rers und die ihm zugrundeliegende Vertretungsmacht hinaus. Hierfür besteht angesichts der zu 2c erörterten Dif-
+ferenzhaftung auch kein Bedürfnis. Zudem ist kein Grund ersichtlich, Gläubiger der Vorgesellschaft durch eine
+Nachhaftung der Gründer zusätzlich zur Haftung der eingetragenen GmbH gegenüber Neugläubigern zu bevorzu-
+gen. Auch sollte es nicht dem Gutdünken des einzelnen Gesellschafters anheim stehen, ob er einen solchen Gläu-
+biger befriedigen und dadurch eine etwaige Differenzhaftung aller Gesellschafter verringern will, oder ob er in die
+Gesellschaftskasse zahlt und es der Geschäftsführung überläßt zu entscheiden, welche Gesellschaftsschulden
+vordringlich zu tilgen sind. Auf die Behauptung der Beklagten, das Stammkapital der GmbH sei voll eingezahlt
+worden, kommt es daher nicht mehr an.
+c)
+Die Beklagte könnte aber für die Klageforderung deshalb persönlich einstehen müssen, weil ihre Bevollmächtig-
+ten, soweit sich bisher übersehen läßt, die Bestellungen bei der Klägerin noch unter der Firma "B. F. KG" aufgege-
+ben haben und hieraus nicht zu ersehen war, daß an die Stelle von B. F. als persönlich haftender Gesellschafter
+eine Vorgesellschaft getreten war, die dann in der eingetragenen GmbH aufgehen sollte, womit die Geschäftsfüh-
+rerhaftung der Beklagten nach § 11 Abs 2 GmbHG entfiel. Tritt eine GmbH & Co KG im Rechtsverkehr unter einer
+Firma auf, die keinen Hinweis auf die Beteiligung einer juristischen Person enthält und deshalb den Eindruck er-
+weckt, es stehe mindestens ein Gesellschafter mit seinem gesamten Privatvermögen unbeschränkt für Geschäfts-
+schulden ein, so kann der Geschäftsführer der Komplementär-GmbH unter Umständen einem Geschäftspartner
+aus veranlaßtem Rechtsschein haften (BGHZ 62, 216, 222f; 64, 11, 17ff). Nicht anders ist es zu beurteilen, wenn
+die unter irreführender Firma abgeschlossenen Geschäfte in eine Zeit fallen, in der sich die Komplementär-GmbH
+noch im Stadium der Gründung befindet.
+Die Beklagte hat zwar behauptet, die Klägerin sei bei Auftragserteilung ausdrücklich darauf hingewiesen worden,
+daß sie es nunmehr mit einer GmbH & Co KG zu tun habe. Das ist aber bestritten, so daß es weiterer Tatsachen-
+feststellungen bedarf. Die Sache ist daher an das Berufungsgericht zurückzuverweisen.

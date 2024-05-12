@@ -1,0 +1,607 @@
+II ZR 385/99
+Gericht: BGH,    Datum: 24. Feb 2003,    Fundstelle: BGHZ 154, 77; DRsp-Nr. 2003/6034
+§ 31 BGB, § 705 BGB, § 128 HGB: Haftung der BGB-Gesellschaft für Verhalten der (geschäftsführenden) Gesell-
+schafter; gesamtschuldnerische und persönliche Haftung der BGB-Gesellschafter für deliktisch begründete Ver-
+bindlichkeiten der Gesellschaft
+Leitsätze:
+Die Gesellschaft bürgerlichen Rechts muß sich zu Schadensersatz verpflichtendes Handeln ihrer (geschäfts-
+führenden) Gesellschafter entsprechend § 31 BGB zurechnen lassen.
+Die Gesellschafter einer Gesellschaft bürgerlichen Rechts haben grundsätzlich auch für gesetzlich begrün-
+dete Verbindlichkeiten ihrer Gesellschaft persönlich und als Gesamtschuldner einzustehen.
+Fundstellen: BGHZ 154, 77; NJW 2003, 1445; NZG 2003, 428 JuS 2003, 708; DRsp-Nr. 2003/6034
+Aus den Gründen:
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+99/168
+( ac  
+sp
+. 003 603   
+.deub e
+ec t.de)
+Tatbestand:
+Die Klägerin verlangt von den Beklagten aus abgetretenem Recht Rückzahlung eines Teilbetrages von 70.000,00
+DM einer von der D. Bank AG auf erstes Anfordern an die C. GmbH (C. GmbH) ausgezahlten und von dieser an die
+Gesellschaft bürgerlichen Rechts M.straße 50 (im folgenden: Gesellschaft oder Grundstücksgesellschaft) weiterge-
+leiteten Bürgschaftssumme.
+Die Beklagten sind seit Juni 1991 Gesellschafter jener Gesellschaft, die Eigentümerin des Grundstücks M.straße 50
+in B. war. Weitere Gesellschafterin und zugleich Geschäftsführerin der Gesellschaft war die Co. GmbH (Co.
+GmbH). Die von der Gesellschaft als Generalunternehmerin eingeschaltete C. GmbH, deren Geschäftsführer P. R.
+auch die Geschäfte der Co. GmbH führte, erteilte der Zedentin der Klägerin, der Da. GmbH (Da. GmbH), im Juli
+1991 den Auftrag für die Rohbauarbeiten eines Wohn- und Geschäftshauses, das auf dem Gesellschaftsgrund-
+stück errichtet werden sollte. Die D. Bank AG übernahm die von der Da. GmbH der C. GmbH zu stellende Ausfüh-
+rungsbürgschaft auf erstes Anfordern über 719.340,47 DM.
+Nachdem die Da. GmbH den Rohbauvertrag wegen Baubehinderung im November 1991 gekündigt hatte, schlos-
+sen die C. GmbH, vertreten durch P. R., und die Grundstücksgesellschaft, vertreten durch die Co. GmbH, diese ver-
+treten durch P. R., am 14. Januar 1992 eine Abtretungsvereinbarung, mit der die C. GmbH ihre Ansprüche gegen
+die D. Bank AG aus der Bürgschaft (neben etwaigen Schadensersatzansprüchen gegen die Da. GmbH) zur Siche-
+rung eventueller Mehrkosten aus der erforderlichen neuen Auftragsvergabe an die Grundstücksgesellschaft ab-
+trat. Letztere ermächtigte die C. GmbH, die Forderung aus der Bürgschaft einzuziehen. Auf Aufforderung der C.
+GmbH zahlte die D. Bank AG dieser im Juni 1992 die Bürgschaftssumme unter Vorbehalt der Rückforderung aus,
+belastete die Da. GmbH mit dem entsprechenden Betrag und trat dieser den Rückzahlungsanspruch ab. Die C.
+GmbH veranlaßte, daß die Bürgschaftssumme Anfang September 1992 der Grundstücksgesellschaft überwiesen
+wurde.
+Die Da. GmbH erwirkte gegen die C. GmbH ein 1995 rechtskräftig gewordenes Urteil auf Rückzahlung der Bürg-
+schaftssumme, ohne daraus jedoch noch vollstrecken zu können. Die C. GmbH wurde im September 1995 im
+Handelsregister gelöscht, die Löschung der Co. GmbH erfolgte im November 1996. 1997 trat die Da. GmbH ihre
+Ansprüche aus unberechtigter Inanspruchnahme der Bürgschaft an die Klägerin ab.
+Die Klägerin ist der Ansicht, der Bürgschaftsfall sei nicht eingetreten. Ihre zunächst auf positive Vertragsverletzung
+und ungerechtfertigte Bereicherung gestützte Klage blieb in erster Instanz ohne Erfolg. Ihre Berufung, mit der sie
+auch eine sittenwidrige vorsätzliche Schädigung der Da. GmbH durch die Grundstücksgesellschaft geltend ge-
+macht hat, führte zur Verurteilung der Beklagten. Mit ihrer Revision streben die Beklagten die Wiederherstellung
+des landgerichtlichen Urteils an.
+Entscheidungsgründe:
+Die Revision ist nicht begründet.
+I.
+Das Berufungsgericht hat ausgeführt, die Beklagten hafteten als Gesellschafter der Grundstücksgesellschaft, die
+für Schadensersatzansprüche der Klägerin einzustehen habe bzw. der die Bürgschaftssumme unberechtigt zuge-
+flossen sei, als Gesamtschuldner, und zwar sowohl aus ungerechtfertigter Bereicherung nach § 812 Abs. 1 BGB,
+jedenfalls in Verbindung mit § 822 BGB, als auch wegen sittenwidriger vorsätzlicher Schädigung nach § 826 BGB.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+100/168
+ü  d e us a
+u g de  ü gsc a tssu
+e a  d e C. G
+b  abe e
+ ec tsg u d 
+c t besta de . e  C. G
+b
+hätten, wie im Rechtsstreit 15 O 844/92 des Landgerichts B. festgestellt worden sei, wegen der Nichtausführung
+der Rohbauarbeiten keine Ansprüche gegen die Da. GmbH zugestanden, jedenfalls seien solche Ansprüche im
+vorliegenden Verfahren nicht einmal vorgetragen worden. Auch Schadensersatzansprüche der Grundstücksge-
+sellschaft gegen die C. GmbH seien weder vorgetragen noch sonst ersichtlich. Der Tatbestand der sittenwidrigen
+vorsätzlichen Schädigung der Da. GmbH sei erfüllt, weil der Geschäftsführer der C. GmbH die Bürgschaftssumme
+eingezogen habe, obwohl der C. GmbH keine durch die Bürgschaft gesicherten Ansprüche erwachsen seien, und
+er das Geld zu einem Zeitpunkt an die Grundstücksgesellschaft weitergeleitet habe, in dem die C. GmbH bereits
+überschuldet und konkursreif gewesen sei.
+II.
+Das hält revisionsrechtlicher Prüfung im Ergebnis stand.
+1. Mit Recht rügt die Revision allerdings die Annahme eines bereicherungsrechtlichen Anspruchs der Klägerin.
+Ein Anspruch aus § 812 Abs. 1 BGB besteht nicht, weil es an einer Leistung der D. Bank AG an die Grundstücksge-
+sellschaft fehlt. Die Bürgschaftssumme wurde an die C. GmbH gezahlt. Die Abtretung der Forderung an die
+Grundstücksgesellschaft verbunden mit der Ermächtigung der C. GmbH zu ihrer Einziehung konnte daran nichts
+ändern. Denn nach der Rechtsprechung des Bundesgerichtshofs hat die bereicherungsrechtliche Rückabwicklung
+selbst einer auf Anweisung des Zedenten an den Zessionar erfolgten Leistung zwischen dem Schuldner und dem
+Zedenten stattzufinden, nicht zwischen dem Schuldner und dem Zessionar (BGHZ 105, 365, 369; BGHZ 122, 46,
+50). Etwas anderes gilt nur, wenn der Zessionar die Leistung an sich veranlaßt oder maßgeblich durch sein Drän-
+gen initiiert hat (BGH, Urt. v. 8. Juni 1988 - IV b ZR 51/87, NJW 1989, 161, 162; Urt. v. 25. September 1996 - VIII ZR
+76/95, NJW 1997, 461, 464), wofür es hier jedoch an Anhaltspunkten fehlt.
+Auch ein Anspruch aus § 822 BGB kommt nicht in Betracht. Er setzt neben der Unentgeltlichkeit der Weiterleitung
+des Erlangten voraus, daß der Erstempfänger aus Rechtsgründen nicht haftet (BGH, Urt. v. 3. Dezember 1998 - III
+ZR 288/96, NJW 1999, 1026, 1028), was der Fall ist, wenn er sich auf den Wegfall der Bereicherung berufen kann, §
+818 Abs. 3 BGB. Die Berufung auf § 818 Abs. 3 BGB war der C. GmbH jedoch verwehrt, weil sie der verschärften
+Haftung analog § 820 Abs. 1 Satz 2 BGB unterlag. Denn die Leistung der D. Bank AG erfolgte unter Vorbehalt der
+Rückforderung, und ein Widerspruch der C. GmbH insoweit ist nicht ersichtlich (BGH, Urt. v. 8. Juni 1988 aaO.).
+2. Das Berufungsgericht hat jedoch rechtsfehlerfrei einen Anspruch der Klägerin gegen die Grundstücksgesell-
+schaft aus § 826 BGB bejaht.
+a) Die sittenwidrige vorsätzliche Schädigung der Da. GmbH liegt in der Einforderung der Bürgschaftssumme
+durch die C. GmbH und der Weiterleitung an die Gesellschaft durch den Geschäftsführer R. in seiner Doppelrolle
+als Geschäftsführer der C. GmbH und zugleich der geschäftsführenden Gesellschafterin der Grundstücksgesell-
+schaft.
+Der Grundstücksgesellschaft stand ein entsprechender Zahlungsanspruch gegen die C. GmbH nicht zu; die C.
+GmbH besaß keine Forderung gegen die Da. GmbH, die sie zur Inanspruchnahme der Bürgschaft berechtigt
+hätte. Die Weiterleitung des Geldes an die Grundstücksgesellschaft erfolgte zu einem Zeitpunkt, als die C. GmbH
+überschuldet und konkursreif war. Letzteres hat das Berufungsgericht auf Grund des Sachvortrags der Klägerin
+und der dazu eingereichten Unterlagen rechtsfehlerfrei festgestellt; insoweit erhebt die Revision keine Bedenken.
+Entsprechendes gilt für die Feststellung des Berufungsgerichts, ein Schadensersatzanspruch der Grundstücksge-
+sellschaft gegen die C. GmbH sei nicht geltend gemacht worden.
+Entgegen der Revision geht das Berufungsgericht auch ohne Rechtsfehler davon aus, daß der Eintritt des Bürg-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+101/168
+sc a ts a s 
+c t sc
+üss g o get age  st. 
+e e agte  abe  e
+e u ste u g de  oste , d e d e a. G
+b
+für die Rohbauarbeiten veranschlagt hatte, und der nach Einschaltung einer neuen Generalübernehmerin und
+Beauftragung eines neuen Bauunternehmens tatsächlich entstandenen Kosten vorgelegt und behauptet, der die
+veranschlagten Kosten übersteigende Mehrbetrag von rund 892.000,00 DM sei der der Gesellschaft durch das
+Verhalten der Da. GmbH entstandene Schaden. Sie haben jedoch nicht im einzelnen dargelegt, daß und weshalb
+die Kündigung des Bauvertrages durch die Da. GmbH unberechtigt und für die Entstehung der Mehrkosten ur-
+sächlich war.
+Daß die Entgegennahme der Bürgschaftssumme durch die Gesellschaft unter diesen - dem für die Geschäftsfüh-
+rerin der Gesellschaft wie für die C. GmbH handelnden P. R. bekannten - Umständen gegen die guten Sitten ver-
+stieß, kann keinem Zweifel unterliegen. Dabei handelte R. vorsätzlich und in dem Bewußtsein, den Bürgschaftsbe-
+trag damit zum Schaden der Da. GmbH deren Zugriff zu entziehen. Deshalb geht auch die Rüge der Revision fehl,
+bei den Feststellungen des Berufungsgerichts, R. habe das Geld an der C. GmbH vorbei auf die Grundstücksge-
+sellschaft übergeleitet, um so den Zugriff der Gläubiger der C. GmbH darauf zu verhindern, handele es sich um
+unhaltbare, durch Parteivorbringen nicht gedeckte bloße Behauptungen des Gerichts.
+b) Die Geschäftsführerin der Grundstücksgesellschaft, die Co. GmbH, muß sich das deliktische Handeln ihres Ge-
+schäftsführers R. nach § 31 BGB ebenso zurechnen lassen wie die Grundstücksgesellschaft in entsprechender An-
+wendung dieser Bestimmung das Handeln ihrer geschäftsführenden Gesellschafterin. Verfassungsmäßig berufe-
+ner Vertreter im Sinne der Vorschrift kann auch eine juristische Person sein, wenn diese wie im vorliegenden Fall
+zur Geschäftsführung berechtigte Gesellschafterin einer Gesellschaft bürgerlichen Rechts ist.
+aa) Nach einer älteren Entscheidung des Bundesgerichtshofs soll allerdings die Vorschrift des § 31 BGB auf die
+Gesellschaft bürgerlichen Rechts nicht anwendbar sein, weil sie, anders als die offene Handelsgesellschaft oder
+die Kommanditgesellschaft, zu wenig körperschaftlich organisiert sei, als daß man die für sie handelnden Gesell-
+schafter als ihre "Organe" bezeichnen könnte (BGHZ 45, 311, 312). Die darin zum Ausdruck kommende - inzwi-
+schen nahezu durchweg abgelehnte (Nachweise bei K. Schmidt, Gesellschaftsrecht 4. Aufl. § 60 II 4, S. 1782 f.) -
+Auffassung ist geprägt von der damals herrschenden Meinung, die der Gesellschaft bürgerlichen Rechts eine ei-
+gene Rechts- und Parteifähigkeit absprach und eine akzessorische persönliche Haftung der Gesellschafter für die
+Verbindlichkeiten der Gesellschaft nicht kannte. Damit schien der Weg versperrt, über § 31 BGB deliktisches Han-
+deln eines Gesellschafters der Gesellschaft zuzurechnen und im Gefolge deren Gesellschafter akzessorisch für die
+Verbindlichkeit haften zu lassen.
+bb) Diese Auffassung ist jedenfalls durch den inzwischen mit Zustimmung aller anderen Zivilsenate des Bundes-
+gerichtshofs vollzogenen Wandel im Verständnis der Rechtssubjektivität der Gesellschaft bürgerlichen Rechts und
+ihrer Haftungsverfassung (Senat, BGHZ 146, 341) überholt. Danach besitzt die Gesellschaft bürgerlichen Rechts
+Rechtsfähigkeit, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; in diesem
+Rahmen ist sie im Zivilprozeß aktiv und passiv parteifähig. Für die danach von der Gesellschaft bürgerlichen
+Rechts begründeten Verbindlichkeiten in deren jeweiligen Bestand haften ihre Gesellschafter persönlich als Ge-
+samtschuldner.
+Es gibt keinen überzeugenden Grund, diese Haftung - anders als bei der OHG, bei der die Haftung der Gesell-
+schaft auch für gesetzliche Verbindlichkeiten, insbesondere auch für ein zum Schadensersatz verpflichtendes Ver-
+halten ihrer Gesellschafter, und die entsprechende Anwendbarkeit des § 31 BGB heute allgemein anerkannt sind -
+auf rechtsgeschäftlich begründete Verbindlichkeiten zu beschränken (Gesmann-Nuissl, WM 2001, 973, 978; Gru-
+newald, Gesellschaftsrecht 5. Aufl. Rdn. 113; Habersack, BB 2001, 477, 481; Hadding; ZGR 2001, 712, 725 f., 735 f.;
+K. Schmidt, NJW 2001, 993, 998 f.; Ulmer, ZIP 2001, 585, 597; Wiedemann, JZ 2001, 661, 663). Für die Ausdehnung
+auf gesetzliche Verbindlichkeiten spricht insbesondere der Gedanke des Gläubigerschutzes (Ulmer aaO.): anders
+als bei rechtsgeschäftlicher Haftungsbegründung können sich die Gläubiger einer gesetzlichen Verbindlichkeit ih-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+102/168
+e  Sc u d e  
+c t aussuc e ; da
+ abe  
+uß e st ec t 
+e be  e t ag c e  e b
+d c
+e te  das 
+at e
+mögen der Gesellschafter als Haftungsmasse zur Verfügung stehen.
+Die ausnahmslose Haftung für gesetzliche Verbindlichkeiten ist zudem im Modell der akzessorischen Haftung an-
+gelegt; ohne sie bliebe die Rechtssubjektivität der Gesellschaft bürgerlichen Rechts unvollkommen. Die Haftung
+für deliktisches Handeln eines Gesellschafters, soweit dieses nach § 31 BGB der Gesellschaft zugerechnet werden
+kann, ist den übrigen Gesellschaftern auch zumutbar, weil sie in aller Regel auf Auswahl und Tätigkeit der Organ-
+mitglieder entscheidenden Einfluß besitzen (Ulmer aaO.).
+Die Stimmigkeit dieses Verständnisses wird im übrigen auch durch die Möglichkeit der identitätswahrenden Um-
+wandlung der gewerblich tätigen Gesellschaft bürgerlichen Rechts in eine OHG belegt. Denn eine solche Gesell-
+schaft bürgerlichen Rechts wird von Gesetzes wegen ohne jeden Publizitätsakt zu einer personen- und struktur-
+gleichen OHG, sobald ihr Unternehmen nach Art und Umfang einen in kaufmännischer Weise eingerichteten Ge-
+werbebetrieb erfordert, §§ 105 Abs. 1, 1 HGB. Da dieser Übergang sich oft gleitend vollzieht und die Erforderlich-
+keit kaufmännischer Einrichtungen nur durch eine wertende Beurteilung festzustellen ist, läßt sich der Zeitpunkt,
+ab dem es sich nicht mehr um eine Gesellschaft bürgerlichen Rechts, sondern um eine OHG handelt, selten exakt
+bestimmen. Da sich zudem die Umwandlung auch in umgekehrter Richtung vollziehen kann, wäre es mit dem
+Grundsatz der Rechtssicherheit für Gesellschafter wie Gläubiger unvereinbar, OHG und Gesellschaft bürgerlichen
+Rechts, was die Geltung des § 31 BGB betrifft, unterschiedlich zu behandeln.
+II ZR 420/13
+Gericht: BGH,    Datum: 9. Jun 2015,    Fundstelle: NJW 2015, 2882; DB 2015, 1951; DRsp Nr. 2015/14508
+§ 707 BGB, § 735 BGB, § 739 BGB: Publikumspersonengesellschaft; Ausscheiden durch Mehrheitsbeschluss; Zu-
+stimmungspflicht zu Ausscheiden wegen gesellschaftlicher Treuepflicht; Sanieren oder Ausscheiden
+Leitsatz:
+Der Gesellschaftsvertrag einer Publikumspersonengesellschaft muss für eine Zustimmungspflicht des Ge-
+sellschafters zu seinem Ausscheiden aus gesellschafterlicher Treuepflicht in besonders gelagerten Ausnah-
+mefällen keine ausdrückliche Regelung enthalten, weil diese Treuepflicht jedem Gesellschaftsverhältnis
+ohne ausdrückliche Regelung immanent ist. Ein Gesellschaftsvertrag kann allerdings diese Treuepflicht aus-
+drücklich oder im Wege der Auslegung konkretisierende Regelungen enthalten, die insbesondere die aus
+der Treuepflicht folgende Zustimmungspflicht für bestimmte Sachverhalte einschränken oder an weitere
+Voraussetzungen knüpfen (Fortführung von BGH, Urteil vom 19. Oktober 2009 - II ZR 240/08, BGHZ 183, 1 -
+Sanieren oder Ausscheiden; Urteil vom 25. Januar 2011 - II ZR 122/09, ZIP 2011, 768 ).
+Fundstellen: NJW 2015, 2882; DRsp Nr. 2015/14508
+Rub-RR-Besprechung des Urteils:
+RUB-RR2016_02_001.pdf (127.70 KB)
+Aus dem Urteil:
+(nach www.rechtsportal.de - DRsp Nr. 2015/14508)
+Tatbestand
+Die Klägerin, ein geschlossener Immobilienfonds in der Rechtsform der Gesellschaft bürgerlichen Rechts, verlangt
+von dem Beklagten mit der Begründung, dieser sei zum 31. März 2011 aus der Gesellschaft ausgeschieden, Zah-
+lung des sich zu seinen Lasten aus der Auseinandersetzungsbilanz ergebenden Fehlbetrags in Höhe von
+29.040,01 €.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+103/168
+Die Klägerin wurde 1995 gegründet. Ihr traten circa 600 Gesellschafter mit einem Eigenkapital von 38.373.400 €
+bei. Die Immobilien des Fonds, jeweils ein Objekt in B. -R. und eines in B. -H. , wurden in den Jahren 1995 bis 1996
+errichtet. Hieraus erzielte die Klägerin Einkünfte aus Vermietung und Verpachtung und konnte grundsätzlich Mit-
+tel aus öffentlicher Förderung durch das Land B. beanspruchen.
+Der Beklagte trat der Klägerin mit Zeichnungsschein vom 13./25. November 1996 mit einer Beteiligungssumme
+von 50.000 DM bei.
+Die Allgemeinen Vertragsbedingungen des Fonds, die der Beklagte mit seiner Beitrittserklärung als verbindlich
+anerkannt hat, bestehen ausweislich der Präambel aus folgenden Regelungswerken:
+I.
+Auftrag, Vollmacht und Genehmigung
+II.
+Gesellschaftsvertrag
+III.
+Geschäftsbesorgungsvertrag
+IV.
+Grundbuchtreuhand
+V.
+Treuhandbankvertrag
+VI.
+Schlussbestimmungen.
+Gemäß den Schlussbestimmungen stellen diese Regelungswerke ein einheitliches Vertragswerk dar.
+Der Gesellschaftsvertrag der Klägerin (künftig: AVB II) enthält u.a. folgende Regelungen:
+§ 3 Beitragspflicht und sonstige Pflichten der Gesellschafter
+1. Jeder Gesellschafter ist verpflichtet,
+- den in der Zeichnungserklärung übernommenen Beitrag an die Gesellschaft zu leisten ...
+- die persönliche Haftung für die Verbindlichkeiten der Gesellschaft zu übernehmen und Nachschüsse bei fehlen-
+der Liquidität zu leisten, jedoch stets nur quotal entsprechend seiner Beteiligung an der Gesellschaft,
+...
+3. Erfüllt ein Gesellschafter seine Pflichten nicht, kann er aus der Gesellschaft ausgeschlossen werden (§ 14 AVB
+II).
+§ 4 Beteiligung an der Gesellschaft
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+104/168
+. 
+e ete gu g e
+es jede  Gese sc a te s a  de  Gese sc a t e g bt s c  aus de
+ e
+ä t
+s se
+e  
+ de  e
+trittserklärung übernommenen Beitragspflicht (Nominalbeteiligung) zur Summe aller von den Gesellschaftern
+übernommenen Beitragspflichten. Ein Aufgeld wird nicht berücksichtigt.
+2. Es ist vorgesehen, so viele Gesellschafter in die Gesellschaft aufzunehmen, dass eine Gesamtbeitragspflicht von
+73.795.000 DM besteht. Die Gesamtbeitragspflicht entspricht dem für die Finanzierung des Investitionsvorhabens
+geplanten Eigenkapital (Nominalkapital der Gesellschaft). Zu einer notwendigen Nachfinanzierung kann das No-
+minalkapital um bis zu 10 % erhöht werden durch Beitragserhöhung der Gesellschafter oder durch Aufnahme
+weiterer Gesellschafter.
+3. Die Beitragspflicht kann geringer als der Nennwert der Nominalbeteiligung festgelegt werden, wenn Neugesell-
+schafter für Ausgeschiedene aufgenommen werden.
+4. Durch sukzessiven Gesellschafterbeitritt kann die Beteiligungsquote zunächst höher sein, sofern durch eine
+Beitragsgarantie zum 31.12. des Jahres der Fertigstellung die angestrebte Quote sichergestellt ist.
+5. Die Beteiligungsquote kann sich verringern, sofern der Gesellschafter bei einer Beitragserhöhung nach Abs. 2
+nicht mitwirkt.
+§ 8 Gesellschafterbeschlüsse
+...
+8. Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst. Der Gesellschaftsvertrag kann
+nur mit mindestens 75 % der abgegebenen Stimmen geändert werden. ...
+10. ... Der Inhalt der Niederschrift gilt als anerkannt, wenn nicht innerhalb von 4 Wochen nach Absendung der
+Niederschrift an die Gesellschafter eine mit Gründen versehene Einwendung erhoben wurde. Nach Fristablauf ist
+jede Beanstandung ausgeschlossen.
+§ 11 Gewinn- und Verlustbeteiligung, Ausschüttungen
+...
+2. Treten die Gesellschafter bis zur vollständigen Zeichnung des Nominalkapitals zu unterschiedlichen Zeitpunk-
+ten bei oder wird ein Neugesellschafter als Ersatz für einen ausgeschlossenen Gesellschafter innerhalb der Bau-
+errichtungsphase aufgenommen, so sind die später beitretenden Gesellschafter verpflichtet, von den zukünftigen
+Verlusten der Gesellschaft vorab so viel zu tragen, bis alle Verlustanteile der Gesellschafter den Beteiligungsquo-
+ten gleichermaßen entsprechen. Es kann hiervon eine abweichende Regelung getroffen werden.
+§ 14 Ausschluss eines Gesellschafters
+1. Die Gesellschafter können durch Beschluss einen Gesellschafter aus wichtigem Grunde aus der Gesellschaft
+ausschließen.
+2. Ein wichtiger Grund liegt insbesondere vor, wenn
+a) ...
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+105/168
+b) ...
+c) ein Gesellschafter seiner Nachschusspflicht nach § 3 Abs. 1 AVB II nicht nachkommt;
+...
+3. Ein Gesellschafter scheidet aus in den Fällen des
+- a) und b) rückwirkend mit dem Tage des Beitritts,
+- c) an dem Tag, an dem ein Dritter an der Stelle des ausgeschlossenen in die Gesellschaft aufgenommen wurde ...
+Im Geschäftsbesorgungsvertrag (AVB III) findet sich u.a. folgende Regelung:
+§ 5 Schlussrechnung
+1. Der Geschäftsbesorger ist verpflichtet, nach Fertigstellung des Bauvorhabens bzw. der Anerkennung der
+Schlussabrechnung durch die Investitionsbank B. unverzüglich die Schlussabrechnung vorzulegen.
+...
+3. Zur Abdeckung von Mehrkosten ... ist der Geschäftsbesorger ohne besonderen Gesellschafterbeschluss be-
+rechtigt, das Nominalkapital der Gesellschaft durch Aufnahme von Neugesellschaftern um höchstens 10% zu er-
+höhen. Die Gesellschafter haben ein Vorzeichnungsrecht.
+Im Jahre 2009 erzielte die Klägerin nach ihren Angaben bei Inrechnungstellung sämtlicher Einnahmen, d.h. auch
+der Förderung, gerade noch ein ausgeglichenes Ergebnis, sie war jedoch überschuldet. Die Bankverbindlichkeiten
+beliefen sich auf 66.911.000 € und damit auf das 28,8-fache der Jahressollmiete ohne öffentliche Förderung und
+rund 172 % des Eigenkapitals der Gesellschaft. Demgegenüber standen Vermögenswerte in Höhe von insgesamt
+16.837.000 €. Wegen der problematischen Vermietungssituation, der Beendigung des Generalmietvertrags für die
+Gewerbefläche zum 31. August 2010 und des absehbaren Wegfalls der öffentlichen Fördermittel schaltete die Klä-
+gerin die K. GmbH als Sanierungsberaterin zur Erarbeitung eines Sanierungskonzepts ein.
+Nach Erörterung verschiedener Handlungsoptionen und des erarbeiteten Sanierungskonzepts wurde auf einer
+Gesellschafterversammlung der Klägerin vom 2. Dezember 2009 die Sanierung der Gesellschaft nach dem Modell
+"Sanieren oder Ausscheiden" beschlossen. Danach wurde das bestehende und vollständig verbrauchte Nominal-
+kapital der Gesellschaft von 38.373.400 € um 38.335.026,60 € auf 38.373,40 € (1 Promille) herabgesetzt und so-
+dann eine Kapitalerhöhung um den erforderlichen Sanierungsbetrag um bis zu 36.454.730 € auf 36.493.103,40 €
+beschlossen. Die Gesellschafter wurden zur freiwilligen Übernahme der Kapitalerhöhung entsprechend ihrer vor
+der Kapitalherabsetzung bestehenden quotalen Beteiligung aufgefordert. Weiter wurde folgender Beschluss mit
+einer Mehrheit von 90,71 % gefasst:
+"Gesellschafter, die bis zum Einzahlungsstichtag - spätestens jedoch bis zum Sanierungsstichtag - nicht nach Maß-
+gabe der Bestimmungen zu 7.3.2 einen Anteil in Höhe ihres jeweiligen Gesellschafterbeitrags auf den Erhöhungs-
+betrag übernommen und (durch Zahlung oder Abschluss einer Ratenzahlungsvereinbarung) bewirkt haben, schei-
+den mit dinglicher Wirkung mit dem Ablauf des Sanierungsstichtags, mit schuldrechtlicher Wirkung mit dem auf
+den Sanierungsstichtag vorangehenden Tag, 24.00 Uhr, aus der Gesellschaft aus, ohne dass es einer weiteren Er-
+klärung der Gesellschaft bedarf."
+Der Beklagte stimmte dem Beschluss nicht zu und beteiligte sich nicht an der von der Gesellschafterversammlung
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+106/168
+de  
+äge
+ besc
+osse e  e
+ge  Übe
+a
+e de  ap ta e
+ö u g. 
+e au  de  Sa
+e u gsst c tag, de  3 .
+März 2011, durch eine Wirtschaftsprüfungsgesellschaft erstellte Auseinandersetzungsbilanz ergab einen Bilanz-
+fehlbetrag von 42.061.540,54 €. Entsprechend seiner zum Sanierungsstichtag bestehenden Beteiligung von
+0,067755 % ergibt sich hieraus ein Fehlbetrag zu Lasten des Beklagten in Höhe von 29.040,01 €.
+Das Landgericht hat die auf Zahlung dieses Fehlbetrags gerichtete Klage abgewiesen, das Berufungsgericht hat
+die Berufung der Klägerin zurückgewiesen. Dagegen wendet sich die Klägerin mit ihrer vom Berufungsgericht zu-
+gelassenen Revision.
+Entscheidungsgründe
+Die Revision der Klägerin hat Erfolg und führt unter Aufhebung des angefochtenen Urteils zur Zurückverweisung
+der Sache an das Berufungsgericht.
+I. Das Berufungsgericht (OLG München, ZIP 2014, 1172 ff.) hat zur Begründung seiner Entscheidung im Wesentli-
+chen ausgeführt: Der Beklagte sei nicht aufgrund des Beschlusses vom 2. Dezember 2009 aus der Klägerin ausge-
+schieden, sondern weiterhin Gesellschafter. Er sei daher nicht verpflichtet, den von der Klägerin geltend gemach-
+ten Fehlbetrag der Auseinandersetzungsbilanz zum 31. März 2011 zu zahlen. Zwar teile das Berufungsgericht
+nicht die Auffassung des Landgerichts, wonach eine Zustimmungspflicht des Beklagten zu dem Beschluss vom 2.
+Dezember 2009 aus Treuepflichtgesichtspunkten bereits deshalb zu verneinen sei, weil im Streitfall zum Zeitpunkt
+der Beschlussfassung zwar eine Überschuldung der Klägerin, nicht jedoch bereits Zahlungsunfähigkeit vorgelegen
+habe; eine drohende Zahlungsunfähigkeit reiche zur Annahme der Sanierungsbedürftigkeit aus.
+Ob die Klägerin sanierungsbedürftig gewesen sei, könne jedoch offen bleiben, weil der Beklagte aus anderen
+Gründen nicht zur Zustimmung zu dem Ausschließungsbeschluss vom 2. Dezember 2009 verpflichtet gewesen
+sei. Anders als das Landgericht gemeint habe, folge dies jedoch nicht aus den Regelungen in § 4 Abs. 2, Abs. 5 des
+Gesellschaftsvertrags, da diese nur die Investitionsphase beträfen, in der Bewirtschaftungsphase jedoch nicht un-
+mittelbar anwendbar seien.
+Gleichwohl habe vorliegend nach dem Gesellschaftsvertrag keine eine Zustimmungspflicht des Beklagten begrün-
+dende, berechtigte Erwartungshaltung der übrigen Gesellschafter bestanden. Zwar enthalte der Gesellschaftsver-
+trag in § 3 Abs. 1 eine Regelung, die eine Erwartungshaltung, dass jeder Gesellschafter in der finanziellen Schief-
+lage der Gesellschaft weiteres Risiko auf sich nehme und sich an einer Kapitalerhöhung beteilige, bei Wirksamkeit
+dieser Regelung rechtfertige. Diese Regelung sei jedoch unwirksam, weil sie keine Begrenzung nach oben enthalte
+und damit Ausmaß und Umfang der möglichen zusätzlichen Belastung für den einzelnen Gesellschafter nicht er-
+kennen lasse. Die angesichts dieser Unwirksamkeit bestehende Regelungslücke sei entweder durch die analoge
+Anwendung der Regelung in § 4 Abs. 5 des Gesellschaftsvertrags oder durch Anwendung der dispositiven Rege-
+lung des § 707 BGB zu schließen. Beides führe dazu, dass der Beklagte infolge der verweigerten Zustimmung zu
+den mehrheitlich gefassten Beschlüssen vom 2. Dezember 2009 lediglich eine Verwässerung seines Gesellschafts-
+anteils hinnehmen müsse.
+II. Diese Ausführungen halten einer revisionsgerichtlichen Überprüfung im entscheidenden Punkt nicht stand.
+Das Berufungsgericht hat offengelassen, ob die Klägerin sanierungsbedürftig war. Revisionsrechtlich ist zuguns-
+ten der Klägerin deren Sanierungsbedürftigkeit und Sanierungsfähigkeit sowie ein dem Beklagten zuzumutendes
+Ausscheiden zu unterstellen. Dann war der Beklagte aus gesellschafterlicher Treuepflicht verpflichtet, dem Be-
+schluss über die Ausschließung der nicht sanierungswilligen Gesellschafter, mithin dem Beschluss über seine
+Ausschließung, zuzustimmen.
+1. Das Berufungsgericht ist rechtsfehlerfrei davon ausgegangen, dass die Grundsätze über die aus Treuepflichtge-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+107/168
+s c tspu
+te  o ge de ust
+u gspfl
+c t 
+c t u  be  ub
+u
+spe so e gese sc a te  
+ de  ec ts o
+ e
+ner offenen Handelsgesellschaft, sondern auch - wie im hier gegebenen Fall bei Publikumsgesellschaften in der
+Rechtsform der Gesellschaft bürgerlichen Rechts Anwendung finden (BGH, Urteil vom 25. Januar 2011 - II ZR
+122/09, ZIP 2011, 768 ff. zur Anwendung dieser Grundsätze auf eine Gesellschaft bürgerlichen Rechts; Werten-
+bruch in Ebenroth/Boujong/ Joost/Strohn, HGB , 3. Aufl., § 105 Rn. 105; Oetker/Weitemeyer, HGB , 4. Aufl., § 109
+Rn 22 mwN).
+2. Ebenso frei von Rechtsfehlern hat das Berufungsgericht in Übereinstimmung mit der Rechtsprechung des Se-
+nats angenommen, dass zur Annahme der Sanierungsbedürftigkeit der Klägerin nicht erforderlich ist, dass sie im
+Zeitpunkt der Beschlussfassung bereits zahlungsunfähig war; vielmehr reicht eine in absehbarer Zeit konkret dro-
+hende Zahlungsunfähigkeit, wie sie hier von der Klägerin zum Ende des Jahres 2010 behauptet worden und zu ih-
+ren Gunsten revisionsrechtlich zu unterstellen ist, aus (vgl. BGH, Urteil vom 25. Januar 2011 - II ZR 122/09, ZIP
+2011, 768 Rn. 1, 24 ).
+3. Da das Berufungsgericht insoweit keine Feststellungen getroffen hat, ist zugunsten der Klägerin weiter revisi-
+onsrechtlich zu unterstellen, dass sie sanierungsfähig war, d.h., dass im Zeitpunkt der Beschlussfassung der Ver-
+such, die Gesellschaft unter Aufbringung neuen Kapitals zu sanieren, verglichen mit den Folgen der ansonsten
+unvermeidlichen Zerschlagung wirtschaftlich sinnvoll war, und dass der Beklagte infolge seines Ausscheidens fi-
+nanziell nicht schlechter gestellt ist als im Falle der Zerschlagung der Klägerin (vgl. hierzu BGH, Urteil vom 19. Ok-
+tober 2009 - II ZR 240/08, BGHZ 183, 1 Rn. 25 ff. - Sanieren oder Ausscheiden).
+4. Anders als das Berufungsgericht meint, war der Beklagte aus gesellschafterlicher Treuepflicht zur Zustimmung
+zu der von der Gesellschafterversammlung mit der erforderlichen Mehrheit von über 75 % beschlossenen Sanie-
+rungsregelung und der damit verbundenen Ausscheidensfolge verpflichtet und muss sich daher so behandeln
+lassen, als hätte er ihr zugestimmt. Der Beklagte handelt treupflichtwidrig, wenn er zwar an den Sanierungsbemü-
+hungen der Klägerin nicht teilnehmen, aber in der Gesellschaft bleiben will.
+a) Der Entzug der Gesellschafterstellung durch zwangsweises Ausscheiden ist nur mit Zustimmung des betroffe-
+nen Gesellschafters möglich. Die Zustimmung kann dabei sowohl antizipiert durch eindeutige Regelung im Gesell-
+schaftsvertrag erfolgen als auch durch Zustimmung zu einem Beschluss, durch den - nachträglich - eine Aus-
+schlussregelung in den Gesellschaftsvertrag eingefügt wird (BGH, Urteil vom 19. Oktober 2009 - II ZR 240/08,
+BGHZ 183, 1 Rn. 16 - Sanieren oder Ausscheiden; Urteil vom 25. Januar 2011 - II ZR 122/09, ZIP 2011, 768 Rn. 18).
+Beide Voraussetzungen liegen hier nicht vor. Weder enthielt der ursprüngliche Gesellschaftsvertrag eine Regelung
+über das Ausscheiden bei der Nichtteilnahme an einer Kapitalerhöhung noch hat der Beklagte einer solchen Re-
+gelung nachträglich zugestimmt. Die Versäumung der Anfechtungsfrist durch den Beklagten ersetzt diese Zustim-
+mung - wie das Berufungsgericht zutreffend erkannt hat - nicht (BGH, Urteil vom 19. Oktober 2009 - II ZR 240/08,
+BGHZ 183, 1 Rn. 16 mwN - Sanieren oder Ausscheiden).
+b) Der Gesellschafter ist zwar im Allgemeinen nicht verpflichtet, einem auf sein Ausscheiden gerichteten Be-
+schluss der Gesellschafterversammlung zuzustimmen. Der Senat geht aber in ständiger Rechtsprechung davon
+aus, dass sich in besonders gelagerten Ausnahmefällen für jeden einzelnen Gesellschafter aus der gesellschafter-
+lichen Treuepflicht etwas Abweichendes ergeben kann. Eine Zustimmungspflicht kommt danach in Betracht,
+wenn sie mit Rücksicht auf das bestehende Gesellschaftsverhältnis oder auf die bestehenden Rechtsbeziehungen
+der Gesellschafter untereinander dringend erforderlich ist und die Änderung dem Gesellschafter unter Berück-
+sichtigung seiner eigenen Belange zumutbar ist. Die Verpflichtung eines einzelnen Gesellschafters, einer notwen-
+dig gewordenen Änderung zuzustimmen, ist daher anzunehmen, wenn dem schützenswerte Belange des einzel-
+nen Gesellschafters nicht entgegenstehen (vgl. BGH, Urteil vom 19. Oktober 2009 - II ZR 240/08, BGHZ 183, 1 Rn.
+23 - Sanieren oder Ausscheiden; Urteil vom 25. Januar 2011 - II ZR 122/09, ZIP 2011, 768 Rn. 20 jew. mwN; Werten-
+bruch in Ebenroth/Boujong/ Joost/Strohn, HGB , 3. Aufl., § 105 Rn. 104 f.; Oetker/Weitemeyer, HGB , 4. Aufl., § 105
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+108/168
+. 5 ; O e
+osc e de  
+ Staud
+ge , G  [ 0 5], § 
+ 
+. 006; Sasse
+at  
+ 
+este
+a
+e te b uc ,
+Handbuch der Personengesellschaften, Stand: 05/2015, § 26 Rn. 587b; grds. zustimmend auch Münch
+KommBGB/Schäfer, 6. Aufl., § 707 Rn. 11 jew. mwN; s. auch Grunewald, Festschrift G.H. Roth, 2011, S. 187 ff.; K.
+Schmidt, JZ 2010, 125 ff.; a.A. T. Schöne, ZIP 2015, 501 ff.; ders., GmbHR 2015, 337 ff.).
+c) Der Gesellschaftsvertrag bildet die Grundlage der gesellschafterlichen Treuepflicht und bestimmt damit auch
+deren Inhalt und Umfang; der einzelne Gesellschafter ist nur insoweit verpflichtet, wie er es im Gesellschaftsver-
+trag versprochen hat (BGH, Urteil vom 25. Januar 2011 - II ZR 122/09, ZIP 2011, 768 Rn. 21 mwN). Der Gesell-
+schaftsvertrag muss jedoch für eine Zustimmungspflicht des Gesellschafters zu seinem Ausscheiden aus gesell-
+schafterlicher Treuepflicht in besonders gelagerten Ausnahmefällen keine ausdrückliche Regelung enthalten.
+Diese Treuepflicht ist jedem Gesellschaftsverhältnis ohne ausdrückliche Regelung immanent. Ein Gesellschafts-
+vertrag kann allerdings diese Treuepflicht ausdrücklich oder im Wege der Auslegung konkretisierende Regelungen
+enthalten, die insbesondere die aus der Treuepflicht folgende Zustimmungspflicht für bestimmte Sachverhalte
+einschränken oder an weitere Voraussetzungen knüpfen. Enthält ein Gesellschaftsvertrag solche die Zustim-
+mungspflicht einschränkende oder modifizierende Regelungen, dürfen die Mitgesellschafter nicht ohne weiteres
+darauf vertrauen, dass sie einen Gesellschafter ohne seine Zustimmung ausschließen können. Erlaubt das einge-
+gangene Gesellschaftsverhältnis insoweit keine berechtigte Erwartungshaltung gegenüber einzelnen Gesellschaf-
+tern, besteht auch keine Treuepflicht, diese zu erfüllen.
+Eine die Zustimmungspflicht des nicht sanierungswilligen Gesellschafters ausschließende Regelung hat der Senat
+im Wege der Auslegung den Bestimmungen des Gesellschaftsvertrages entnommen, der seiner Entscheidung
+vom 25. Januar 2011 ( II ZR 122/09, ZIP 2011, 768 ff.) zugrunde lag.
+d) Im Gesellschaftsvertrag der Klägerin fehlt eine solche, der Zustimmungspflicht des Beklagten zu seinem Aus-
+scheiden entgegenstehende Regelung. Dies kann der Senat feststellen, da die Auslegung des Gesellschaftsver-
+trags einer Publikumsgesellschaft objektiv zu erfolgen hat (st. Rspr., siehe nur BGH, Urteil vom 15. November
+2011 - II ZR 266/09, BGHZ 191, 293 Rn. 17 mwN).
+aa) Noch zutreffend hat das Berufungsgericht erkannt, dass einer berechtigten Erwartungshaltung der übrigen
+Gesellschafter auf eine Zustimmung der nicht zu Sanierungsbeiträgen bereiten Gesellschafter zum Beschluss vom
+2. Dezember 2009 die Regelungen in § 4 Nr. 2, Nr. 5 AVB II nicht entgegenstehen. Die Regelungen in § 4 AVB II be-
+treffen lediglich eine 10%ige Erhöhung des Eigenkapitals und deren Auswirkung auf die Beteiligungsquoten der
+beigetretenen Gesellschafter in der Bauerrichtungsphase, die sich nicht auf eine später erforderliche Kapitalerhö-
+hung in einer Sanierungssituation übertragen lassen. Dies folgt bereits aus dem Wortlaut des § 4 AVB II und ergibt
+sich zudem auch aus dem Vertragszusammenhang.
+In § 4 Nr. 2 AVB II wird eine Verbindung hergestellt zwischen dem in der Investitionsphase aufgrund einer Pla-
+nungsrechnung für erforderlich, aber auch ausreichend gehaltenen, von den Gesellschaftern aufzubringenden Ei-
+genkapital und einem in dieser Phase notwendig werdenden Nachfinanzierungsbedarf, sollte sich die Planungs-
+rechnung als fehlerhaft erweisen und deshalb ein höheres Eigenkapital erforderlich werden. Pflichten der Gesell-
+schafter werden in § 4 AVB II nicht geregelt - weder die Pflicht zur Beitragszahlung, die sich in § 3 Nr. 1 AVB II fin-
+det, noch die Pflicht, sich an der Nachfinanzierung zu beteiligen. Vielmehr enthält § 4 AVB II eine bloße Beschrei-
+bung dessen, was im Falle einer erforderlichen Nachfinanzierung, im Falle eines Gesellschafterwechsels und in-
+folge sukzessiver Gesellschafterbeitritte auf die Gesellschafter hinsichtlich ihrer nach der grundsätzlichen Rege-
+lung in § 4 Nr. 1 AVB II ermittelten Beteiligungsquote an Änderungen zukommen kann. Lediglich für die eventuell
+erforderliche Nachfinanzierung, also für eine Kapitalerhöhung in der Bauerrichtungsphase, wird dem schon bei-
+getretenen Gesellschafter erläutert, dass er in diesem Fall mit einer Verwässerung seiner Beteiligungsquote um
+bis zu 10 % rechnen muss - z.B. wegen des Beitritts neuer Gesellschafter.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+109/168
+e
+gege übe  be asst s c  § 3 
+  a ge
+e
+ 
+t de  fl
+c te  de  Gese sc a te   e
+e se ts u  e t ags e s
+tung, d.h. zur Aufbringung des Eigenkapitals, die, wie aus § 4 Nr. 1 und Nr. 2 Satz 1 und 2 AVB II folgt, in der Inves-
+titionsphase zu erfüllen ist, andererseits zur Leistung von Nachschüssen bei fehlender Liquidität - und trifft in § 3
+Nr. 3 AVB II mit dem Ausschluss nichtzahlender Gesellschafter nach § 14 AVB II eine eigenständige Regelung zu
+den Folgen der Nichtzahlung der Beiträge und der Nachschüsse. Anders als im Fall der Senatsentscheidung vom
+25. Januar 2011 ( II ZR 122/09, ZIP 2011, 768 ff.) wird in § 3 AVB II hinsichtlich der Rechtsfolgen einer Nichtzahlung
+nicht auf § 4 Nr. 5 AVB II verwiesen und umgekehrt verweist § 4 AVB II für die Rechtsfolgen der nicht als Gesell-
+schafterpflicht ausgestalteten Nachfinanzierung nicht auf die Rechtsfolgen des § 3 AVB II. Regelungen zu einer
+nach der Bauerrichtungsphase erforderlich werdenden Kapitalerhöhung finden sich weder in § 3 noch in § 4 AVB
+II.
+Die Auslegung, dass § 4 AVB II lediglich eine allein eine begrenzte Kapitalerhöhung in der Bauerrichtungsphase
+betreffende Regelung enthält, ergibt sich über den Wortlaut hinaus auch aus dem Vertragszusammenhang. § 11
+Nr. 2 AVB II befasst sich ausdrücklich mit der Aufbringung des Nominalkapitals in der Bauerrichtungsphase und
+durch den Bezug zu § 4 Nr. 4 AVB II mit den Folgen für die in dieser Phase sukzessive beitretenden Gesellschafter
+bzw. durch Bezug zu § 4 Nr. 3 AVB II für die für Ausgeschiedene aufgenommenen Neugesellschafter. § 5 Nr. 3 AVB
+III bestimmt, dass der Geschäftsbesorger im Rahmen der von ihm nach Fertigstellung des Bauvorhabens zu er-
+stellenden Schlussabrechnung berechtigt sein soll, das Nominalkapital - wie in § 4 Nr. 2 AVB II geregelt - ohne be-
+sonderen Gesellschafterbeschluss durch Aufnahme neuer Gesellschafter zu erhöhen. Dadurch, dass den bereits
+Beigetretenen dort ein Vorzeichnungsrecht eingeräumt wird, wird erneut bestätigt, dass eine Pflicht zur Beteili-
+gung an der 10%igen Kapitalerhöhung nicht besteht.
+bb) Das Berufungsgericht hat im Ansatz weiter zutreffend erkannt, dass aufgrund der Regelung in § 3 Nr. 3 AVB II
+jeder Gesellschafter damit rechnen musste, im Falle der Weigerung, bei fehlender Liquidität Nachschüsse zu leis-
+ten, aus der Gesellschaft ausgeschlossen zu werden, womit spiegelbildlich die, eine Treuepflicht des Beklagten
+rechtfertigende Erwartungshaltung der übrigen Gesellschafter begründet wurde, dass der Beklagte sich bei einer
+finanziellen Schieflage der Gesellschaft einem finanziellen Beitrag entweder nicht verweigern oder ausscheiden
+würde.
+Der Ansicht der Revisionserwiderung, aus dem Prospekt ergebe sich, dass die Satzung der Gesellschaft keine Aus-
+scheidensregelung für die Zeit nach Fertigstellung des Bauvorhabens enthalte, kann schon deshalb nicht gefolgt
+werden, weil der Prospekt zur objektiven Auslegung des Gesellschaftsvertrags nur dann herangezogen werden
+kann, wenn er im Vertrag in Bezug genommen worden ist (BGH, Urteil vom 4. Juli 2005 - II ZR 354/03, ZIP 2005,
+1455 , 1456 mwN); eine solche Bezugnahme zeigt die Revisionserwiderung nicht auf. Im Übrigen trifft ihre Ansicht
+auch nicht zu. Im Prospekt wird auf Seite 4/5 eine Nachschusspflicht der Gesellschafter - auch - in der Zeit nach
+Fertigstellung des Bauvorhabens vorausgesetzt. Der Prospekt enthält auch keine abweichenden Angaben zu den
+Rechtsfolgen der Nichtzahlung des § 3 Nr. 3 AVB II, sondern es werden vielmehr die möglichen Folgen für die
+nachschussbereiten Gesellschafter aufgezeigt, die u.a. darin bestehen sollen, "den Anteil des säumigen Gesell-
+schafters und dessen Nachschusspflicht" zu übernehmen, was aber zwangsläufig mit einem Ausscheiden des
+nicht zahlenden Gesellschafters verbunden ist.
+cc) Entgegen der Ansicht des Berufungsgerichts ist die gesellschafterliche Treuepflicht des Beklagten, seinem Aus-
+scheiden zuzustimmen, nicht deshalb zu verneinen, weil die Regelung über die Verpflichtung zur Nachschusszah-
+lung in § 3 Nr. 1 AVB II, gemessen an den Grundsätzen der Senatsrechtsprechung (vgl. nur BGH, Urteil vom 25.
+Mai 2009 - II ZR 259/07, ZIP 2009, 1373 Rn. 18 mwN), den Anforderungen an eine hinreichende Grundlage für die
+Einforderung von Nachschüssen nicht genügt, wenn ein Gesellschafter einem darauf gerichteten Beschluss der
+Gesellschafterversammlung nicht zustimmt oder - hier - der Aufforderung des Geschäftsbesorgers nicht nach-
+kommt. Darauf, dass ein auf dieser Grundlage mit der nach dem Gesellschaftsvertrag erforderlichen Mehrheit ge-
+fasster Nachschussbeschluss zwar den zustimmenden Gesellschaftern gegenüber wirksam ist, die zustimmende
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+110/168
+Gese sc a te
+e
+e t abe  
+c t be ec t gt, d e 
+c t ust
+e de  Gese sc a te  ege  de  
+c t a
+u g
+auszuschließen (vgl. BGH, Urteil vom 19. Oktober 2009 - II ZR 240/08, BGHZ 183, 1 Rn. 17 ff. - Sanieren oder Aus-
+scheiden), kommt es hier nicht an.
+Der Umstand, dass die Nachschussregelung des Gesellschaftsvertrags aus dem Jahre 1995 nach der Rechtspre-
+chung des Senats (grundlegend: BGH, Urteil vom 4. Juli 2005 - II ZR 342/03, ZIP 2005, 1455 , 1456) - für alle Gesell-
+schafter unerkannt - keine hinreichende Grundlage für die Einforderung von Nachschüssen ohne Zustimmung
+der Gesellschafter bietet, ist in diesem Zusammenhang entgegen der Ansicht des Berufungsgerichts bedeutungs-
+los. Zum einem geht es im vorliegenden Verfahren, in dem die Klägerin die Zahlung des Auseinandersetzungs-
+fehlbetrags fordert, nicht um die Frage einer (wirksamen) Erhöhung der Beitragspflicht durch antizipierte Zustim-
+mung im Gesellschaftsvertrag, sondern um die Folgen des Ausscheidens des Beklagten (vgl. BGH, Urteil vom 19.
+Oktober 2009 - II ZR 240/08, BGHZ 183, 1 Rn. 21 - Sanieren oder Ausscheiden). Zum anderen enthält der Gesell-
+schaftsvertrag der Klägerin zwar auch keine den Anforderungen an eine antizipierte Zustimmung genügende Re-
+gelung zur Ausschließung eines nicht zahlungsbereiten Gesellschafters bei einer finanziellen Schieflage der Ge-
+sellschaft. Wenn aber, wie oben unter Rn. 23 ausgeführt, die Zustimmungspflicht auch ohne eine (ausdrückliche)
+Regelung im Gesellschaftsvertrag unter den in der Senatsrechtsprechung genannten Voraussetzungen schon aus
+der allgemeinen gesellschafterlichen Treuepflicht folgt, dann ist es unschädlich, wenn der Gesellschaftsvertrag
+zwar Regelungen zur Nachschusspflicht und zum Ausschluss bei Nichterfüllung der Nachschusspflicht enthält,
+diese den Anforderungen an eine antizipierte Zustimmung aber nicht genügen. Allein dadurch werden Umfang
+und Inhalt der sich aus der gesellschafterlichen Treuepflicht ergebenden Verpflichtungen des einzelnen Gesell-
+schafters in der Krisensituation der Gesellschaft nicht verändert. Jedenfalls kann ihnen keine die aus der gesell-
+schafterlichen Treuepflicht folgende Zustimmungspflicht einschränkende Wirkung zukommen. Solange der Ge-
+sellschaftsvertrag, wie hier - anders als im Fall der Senatsentscheidung vom 25. Januar 2011 ( II ZR 122/09, ZIP
+2011, 768 ff.) und auch nach Ansicht des Berufungsgerichts - keine die Erwartungshaltung der sanierungswilligen
+Gesellschafter einschränkende Regelung bezüglich der Zustimmung der nicht sanierungswilligen Gesellschafter
+zu ihrem Ausscheiden enthält, bleibt es vielmehr bei dem Grundsatz, dass die gesellschafterliche Treuepflicht in
+jedem Gesellschaftsverhältnis auch ohne entsprechende Regelung ergeben kann, dass die Gesellschafter in be-
+sonders gelagerten Ausnahmefällen verpflichtet sind, einem ihre Gesellschafterstellung aufhebenden Beschluss
+der Gesellschafterversammlung zuzustimmen.
+dd) Gegen die Treuepflicht des Beklagten zur Zustimmung zu seinem Ausscheiden spricht entgegen der Ansicht
+der Revisionserwiderung auch nicht der Umstand, dass dann, wenn der Gesellschafter - wie hier in § 4 Nr. 5 AVB II
+geregelt - schon in der Situation des möglichen Scheiterns des Vorhabens in der Investitionsphase nicht mit ei-
+nem Ausschluss im Falle der Nichtteilnahme an einer Kapitalerhöhung habe rechnen müssen, dies erst recht
+nicht für die weniger risikoreiche Bewirtschaftungsphase nach Abschluss des Bauvorhabens gelten könne. Diese
+unterschiedlichen Rechtsfolgen sind hier in den Regelungen des Gesellschaftsvertrages selbst angelegt und daher
+von allen Gesellschaftern mit ihrer Beitrittsentscheidung in Kauf genommen worden.
+III. Das Berufungsurteil ist danach aufzuheben (§ 562 Abs. 1 ZPO ). Die Sache ist, da sie nicht entscheidungsreif ist,
+an das Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 Satz 1 und Abs. 3 ZPO ), damit es die bislang unterblie-
+benen Feststellungen zur Sanierungsbedürftigkeit und Sanierungsfähigkeit der Klägerin, zur Zumutbarkeit des
+Ausscheidens für den Beklagten sowie gegebenenfalls zur Höhe des Auseinandersetzungsfehlbetrags nachholen
+kann.

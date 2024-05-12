@@ -1,0 +1,624 @@
+II ZR 268/88
+Gericht: BGH,    Datum: 19. Feb 1990,    Fundstelle: BGHZ 110, 342; DRsp-Nr. 1992/1381
+§ 161 HGB: Auskehrung kapitalersetzender Leistungen einer GmbH & Co KG an Kommanditisten; Kapitalerhal-
+tungspflicht des Kommanditisten einer GmbH & Co KG; Rückgewähr eigenkapitalersetzender Leistungen bei
+GmbH & Co. KG
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+56/168
+e tsät e:
+Wird dem Kommanditisten einer GmbH & Co. KG deren Vermögen in einem Umfange ausgezahlt, daß da-
+durch mittelbar das Vermögen der Komplementär-GmbH unter den Nennwert des Stammkapitals herab-
+sinkt, so liegt darin auch dann ein Verstoß gegen § 30 GmbHG, wenn der Kommanditist nicht zugleich der
+GmbH angehört (Ergänzung zu BGHZ 60, 324).
+§ 30 GmbHG ist kein Schutzgesetz zugunsten der Gläubiger der GmbH.
+Fundstellen: BGHZ 110, 342; NJW 1990, 1725; WM 1990, 548; DRsp-Nr. 1992/1381
+Aus den Gründen:
+(nach DRsp-Nr. 1992/1381 - www.deubner-recht.de)
+Tatbestand:
+Der Kläger ist Konkursverwalter des Vermögens der A. B. GmbH & Co., Eisengießerei i.L.. Diese Gesellschaft be-
+stand ab 5. Februar 1937 als offene Handelsgesellschaft und besteht ab 1. Januar 1959 als Kommanditgesell-
+schaft. Am 1. April 1966 wechselte der einzige persönlich haftende Gesellschafter T. Sch. in die Kommanditisten-
+stellung; an seine Stelle trat die A. B. & Co., Eisengießereiverwaltungsgesellschaft mbH; gleichzeitig trat u.a. der
+Beklagte als Mitglied des Gesellschafterstammes Sch. mit einer Kommanditeinlage von 60.000 DM in die Gesell-
+schaft ein. Die drei Gesellschafterstämme Sch., A. und D. waren jeweils mit einem Kommanditkapital von je
+400.000 DM an der Gesellschaft beteiligt. Die Komplementär-GmbH hielt einen Anteil von 24.000 DM. Deren
+Stammkapital von ebenfalls 24.000 DM hatten der Beklagte, H. D. und H. A. aufgebracht; sie waren neben T. Sch.
+auch zugleich Geschäftsführer. Am 28. März 1968 wurde im Handelsregister vermerkt, daß T. Sch., am 26. Juni
+1975, daß H. A. als Geschäftsführer ausgeschieden war.
+Die Kommanditgesellschaft betrieb die Eisengießerei auf einem Grundstück, das die drei Schwestern E. Sch., I. A.
+und A. D. durch Erbfall erlangt hatten. Die Gebäude und Fertigungsanlagen auf diesem Grundstück waren mit
+Mitteln der Gesellschaft geschaffen worden. Am 1. April 1966 verpflichteten sich die drei Erbinnen, als Grund-
+stückseigentümer den Grundbesitz der Kommanditgesellschaft wie bisher gegen einen angemessenen Mietzins
+zur Verfügung zu stellen. In diese Verpflichtung traten die Nachkommen der drei Schwestern ein, auf die diese am
+27. August 1968 unter dem Vorbehalt eines Nießbrauchs ihre Erbanteile übertrugen; auch der Beklagte wurde da-
+durch Mitglied der Erbengemeinschaft. Im Jahre 1975 machte I. A. die Übertragung auf H. und E. A. rückgängig
+und trat auch als Kommanditistin wieder an deren Stelle. Das Grundstück war mit Grundpfandrechten in Höhe
+von insgesamt 4,537 Mio DM belastet, die Kredite absicherten, die die Kommanditgesellschaft aufgenommen
+hatte.
+Wegen steigender Verluste der Kommanditgesellschaft beschlossen die Gesellschafter, deren Betrieb zum 31.
+März 1976 einzustellen. Am 17. Dezember 1975 veräußerte die Kommanditgesellschaft Teile des Anlagevermö-
+gens und Rohstoffe an die S. AG, die auch einen Teil der Arbeitnehmer übernahm. Das Betriebsgrundstück wurde
+der P. AG am 18. Dezember 1975 zunächst vermietet und am 22. Juni 1978 zusammen mit den im Eigentum der
+Kommanditgesellschaft stehenden Betriebseinrichtungen für einen Gesamtpreis in Höhe von 8, 1 Mio DM ver-
+kauft. Am 26. Juli 1978 wurde der Kaufpreis einem Sonderkonto der Erbengemeinschaft bei der Volksbank Z. gut-
+geschrieben. Neben anderen wurden aus diesem Guthaben auch die durch Grundpfandrechte gesicherten Ver-
+bindlichkeiten getilgt, die die Kommanditgesellschaft gegenüber der Volksbank hatte. Am 17. Mai 1979 gab die
+Bank einen nicht verbrauchten Verkaufserlös in Höhe von 422.369, 73 DM zugunsten der Erbengemeinschaft frei;
+ferner übertrug sie dieser nicht mehr benötigte Sicherungsrechte, die ihr von der Kommanditgesellschaft einge-
+räumt worden waren, nämlich Aktien der S. AG im Nennwert von 120.000 DM und eine Darlehensforderung ge-
+gen die S. AG in Höhe von 580.474 DM zuzüglich Nebenforderungen; außerdem entließ die Bank den Beklagten
+sowie H. A. und H. D. aus deren Bürgenhaftung. Ebenfalls am 17. Mai 1979 ermächtigten die Mitglieder der Erben-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+57/168
+ge
+e
+sc a t de  e agte  u d . ., ac  
+gu g oc  off e e  e b
+d c
+e te  das e b ebe e Gut abe
+und die Sicherheiten auf die Mitglieder im Verhältnis ihrer Beteiligung am Nachlaß zu verteilen. Entsprechend die-
+ser Ermächtigung verteilten der Beklagte und D. den Überschuß auf sich und die übrigen Erben.
+Am 17. November 1978 beschlossen die Gesellschafter, die Kommanditgesellschaft aufzulösen und zu liquidieren;
+sie bestellten die damaligen Geschäftsführer der Komplementär GmbH, den Beklagten und H. D., zu Liquidatoren
+der Kommanditgesellschaft. Beide waren auch Liquidatoren der Komplementär-GmbH, deren Auflösung am 15.
+Januar 1979 im Handelsregister vermerkt wurde. Am 22. November 1979 wurde ins Handelsregister eingetragen,
+daß die Kommanditgesellschaft erloschen sei.
+Am 2. Mai 1980 wurde die Eröffnung des Konkursverfahrens über das Vermögen der Komplementär-GmbH man-
+gels einer die Kosten deckenden Masse abgelehnt. Am 7. Mai 1982 wurde das Konkursverfahren über das Vermö-
+gen der Kommanditgesellschaft eröffnet und der Kläger zum Konkursverwalter bestellt. Im Konkursverfahren hat
+ausschließlich der Pensionssicherungsverein Forderungen angemeldet, und zwar in Höhe von 2.266.552 DM, von
+denen der Kläger 992.197 DM anerkannt hat.
+Der Kläger nimmt den Beklagten auf Zahlung von 989.207 DM in Anspruch. Er stützt die Klage zunächst darauf,
+daß dem Beklagten zu Lasten der Gesellschaftsgläubiger kapitalersetzende Leistungen zugeflossen seien, als er
+seinen Anteil am Grundstückserlös und an den freigegebenen Sicherheiten an sich auszahlte und von der Bürg-
+schaft in Höhe von 150.000 DM freigestellt wurde; ferner habe der Beklagte seine Pflicht als Liquidator der Kom-
+manditgesellschaft verletzt, als er den Kapitalersatz an die übrigen Erben und Gesellschafter ausgekehrt habe.
+Ferner stützt der Kläger den Anspruch auf die Vereinbarung vom 17. Mai 1979, in der die Erben den Beklagten an-
+wiesen, den Grundstückserlös zu verteilen, nachdem er alle Gläubiger befriedigt habe; aus dieser Anweisung lei-
+tet der Kläger einen Anspruch der Gläubiger her. Schließlich macht der Kläger einen Schadensersatzanspruch des
+Pensionssicherungsvereins wegen verspäteter Stellung des Konkursantrags geltend. Beide Ansprüche hat ihm der
+Pensionssicherungsverein am 30. Mai 1983 abgetreten.
+Das Landgericht hat die Klage abgewiesen. Das Berufungsgericht hat die Klage dem Grunde nach insofern für ge-
+rechtfertigt erklärt, als mit ihr ein deliktischer Schadensersatzanspruch geltend gemacht wird, und die Sache zur
+Entscheidung über die Höhe des Anspruchs an das Landgericht zurückverwiesen; die unerlaubte Handlung hat es
+außer in der verspäteten Stellung des Konkursantrages in der Auskehrung kapitalersetzender Leistungen an die
+Mitgesellschafter gesehen. Mit der Revision verfolgen die Parteien ihre Anträge weiter, der Klage vollen Umfangs
+stattzugeben (Kläger) und die Berufung insgesamt zurückzuweisen (Beklagter).
+Entscheidungsgründe:
+Beide Revisionen führen zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an die Vorin-
+stanz.
+I.
+Das Berufungsgericht hält vertragliche Ansprüche Dritter nicht für gegeben, die der Kläger daraus herleitet, daß
+die Grundstückseigentümer den Beklagten und H. D. am 19. Mai 1979 ermächtigt haben, alle weiteren Verbind-
+lichkeiten zu tilgen, bevor sie den Grundstückserlös auf die Eigentümer verteilen. Diese Beurteilung des Beru-
+fungsgerichts ist rechtlich einwandfrei.
+II.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+58/168
+.a) as e u u gsge c t at e
+e  
+sp uc  de  o
+a d tgese sc a t gege  de  e agte  e tsp ec e d §§
+30, 31 GmbHG bejaht, weil dem Beklagten kapitalersetzende Leistungen zu einem Zeitpunkt zurückgezahlt wor-
+den seien, als die Kommanditgesellschaft und damit auch ihre Komplementär-GmbH überschuldet gewesen
+seien. Gleichwohl hat es der Klage in diesem Punkt nicht stattgegeben, weil es der Meinung war, dieser Anspruch
+sei verjährt. Diese Beurteilung greift die Revision des Klägers mit Erfolg an.
+b) Zutreffend ist allerdings der rechtliche Ausgangspunkt des Berufungsgerichts, wonach eine Zahlung der Kom-
+manditgesellschaft an den Gesellschafter gegen das Verbot des § 30 GmbHG verstößt, wenn sie dazu führt, daß
+das Vermögen der Komplementär-GmbH nach Abzug der Verbindlichkeiten nicht mehr der Höhe des Stammkapi-
+tals entspricht (vgl. BGHZ 60, 324, 328; 69, 274, 279); neben diesem Grundsatz der Erhaltung des gezeichneten Ka-
+pitals gelten für die GmbH & Co. KG auch die von der Rechtsprechung entwickelten Grundsätze kapitalersetzen-
+der Gesellschafterleistungen. Sichert der Gesellschafter den Fortbestand der Kommanditgesellschaft durch eine
+Leistung, die jene ohne seine Hilfe zu marktüblichen Bedingungen von dritter Seite nicht erhalten hätte, so liegt
+Kapitalersatz ebenso vor wie in den Fällen, in denen überschuldete und damit konkursreife Gesellschaften durch
+Gesellschafterleistungen am Leben erhalten werden (vgl. BGHZ 67, 171, 175; 76, 326, 330; 95, 188, 191; Sen.Urt. v.
+25. November 1985 - II ZR 93/85, WM 1986, 447, 448). Erstattet die Kommanditgesellschaft dem Gesellschafter die
+Leistung, bevor das Stammkapital ihrer Komplementär-GmbH auf andere Weise gedeckt ist, so ist er der Gesell-
+schaft entsprechend § 31 GmbHG verpflichtet, das Empfangene zurückzuzahlen (vgl. BGHZ 60, 324, 328; 69, 274,
+280).
+c) Die Voraussetzungen, unter denen eine Gesellschafterleistung kapitalersetzenden Charakter erlangt und Aus-
+zahlungen an den Gesellschafter gegen § 30 GmbHG verstoßen, lagen vor. Nach den Feststellungen des Beru-
+fungsgerichts war die Kommanditgesellschaft von 1974 bis zur Eröffnung des Konkursverfahrens überschuldet.
+Das Berufungsgericht hat diese Feststellungen aufgrund eines Gutachtens getroffen, das vom Gutachter R. im
+staatsanwaltschaftlichen Ermittlungsverfahren gefertigt worden ist (Anl. K 24). Aus diesem Gutachten ergibt sich,
+daß die Kommanditgesellschaft die Geschäftsjahre seit 1972 mit Verlusten abschloß; diese waren Ende 1974 auf
+1.371.712, 93 DM angewachsen und überstiegen damit das Haftkapital (l, 224 Mio DM) um 147.712, 93 DM. Diese
+Lücke deckten die Gesellschafter noch durch Darlehen ab; ab 1975 reichten ihre Darlehen hierzu nicht mehr aus.
+Aus der zuletzt erstellten Bilanz zum 31. Juli 1978 (Anl. K 9) ergibt sich ebenfalls eine Überschuldung. Das Beru-
+fungsgericht hat diese für die Zeit vor dem Verkauf des Grund und Bodens, der Gebäude, Außenanlagen und be-
+weglichen Betriebseinrichtungen an die P. AG mit 5.286.793 DM beziffert. Der Revision des Beklagten ist einzuräu-
+men, daß bei dieser Berechnung die Buchwerte von Grund und Boden (160.051 DM) sowie der Gebäude (2.712.
+013 DM) zu Unrecht nicht berücksichtigt worden sind. Der Kläger (GA 459) hat ebenso wie der Beklagte den
+Standpunkt vertreten, daß der im Eigentum der Gesellschafter stehende Grundbesitz nicht dem Werte nach (Ein-
+bringung quoad sortem, vgl. hierzu Sen.Urt. v. 25. März 1965 - II ZR 148/62, WM 1965, 746), sondern nur zum Ge-
+brauch (Einbringung quoad usum) gegen Zahlung eines Mietzinses in die Gesellschaft eingebracht worden ist. Da
+hiernach der Grundbesitz der Kommanditgesellschaft wirtschaftlich nicht zuzurechnen ist, ist er - wie das Beru-
+fungsgericht zutreffend annimmt - in deren Handelsbilanz nicht zu aktivieren (vgl. Adler/Düring/Schmaltz, Rech-
+nungslegung und Prüfung der Aktiengesellschaft, 4. Aufl., § 149 Rdnr. 31; Sudhoff, NJW 1978, 1401, 1402). Das Be-
+rufungsgericht hat nur übersehen, daß zwischen den Parteien ebenfalls unstreitig ist, daß - nicht die Eigentümer
+des Grundstücks mit möglicherweise dem Gesellschaftsvermögen entnommenen Beträgen, sondern - die Kom-
+manditgesellschaft mit ihren Mitteln Außenanlagen und Gebäude errichtet hat, die nach § 946 BGB Eigentum der
+Grundstückseigentümer mit der Folge wurden, daß die Kommanditgesellschaft gemäß §§ 951 Abs. 1, 812 Abs. 1
+BGB einen Vergütungsanspruch erlangte, der grundsätzlich in Höhe des Wertes des Gebäudes im Zeitpunkt des
+Rechtsverlustes, also der Fertigstellung zu aktivieren ist. Für den Umfang der Bereicherung kann aber auch der
+Wert maßgebend sein, mit dem die Gebäude im Zeitpunkt der Rückgabe des Grundbesitzes an die Eigentümer in
+der Bilanz der Gesellschaft ausgewiesen sind (vgl. BGHZ 10, 171, 180; 35, 356, 359 f.; BGH, Urt. v. 18. September
+1961 VII ZR 118/60, WM 1961, 1190, 1191; Klauser, NJW 1965, 513, 518). Sollte die Kommanditgesellschaft - wie
+die Revision des Beklagten meint - auch den Grund und Boden für Rechnung der Grundstückserwerber bezahlt
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+59/168
+abe , ätte s e usät
+c  e
+e  
+sp uc  au  
+sat  
+e  u
+e du ge  (§ 6 0 G ) 
+ de  
+a
+ aus u e se .
+Mangels gegenteiliger Feststellungen ist davon auszugehen, daß der Wert beider Ansprüche im Jahre 1978 den
+für Grundstück und Gebäude ausgewiesenen Buchwerten entsprochen hat, so daß diese bei der Prüfung, ob eine
+Überschuldung vorliegt, zu berücksichtigen sind. Gleichwohl ändert sich dadurch nichts an der Feststellung, daß
+die Kommanditgesellschaft ohne den Ansatz kapitalersetzender Leistungen der Gesellschafter überschuldet war.
+Auch die Revision des Beklagten deckt eine - gegenüber dem Berufungsurteil allerdings geringere - Überschul-
+dung nur dadurch ab, daß sie kapitalersetzende Leistungen in Höhe von 1.960.936 DM einbezieht. Das Beru-
+fungsgericht ist demnach zu Recht zu dem Ergebnis gelangt, daß Leistungen, die die Gesellschafter der Komman-
+ditgesellschaft ab 1974 zur Verfügung gestellt haben, kapitalersetzend waren und jede Auszahlung von haften-
+dem Kapital oder Rückzahlung kapitalersetzender Leistungen an die Gesellschafter in den Jahren 1978 und 1979
+gegen § 30 GmbHG verstieß und deshalb von den Gesellschaftern rückgängig zu machen ist.
+d) Nach Ansicht des Berufungsgerichts sind den Gesellschaftern derartige Leistungen zugeflossen. Diese sollen
+einmal im Veräußerungserlös für die beweglichen Betriebseinrichtungen bestanden haben, die die Gesellschafter
+zusammen mit dem Grundstück an die P. AG verkauften und für die sie im Rahmen des Gesamtkaufpreises von 8,
+1 Mio DM ein Entgelt in Höhe von 367.000 DM erzielten. Diese Betriebseinrichtungen waren zwar Zubehör des
+Grundstücks, aber Eigentum der Kommanditgesellschaft, so daß sich die zugunsten der Volksbank bestellten
+Grundpfandrechte im Nominalwert von 4,45 Mio DM auf sie nicht erstreckten (§§ 1120, 1192 Abs. 1 BGB). Die
+Kommanditgesellschaft hatte aber die Einrichtungen der Volksbank am 30. Januar 1975 zur Sicherheit übereignet
+(Anl. K 31). Aus dem Erlös in Höhe von 8, 1 Mio DM sind der Volksbank insgesamt 5, 2 Mio DM zugeflossen (GA
+291, 508 f.). Nach den Feststellungen des Berufungsgerichts ist in diesem Betrage der Erlös aus dem Verkauf der
+Betriebseinrichtungen nicht enthalten, stellen die 5, 2 Mio DM vielmehr die Summe aus Darlehens- und Zinsfor-
+derungen dar, die in vollem Umfange durch die zugunsten der Volksbank bestellten Grundpfandrechte zu nomi-
+nell 4,45 Mio DM abgesichert waren. Diese Feststellung zieht auch die Revision des Beklagten nicht in Zweifel;
+denn sie geht selbst davon aus, daß die Gesellschafter in Form des Grundbesitzes der Kommanditgesellschaft ins-
+gesamt 5, 2 Mio DM zur Verfügung gestellt hatten. Nach alledem ist der Erlös aus dem Verkauf der Betriebsein-
+richtung nicht benötigt worden, um die Verbindlichkeiten der Kommanditgesellschaft gegenüber der Volksbank
+zu tilgen. Der Beklagte hat allerdings geltend gemacht, aus dem Erlös seien weitere Verbindlichkeiten der Kom-
+manditgesellschaft gegenüber anderen Gläubigern in Höhe von 260.140 DM getilgt worden (GA 509, 574). Sollte
+dieser Vortrag zutreffen, wovon in der Revisionsinstanz mangels gegenteiliger Feststellungen auszugehen ist, so
+wäre der Kommanditgesellschaft von den ihr zustehenden 367.000 DM wenigstens ein Teilbetrag zugeflossen, so
+daß den Gesellschaftern unter Verstoß gegen § 30 GmbHG lediglich 106.860 DM verblieben wären. Die Revision
+des Beklagten rügt mit Recht, daß das Berufungsgericht zu diesem Punkt keine Feststellungen getroffen, vielmehr
+darauf abgestellt hat, daß die 367.000 DM insgesamt unzulässigerweise an die Gesellschafter ausgezahlt worden
+sind. Die Ansicht des Berufungsgerichts, wonach es auf die Ablösung von Kreditverbindlichkeiten nicht ankom-
+men soll, wäre nur dann richtig, wenn es sich dabei um persönliche Schulden der Gesellschafter und Grund-
+stückseigentümer gehandelt hätte.
+e) Das Berufungsgericht hat einen Verstoß gegen § 30 GmbHG ferner darin gesehen, daß die Volksbank Sicherhei-
+ten, die sie von der Kommanditgesellschaft erhalten hatte, nämlich Aktien der S. AG (Nennwert 120.000 DM) so-
+wie Darlehens- (580.474 DM) und Provisionsforderungen gegen diese Gesellschaft, anstatt auf die Sicherungsge-
+berin auf die Gesellschafter übertrug. Hierbei hat sich das Berufungsgericht von der Überlegung leiten lassen,
+daß diese Sicherheiten denselben Kredit gesichert haben, der schon durch die von den Gesellschaftern bestellten
+Grundpfandrechte gesichert war, nämlich die bereits genannten 5, 2 Mio DM. Ein Rechtsfehler ist insoweit nicht
+ersichtlich. Die Revision des Beklagten macht geltend, daß die Gesellschafter der Volksbank diese Rechte abge-
+kauft hätten und daß der Kommanditgesellschaft auf diese Weise mittelbar 742.474 DM zugeflossen seien. Dieser
+Einwand wäre nur dann beachtlich, wenn die Volksbank über die genannten 5,2 Mio DM hinaus noch weitere For-
+derungen in Höhe des Wertes der genannten Sicherheiten gegen die Kommanditgesellschaft gehabt hätte, die
+von den Gesellschaftern nicht ebenfalls durch kapitalersetzende Leistungen abgesichert waren. Da der Beklagte
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+60/168
+c t ge te d ge
+ac t at, daß d e o sba
+ e
+e 5,  
+o 
+ übe ste ge de o de u g atte, du te das e u
+fungsgericht davon ausgehen, daß die Sicherheiten der Kommanditgesellschaft und die Grundpfandrechte den-
+selben Kredit gesichert haben.
+f) Nach Ansicht des Berufungsgerichts sind kapitalersetzende Leistungen nicht dadurch zurückgewährt worden,
+daß am 17. Mai 1979 die Volksbank den Beklagten sowie seine Mitgesellschafter H. D. und H. A. aus den Ausfall-
+bürgschaftsverpflichtungen entließ, die sie am 16. November 1974 bis zum Höchstbetrag von je 150.000,-- DM
+eingegangen waren. Nach den Feststellungen des Berufungsgerichts haben die Gesellschafter mit diesen Bürg-
+schaften denselben Kredit abgesichert, für den sie auf ihrem Grundbesitz die Grundpfandrechte bestellt hatten.
+Dem Berufungsgericht ist einzuräumen, daß in einem solchen Falle die eine Gesellschaftersicherheit frei wird,
+wenn die Verwertung der anderen zur Tilgung des Kredits führt. Das Berufungsgericht hat nur übersehen, daß die
+Kommanditgesellschaft, weil sie ihr Eigentum an Gebäuden gemäß § 946 BGB an die Grundstückseigentümer ver-
+loren und für deren Rechnung den Kaufpreis zur Beschaffung des Grund und Bodens bezahlt hatte, mindestens
+in Höhe der für diese Positionen in der Bilanz ausgewiesenen Buchwerte (insgesamt 2.872.064 DM) über Ansprü-
+che gegen die Grundstückseigentümer verfügte. Diese Schuld ist durch unmittelbare Zahlung an die Kommandit-
+gesellschaft nicht getilgt worden. Mangels gegenteiliger Feststellungen ist in der Revisionsinstanz aber vom Vor-
+trag des Beklagten auszugehen, wonach die Grundpfandrechte, die von den Gesellschaftern zur Absicherung der
+Verbindlichkeiten bestellt wurden, die die Kommanditgesellschaft gegenüber der Volksbank hatte, wenigstens in
+Höhe von 2.872.064 DM als eine erfüllungshalber erbrachte Leistung zur Tilgung der Gesellschafterschuld gegen-
+über der Kommanditgesellschaft anzusehen sind, so daß die Gesellschafter von dieser Schuld frei wurden, als die
+Volksbank sich hinsichtlich ihres grundpfandrechtlich gesicherten Kredits von 5, 2 Mio DM aus dem Verkaufserlös
+des Grundstücks befriedigte. Wirtschaftlich stellten in Höhe der Buchwerte die Grundpfandrechte also keine kapi-
+talersetzende Leistung der Gesellschafter, sondern Eigenkapital der Kommanditgesellschaft dar. Diese hat den
+Kredit der Volksbank in Höhe der Buchwerte mit wirtschaftlich eigenen Mitteln getilgt. Da die Bürgschaften der
+drei Gesellschafter in Höhe von insgesamt 450.000 DM den gesamten Kredit gegenüber der Volksbank absicher-
+ten, sind sie folglich nicht nur durch eine anderweitige Leistung der Gesellschafter, sondern auch worauf die Revi-
+sion des Klägers mit Recht hinweist - durch eine solche der Kommanditgesellschaft frei geworden. Die drei Gesell-
+schafter sind deshalb entsprechend § 31 GmbHG verpflichtet, der Kommanditgesellschaft den Gegenwert ihrer
+Bürgschaft zur Verfügung zu stellen (vgl. BGHZ 81, 252, 260). Daß die Bürgen nur nachrangig haften sollten,
+schließt die kapitalersetzende Eigenschaft der Bürgschaften nicht aus (vgl. Sen.Urt. v. 28. September 1987 - II ZR
+28/87, WM 1987, 1488, 1489).
+g) Die Revision des Klägers vertritt den Standpunkt, daß der Gesellschaft vom Kaufpreis in Höhe von 8, 1 Mio DM
+nicht nur die an die Volksbank gezahlten 5, 2 Mio DM und das Entgelt für die beweglichen Einrichtungsgegen-
+stände in Höhe von 367.000 DM zuständen; vielmehr sei auch der darüber hinausgehende Teil des Preises kapita-
+lersetzend gewesen. Dies sei deshalb anzunehmen, weil die Gesellschafter der Kommanditgesellschaft während
+der Zeit ihrer Überschuldung den Grundbesitz zur Nutzung überlassen und jene dadurch am Leben erhalten hät-
+ten, obwohl sie - was unstreitig ist (GA 513) - seit 1973 den jährlichen Mietzins in Höhe von 90.000 DM nicht mehr
+gezahlt hat. Der Revision ist einzuräumen, daß eine Gebrauchsüberlassung kapitalersetzend sein kann (vgl.
+Sen.Urt. v. 16. Oktober 1989 - II ZR 307/88, WM 1989, 1844). Der Senat hat allerdings - wenn man vom Mietzins
+absieht - bisher nicht entschieden, welche Rechtsfolge in einem solchen Falle eingreift. Auch der vorliegende Fall
+nötigt nicht dazu, sich mit dieser Frage auseinanderzusetzen. Denn den Gesellschaftern sind durch Übertragung
+und Freigabe der Sicherheiten kapitalersetzende Leistungen zugeflossen, die unstreitig insgesamt höher waren
+als die Klageforderung. Nach dem Vortrag des Beklagten hatten die Aktien der S. AG einen Kurswert von 162.000
+DM, die Darlehensforderung gegen die S. AG belief sich auf 580.474 DM (GA 567), und die Bürgschaften bestan-
+den bis zur Höhe von insgesamt 450.000 DM; der Kläger macht mit der Klage lediglich 989.207 DM geltend.
+h) Soweit die den Gesellschaftern rückgewährten kapitalersetzenden Leistungen benötigt werden, um damit of-
+fene, vom übrigen Vermögen der Kommanditgesellschaft und deren Komplementär-GmbH nicht gedeckte Ver-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+61/168
+b
+d c
+e te  u t ge , s
+d s e de  o
+a d tgese sc a t u e statte . 
+ese e pfl
+c tu g beste t ü  de  e
+klagten entsprechend § 31 GmbHG in dem Umfange, in dem er persönlich Leistungen erhalten hat, nämlich die
+Anteile an den Aktien und der Darlehensforderung, die er selbst mit insgesamt 127.525, 67 DM beziffert (GA 567,
+574), die Freistellung von der Bürgschaftsverpflichtung (150.000 DM) sowie der Anteil am Erlös aus dem Verkauf
+der Betriebseinrichtungen, soweit mit dem Erlös nicht Verbindlichkeiten der Kommanditgesellschaft getilgt wor-
+den sind.
+i) Nach Ansicht des Berufungsgerichts ist dieser Anspruch gemäß § 31 Abs. 5 GmbHG verjährt. Die Verjährungs-
+frist habe am 17. Mai 1979 zu laufen begonnen, als die Volksbank die Sicherheiten auf die Gesellschafter und
+Grundstückseigentümer übertragen, auf die Bürgschaftsforderungen verzichtet und den nicht benötigten Kauf-
+preis für die Betriebseinrichtung zu deren Gunsten freigegeben habe. Als der Kläger den Anspruch aus § 31
+GmbHG mit Schriftsatz vom 24. Juni 1984 erstmals gerichtlich geltend gemacht habe, sei die fünfjährige Verjäh-
+rungsfrist bereits abgelaufen gewesen. "Böslich" mit der Folge, daß der Erstattungsanspruch erst in 30 Jahren ver-
+jährt (§ 31 Abs. 5 Satz 2 GmbHG), habe der Beklagte - so das Berufungsgericht - deshalb nicht gehandelt, weil das
+eine mutwillige und rücksichtslose Gleichgültigkeit voraussetze, die beim Beklagten nicht vorgelegen habe. Im-
+merhin habe das Landesarbeitsgericht durch Urteil vom 22. Februar 1979 die Meinung der Kommanditgesell-
+schaft bestätigt, wonach die Versorgungszusagen der Unterstützungskasse gegenüber den Rentnern Schi. und L.
+wirksam widerrufen worden seien; die Revision gegen dieses Urteil sei erst am 22. Mai 1979 und damit nach dem
+17. Mai 1979 eingelegt worden.
+Diese Beurteilung ist rechtlich nicht haltbar. Das Berufungsgericht hat den Begriff der "böslichen Handlungs-
+weise" verkannt. Nach der Rechtsprechung des Senats liegt sie vor, wenn der Gesellschafter die § 30 GmbHG zu-
+wider erfolgte Leistung in Kenntnis ihrer Unzulässigkeit entgegengenommen hat (vgl. Sen.Urt. v. 11. Mai 1987 - II
+ZR 226/86, WM 1987, 1040, 1041). Der Beklagte brauchte also nur zu wissen, daß die Leistungen, die er erhielt,
+zur Deckung der ihm bekannten Pensionszusagen erforderlich waren.
+Soweit es um diese Schulden geht, stellt das Berufungsgericht allein auf die Versorgungszusage der Unterstüt-
+zungskasse gegenüber den Rentnern Schi. und L. ab. Es übersieht, daß die Kommanditgesellschaft weitere Ver-
+pflichtungen hatte, daß sie insbesondere dem Rentner Ap. aufgrund einer unwiderruflichen Direktzusage eine
+Rente schuldete und gezahlt hat, bis die Gesellschafter am 9. August 1979 beschlossen, die Zahlungen einzustel-
+len und Ap. an den Pensionssicherungsverein zu verweisen (GA 179, Anl. K 55, 56 hinter GA 489). Mindestens in
+Höhe dieser - von keiner Seite angezweifelten - Schuld wußte der Beklagte, daß das ihm zugefallene Gesell-
+schaftsvermögen zur Deckung von Gesellschaftsschulden erforderlich war. Die Rückstellung für die Zusage zu-
+gunsten Ap. war in der Bilanz zum 31. Juli 1978 mit 267.091 DM ausgewiesen; der Pensionssicherungsverein bezif-
+fert den Barwert dieser Rente zum 1. September 1979 mit 390.194 DM (Anl. K 4).
+Aber auch für die Rentenzusagen der Unterstützungskasse hatte die Kommanditgesellschaft Rückstellungen zu
+bilden und der Beklagte einen entsprechend hohen Betrag im Vermögen der Kommanditgesellschaft zu belassen.
+Das Bundesarbeitsgericht hat im Urteil vom 11. September 1980 (3 AZR 544/79, ZIP 1981, 307), durch das das ge-
+nannte Urteil des Landesarbeitsgerichts aufgehoben worden ist, ausgeführt, daß ein Widerruf von Versorgungs-
+leistungen nicht in Betracht kommt, wenn das Unternehmen, das die Versorgungslast trägt, stillgelegt wird, weil
+es nicht mehr gerettet werden kann oder eine Sanierung nicht beabsichtigt ist. Diese Rechtsprechung reicht
+schon in das Jahr 1971 zurück (vgl. BAG, Urt. v. 10. Dezember 1971 - 3 AZR 190/71, NJW 1972, 733, 734). Ferner
+hatte das Bundesarbeitsgericht schon vor der Freigabe der Sicherheiten zugunsten der Gesellschafter (17. Mai
+1979) mehrfach ausgesprochen, daß es nicht allein auf die wirtschaftliche Situation der Unterstützungskasse an-
+kommt, daß vielmehr auch die des Trägerunternehmens maßgeblich ist (BAG, Urt. v. 17. Mai 1973 - 3 AZR 381/72,
+WM 1973, 1311, 1313; v. 28. April 1977 - 3 AZR 300/76 u. v. 10. November 1977 - 3 AZR 705/76, AP Nrn. 7 und 8 zu
+§ 242 BGB Ruhegehalt-Unterstützungskasse). Die Revision des Klägers verweist mit Recht darauf, daß das Beru-
+fungsgericht in anderem Zusammenhang festgestellt hat, daß der Beklagte sowohl von den Pensionszusagen als
+davon wußte, daß das übertragene Vermögen erforderlich war, um diese Verbindlichkeiten zu decken (BU 100 f.).
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+62/168
+as e u u gsge c t 
+d oc  de  
+age ac
+uge e  abe , ob de  e agte d e e s o s e pfl
+c tu ge  de
+Unterstützungskasse gekannt oder - selbst für den Fall, daß sie bestehen - die Rückgewähr kapitalersetzender
+Leistungen gebilligt hat. Die Forderungen der Versorgungsberechtigten der Unterstützungskasse beziffert der
+Pensionssicherungsverein mit 599. 013 DM (Anl. K 4).
+2.a) Der Kläger nimmt den Beklagten nicht nur insoweit in Anspruch, als dieser persönlich haftendes Kapital er-
+halten hat und entsprechend § 31 GmbHG erstatten soll; der Beklagte soll auch dafür einstehen, daß am 17. Mai
+1979 oder später haftendes Kapital an die übrigen Gesellschafter geflossen und diesen verblieben ist.
+b) Der Beklagte war seit dem 17. November 1978 Liquidator der Kommanditgesellschaft und seit dem 25. Januar
+1979 als Liquidator der Komplementär-GmbH im Handelsregister eingetragen. Liquidator der bisher im Handels-
+register nicht gelöschten GmbH ist er noch immer (GA 573). Am 22. November 1979 wurde im Handelsregister
+vermerkt, daß die Kommanditgesellschaft erloschen ist. Dieser Vermerk entspricht nicht der wahren Rechtslage,
+falls die Kommanditgesellschaft die vom Kläger geltend gemachten Ansprüche und damit noch Vermögen hat.
+Dann ist auch der Beklagte als Liquidator der Kommanditgesellschaft noch im Amt; einer Neubestellung bedarf es
+bei einer Kommanditgesellschaft anders als bei der GmbH nicht (vgl. BGH, Urt. v. 21. Juni 1979 - IX ZR 69/75, WM
+1979, 913).
+Mit der Auflösung der Kommanditgesellschaft und der Bestellung des Beklagten zum Liquidator (17. November
+1978) war die Geschäftsführungs- und Vertretungsbefugnis der Komplementär-GmbH erloschen, so daß der Be-
+klagte als deren Liquidator nicht mehr für die Kommanditgesellschaft tätig werden konnte. Deshalb kann, wenn
+der Kläger den Beklagten wegen Pflichtverletzungen aus der Zeit nach dem 17. November 1978 in Anspruch
+nimmt, damit - entgegen der Auffassung des Berufungsgerichts - nur dessen Haftung als Liquidator der Komman-
+ditgesellschaft angesprochen sein; daß in diesem Zusammenhang § 43 GmbHG zitiert wird, ist unbeachtlich. Der
+Pflichtenkreis des Beklagten hat sich durch den Wechsel in die Stellung eines Liquidators nicht geändert. In einer
+Kommanditgesellschaft, deren persönlich haftender Gesellschafter eine GmbH ist, darf auch ein Liquidator Ver-
+mögen nicht an die Gesellschafter auskehren, das entsprechend § 30 GmbHG der Gesellschaft zu verbleiben hat.
+Das gilt selbst dann, wenn alle Gesellschafter der Auszahlung zustimmen. Wegen des zwingenden Charakters der
+Kapitalerhaltungsvorschriften gilt § 43 Abs. 3 GmbHG entsprechend für den Liquidator einer GmbH & Co. KG. Ob
+auch die Verjährungsfrist des § 43 Abs. 4 GmbHG für den Liquidator entsprechend gilt, der bestellt worden ist, um
+eine GmbH & Co. KG abzuwickeln, braucht nicht entschieden zu werden; denn selbst wenn von einer Verjährungs-
+frist von fünf Jahren ausgegangen wird, sind die Ersatzansprüche des Klägers gegen den Beklagten nicht verjährt.
+c) Ebenso wie der Beklagte waren auch dessen Mitgesellschafter H. D. und H. A. von ihrer Bürgschaft durch eine
+Leistung freigeworden, die aus Vermögen der Kommanditgesellschaft erfolgt ist. Sie hatten deshalb entsprechend
+§ 31 GmbHG der Kommanditgesellschaft das Geleistete zu erstatten (vgl. BGHZ 81, 252, 260). Unerheblich ist, ob
+H. A. noch Gesellschafter der GmbH war, als er am 17. Mai 1979 von seiner Bürgschaftsverpflichtung frei wurde;
+entscheidend ist allein, daß die Bürgschaft kapitalersetzend war, bevor er als Gesellschafter ausschied (vgl. BGHZ
+81, 252, 258; Sen.Urt. v.6. Mai 1985 - II ZR 132/84, WM 1985, 1028, 1029). Aufgabe des Beklagten als Liquidator
+war es, diese Ansprüche gegen seine Mitgesellschafter geltend zu machen. Sofern die wegen der Gesamtvertre-
+tung hierzu erforderliche Mitwirkung des Mitliquidators D. nicht gewährleistet war oder gegen diesen selbst vor-
+gegangen werden mußte, hatte der Beklagte gemäß § 146 Abs. 2 Satz 1 HGB die gerichtliche Bestellung eines
+zweiten Liquidators zu beantragen, falls die Gesellschafter zu einer anderweitigen Regelung der Vertretungsbe-
+fugnis nicht bereit waren. Der Beklagte hat weder den Anspruch geltend gemacht, noch hat er den Kläger als Kon-
+kursverwalter auf den Anspruch und dessen Voraussetzungen hingewiesen, wozu er nach § 100 KO ebenfalls ver-
+pflichtet war. Der Schaden war spätestens eingetreten, sobald die Kommanditgesellschaft oder an deren Stelle
+der Kläger als Konkursverwalter befürchten mußte, sich mit der Einrede der Verjährung auseinandersetzen zu
+müssen. Dabei kommt es nicht darauf an, ob diese im Einzelfall durchgreift; das Erfordernis, die Voraussetzungen
+der Ausnahmeregelung des § 31 Abs. 5 Satz 2 GmbHG, die bösliche Handlungsweise, darlegen und, falls nötig, be-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+63/168
+e se  u 
+üsse , e c t be e ts aus. 
+ese  e u d fi
+det se
+e ec t e t gu g 
+ de  atsac e, daß de  Sc a
+den, den der Geschäftsführer nach Verstößen gegen § 30 GmbHG aufgrund von § 43 Abs. 3 GmbHG auszuglei-
+chen hat, nicht deshalb entfällt, weil die Gesellschaft gegen den Gesellschafter einen vollwertigen Anspruch aus §
+31 GmbHG hat.
+d) Eine weitere Pflichtverletzung beging der Beklagte, als er daran mitwirkte, daß Sicherungsgut, das die Volks-
+bank von der Kommanditgesellschaft erhalten hatte, anstatt auf diese auf die Erbengemeinschaft übertragen und
+auf die Gesellschafter aufgeteilt wurde. Unerheblich ist, ob der Beklagte den Auftrag, die Sicherheiten aufzuteilen
+sowie den Eigentümern und Gesellschaftern zuzuweisen, als Mitglied der Erbengemeinschaft übernommen hat.
+Die Verpflichtungen, als Liquidator im Interesse der Gläubiger der Gesellschaft deren Kapital zu erhalten, traf den
+Beklagten in jeder Stellung, die er im gesellschaftlichen Leben einnahm; er konnte ihr nicht dadurch entgehen,
+daß er als Grundstückseigentümer Aufgaben übernahm, die seinen Pflichten als Liquidator widerstritten. Hinzu
+kommt, daß der Beklagte als Liquidator verpflichtet war, die schädlichen Folgen einer Pflichtverletzung so gering
+wie möglich zu halten (vgl. Sen.Urt. v. 10. Februar 1977 - II ZR 79/75, WM 1977, 361, 363). Der Beklagte hatte des-
+halb die sich aus der Verteilung der Sicherheiten ergebenden Ansprüche aus § 31 GmbHG ebenfalls gegen die
+Mitgesellschafter geltend zu machen.
+e) Ähnliche Pflichtverletzungen beging der Beklagte, als er den Erlös aus der Verwertung der im Eigentum der
+Kommanditgesellschaft stehenden Einrichtungsgegenstände nicht an die Kommanditgesellschaft weiterleitete,
+vielmehr an die Mitgesellschafter auskehrte und diese dann auch in der Folgezeit nicht auf Erstattung in Anspruch
+nahm.
+f) Greift § 43 Abs. 4 GmbH ein, so begann die Frist in der die Ansprüche der Kommanditgesellschaft wegen der
+Pflichtverletzungen der Beklagten gemäß dieser Bestimmung verjähren, frühestens mit der Eröffnung des Kon-
+kursverfahrens (7. Mai 1982) zu laufen, als der Kläger die Ansprüche als Liquidator nicht mehr geltend machen
+konnte. Spätestens jedoch begann die Frist, nachdem fünf Jahre seit der Auskehrung des Gesellschaftsvermögens
+an die Gesellschafter (17. Mai 1979) verstrichen waren und nunmehr damit gerechnet werden mußte, daß sich
+die Schuldner gemäß § 31 Abs. 5 Satz 1 GmbHG auf Verjährung berufen würden. In jedem Falle war die Frist noch
+nicht verstrichen, als der Kläger die Ersatzansprüche mit Schriftsatz vom 24. Juni 1984 gerichtlich geltend machte.
+g) Die Revision des Klägers beanstandet, daß das Berufungsgericht einen Verstoß gegen § 30 GmbHG nicht darin
+gesehen hat, daß Gesellschaftsvermögen auch an Kommanditisten ausgeschüttet worden ist, die nicht zugleich
+Gesellschafter der Komplementär GmbH waren. Das Berufungsgericht zieht die Rechtsprechung des Senats zu
+Unrecht als Beleg für seine Ansicht heran. Der Senat hat zu diesem Punkt bisher nicht Stellung genommen, weil
+er nur mit Fällen befaßt war, in denen eine Gesellschafterstellung in beiden Gesellschaften bestand (vgl. BGHZ 60,
+324, 328; 67, 171, 175; 69, 274, 279; 76, 326, 336; 95, 188, 191; Sen.Urt. v. 25. November 1985 II ZR 93/85, WM
+1986, 447, 448).
+In der Literatur ist die Antwort umstritten. Zwar wird vielfach vertreten, daß auch ein nicht der GmbH angehören-
+der Kommanditist dafür verantwortlich ist, daß deren Kapital erhalten bleibt (vgl. Hunscha, GmbHR 1973, 257, 260
+ff.; Lutter/Hommelhoff, ZGR 1979, 31, 48; Fischer/Lutter/ Hommelhoff, GmbHG 12. Aufl. § 30 Rdnr. 39;
+Scholz/Karsten Schmidt, GmbHG 7. Aufl. §§ 32 a, 32 b Rdn. 137; ders. in: Schlegelberger, HGB 5. Aufl. §§ 171, 172
+Rdn. 132; ders.: Gesellschaftsrecht, S. 1246 f.; ders.: GmbHR 1986, 337, 341, allerdings jeweils beschränkt auf kapi-
+talersetzende Darlehen, die nach dem 1. Januar 1981 gewährt worden sind; Baumbach/Duden/Hopt, HGB 27.
+Aufl. § 172 a Anm. 7 B a); überwiegend wird diese Verantwortlichkeit jedoch abgelehnt, allenfalls für den Einzelfall
+beim Vorliegen besonderer Umstände bejaht (Hachenburg/Ulmer, GmbHG 7. II. Aufl. § 32 a, 32 b Rdn. 176;
+Hachenburg/Goerdeler/Müller, GmbHG 7. Aufl. § 30 Rdn. 60; Scholz/H.P. Westermann, GmbHG 7. Aufl. § 30 Rdn.
+34; Schilling in GroßKomm z. HGB, 4. Aufl. § 172 a Rdn. 19; Baumbach/Hueck, GmbHG 15. Aufl. § 30 Rdn. 23; Roth,
+GmbHG 2. Aufl. § 30 Anm.4.1.; v. Gerkan, GmbHR 1986, 214, 224; OLG Hamburg WM 1986, 826, 828 = GmbHR
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+64/168
+986, 3 ). e  Se at e
+t de  u et t ge a
+te  Sta dpu
+t ab; ü  d e usstattu g de  Gese sc a te  
+t a
+tendem Kapital ist auch der Nur-Kommanditist verantwortlich, wenn keine natürliche Person unbeschränkt haf-
+tet.
+Der Senat hat schon in seinem Urteil vom 29. März 1973 (BGHZ 60, 324, 327 ff.) auf die Unterschiede abgestellt,
+die zwischen den Haftungsverfassungen einer GmbH & Co. KG und einer Kommanditgesellschaft bestehen, die
+dem gesetzlichen Leitbild entspricht. Das Recht der Kommanditgesellschaft garantiert deren Gläubigern kein be-
+stimmtes Gesellschaftsvermögen; dieses kann vielmehr von den Gesellschaftern, falls sie sich einig sind, jederzeit
+entnommen werden. Wird dem Kommanditisten Gesellschaftsvermögen ausgezahlt, so lebt zwar nach § 172 Abs.
+4 seine Haftung gegenüber den Gesellschaftsgläubigern wieder auf, so daß diese im Umfange der Entnahme un-
+mittelbar auf das Privatvermögen des Kommanditisten zugreifen können. Diese Haftung ist aber durch die Höhe
+der eingetragenen Haftsumme begrenzt, reicht also auch dann nicht weiter, wenn der Kommanditist ein Mehrfa-
+ches der Summe entnommen hat. Soweit die Gläubiger mit ihren Forderungen bei der Gesellschaft und den Kom-
+manditisten ausfallen, können sie sich an den Komplementär halten, der ihnen unbeschränkt außer mit seinem
+gegenwärtigen auch mit seinem künftigen Vermögen haftet. Diese unbeschränkte Haftung wiederum soll nach
+den Vorstellungen des Gesetzgebers eine wirtschaftlich vernünftige Unternehmensführung gewährleisten und die
+Kommanditgesellschaft davor schützen, daß ihr Vermögen zugunsten der Kommanditisten ausgehöhlt wird.
+In der GmbH & Co. KG fehlt dieses Gegengewicht. Zwar haftet auch hier die Komplementär-GmbH unbeschränkt,
+jedoch nur mit dem Vermögen, das sie im Zeitpunkt ihrer Liquidation hat. Der unbeschränkte Zugriff auf das Pri-
+vatvermögen der hinter den Gesellschaften stehenden natürlichen Personen ist dem Gläubiger regelmäßig ver-
+wehrt. In deren Interesse sind deshalb die Vorschriften zur Kapitalerhaltung im GmbH-Recht für die GmbH & Co.
+KG entsprechend heranzuziehen, wenn zu Lasten des Garantiekapitals Vermögen der Kommanditgesellschaft an
+die Kommanditisten ausgeschüttet wird. Besitzt die GmbH keine über ihr Stammkapital hinausgehende Vermö-
+genswerte, so ist das Garantiekapital regelmäßig betroffen, wenn die GmbH mit einem Vermögensanteil an der
+Kommanditgesellschaft beteiligt ist und deren Einlagekapital an die Kommanditistin ausgeschüttet wird. Kommt
+es bei der Kommanditgesellschaft zu einer Überschuldung, so muß die GmbH in deren Umfang wegen ihrer un-
+beschränkten Haftung (§ 128 HGB) Rückstellungen oder Verbindlichkeiten gegenüber den Gesellschaftsgläubigern
+passivieren, ohne einen gleichwertigen Rückgriffsanspruch gegen die Kommanditgesellschaft aktivieren zu kön-
+nen; auch dadurch wird ihr Stammkapital ausgehöhlt. Diese mittelbaren Minderungen des Gesellschaftsvermö-
+gens der GmbH hat der Kommanditist, der zugleich Gesellschafter der GmbH ist, entsprechend § 31 GmbHG da-
+durch auszugleichen, daß er der Kommanditgesellschaft die Entnahmen erstattet und auf diese Weise mittelbar
+auch das Vermögen der GmbH wiederauffüllt. Für den Nur-Kommanditisten kann nichts anderes gelten.
+Schon in dem mehrfach zitierten Urteil vom 29. März 1973 (BGHZ 60, 324, 329) hat der Senat darauf hingewiesen,
+daß die Kommanditgesellschaft wegen der gesellschaftsrechtlichen Verknüpfung der Interessen dafür verant-
+wortlich ist, daß ihr Zuwendungen erstattet werden, die nach GmbH-Recht unzulässig sind. Diese Verantwortung,
+die dem Kommanditisten in der herkömmlichen Kommanditgesellschaft der Komplementär abnimmt, wenn die-
+ser eine natürliche Person ist, trifft ähnlich wie den Gesellschafter der GmbH auch den Kommanditisten, wenn
+der unbeschränkt haftende Komplementär die ihm normalerweise zugedachte Bremsfunktion nicht übernehmen
+kann, weil die Gesellschafter diese Stelle mit einer Kapitalgesellschaft besetzt haben, die nur über einen begrenz-
+ten Haftungsfonds verfügt. Wenigstens dieser Fonds muß der Gesellschaft im Interesse der Gläubiger erhalten
+bleiben. Da Ausschüttungen an den Kommanditisten ihn ebenso angreifen wie die an den GmbH-Gesellschafter,
+trifft auch den Kommanditisten mit seinem Beitritt zu einer GmbH & Co. KG entsprechend § 30 GmbHG ein Aus-
+zahlungsverbot, ist er entsprechend § 31 GmbHG verpflichtet, der Kommanditgesellschaft seine Entnahme zu er-
+statten, soweit sie zu Lasten des Garantiekapitals gegangen ist. Das gilt auch dann, wenn beim Kommanditisten
+nur ein Anlegerinteresse besteht und ihm ein bestimmender Einfluß auf die Geschäftsführung fehlt. Dieser Kom-
+manditist kann wie jeder andere ungeachtet seiner Haftung nach § 172 Abs. 4 HGB seine Pflichteinlage entneh-
+men, falls der Gesellschaftsvertrag und die Mitgesellschafter ihm das erlauben und das Stammkapital der Kom-
+plementär-GmbH nicht angetastet wird. Will er aber zu Lasten des Gesellschaftsanteils der Komplementär-GmbH
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+65/168
+e
+ e t e
+e , a s e  e
+ge egt at, ode  dec t 
+o ge se
+e  
+t a
+e das 
+t
+e
+öge  de  o
+a d tge
+sellschaft deren Schulden nicht mehr, so greifen im Interesse des Gläubigerschutzes auch bei ihm die gesetzli-
+chen Entnahmebeschränkungen ein, wenn die GmbH über ihr Stammkapital hinaus Vermögen nicht besitzt.
+h) Die Revision des Beklagten will demgegenüber die §§ 30, 31 GmbHG auf die Ausschüttungen an alle Gesell-
+schafter nicht angewandt wissen, weil für die Verbindlichkeiten der Kommanditgesellschaft, um die es in diesem
+Rechtsstreit geht, neben der Komplementär-GmbH eine natürliche Person, nämlich T. Sch. bzw. seine Erbin, unbe-
+schränkt hafte. Hieran ist richtig, daß T. Sch. am 1. April 1966 aus der Komplementär- in die Kommanditistenstel-
+lung gewechselt und dieser Wechsel am 26. Januar 1967 im Handelsregister vermerkt worden ist, daß aber die
+Verjährungsfrist des § 159 HGB ab diesem Zeitpunkt für seine unbeschränkte Haftung nicht lief, weil er als Ge-
+schäftsführer der an seine Stelle getretenen Komplementär-GmbH die Geschäfte der Kommanditgesellschaft wie
+bisher weiterführte (vgl. BGHZ 78, 114, 118; Sen.Urteile v. 19. Mai 1983 - II ZR 49/82, WM 1983, 700, 702; II ZR
+207/81, WM 1983, 703, 704; v. 25. September 1989 II ZR 259/88, WM 1989, 1661, 1664 f.). Zu Unrecht ist die Revi-
+sion des Beklagten jedoch der Meinung, die unbeschränkte Haftung T. Sch. bzw. seiner Erbin für Ansprüche aus
+Dauerschuldverhältnissen der Kommanditgesellschaft sei erst nach Ablauf von 5 Jahren weggefallen, nachdem
+am 12. Juni 1975 im Handelsregister vermerkt worden war, daß T. Sch. als Kommanditist ausgeschieden sei. Die
+5jährige Verjährungsfrist begann bereits zu laufen, als am 28. März 1968 im Handelsregister eingetragen wurde,
+daß T. Sch. nicht mehr Geschäftsführer der GmbH sei. Von diesem Zeitpunkt ab hatte er als Kommanditist eine
+Stellung inne, die der eines ausgeschiedenen Gesellschafters i.S. des § 159 Abs. 1 HGB vergleichbar war (vgl.
+Sen.Urt. v. 25. September 1989, aaO.). Die Versorgungsansprüche, um die es in diesem Rechtsstreit geht, sind alle
+nach dem 28. März 1973 und damit nach Ablauf der 5jährigen Verjährungsfrist fällig geworden.
+3. Das Berufungsgericht hat auch zur Höhe der noch offenen Verbindlichkeiten der Kommanditgesellschaft, die
+durch die mit der Klage geltend gemachten 989.207 DM abgedeckt werden sollen, keine abschließenden Feststel-
+lungen getroffen. Es kommt zwar zu dem Ergebnis, daß die Kommanditgesellschaft Versorgungsleistungen zu-
+gunsten des Rentners Ap. sowie der Witwe und der Tochter des Geschäftsführers D. zu erbringen hat. Wegen des
+obsiegenden Urteils dürften noch die Versorgungsleistungen zugunsten der Rentner Schi. und L. hinzukommen.
+Offengeblieben ist aber, ob und falls ja - wie weit die S. AG als Schuldnerin gemäß § 613 a Abs. 1 BGB in Versor-
+gungsanwartschaften eingetreten ist. Eine abschließende Entscheidung ist dem Senat somit nicht möglich.
+III. Das Berufungsgericht hat der Klage stattgegeben, soweit der Kläger einen Schadensersatzanspruch des Pensi-
+onssicherungsvereins infolge deliktischer Verletzung von Schutzgesetzen geltend macht, der ihm am 30. Mai 1983
+(Anl. K 42) abgetreten worden ist.
+1. Das Berufungsgericht hält den Beklagten für schadensersatzpflichtig, weil er durch den Verstoß gegen § 30
+GmbHG ein Schutzgesetz i.S. von § 823 Abs. 2 BGB verletzt habe. Im Schrifttum wird ebenfalls verschiedentlich
+der Standpunkt vertreten, daß § 30 GmbHG ein Schutzgesetz zugunsten der Gläubiger sei (vgl.
+Hachenburg/Goerdeler/Müller, GmbHG 7. Aufl. § 30 Rdnrn. 6 und 12; Scholz/H. P. Westermann, GmbHG 7. Aufl. §
+30 Rdnr. 8). Der Senat teilt diese Ansicht nicht. Soweit Normadressat dieser Bestimmung die Gesellschaft und da-
+mit deren Geschäftsführer ist, stellt jeder Verstoß eine Pflichtverletzung i.S. des § 43 Abs. 2 GmbHG dar, die den
+Geschäftsführer unabdingbar verpflichtet, der Gesellschaft Schadensersatz wenigstens in dem Umfang zu leisten,
+wie er zur Befriedigung der Gläubiger erforderlich ist (§ 43 Abs. 3 GmbHG). Der Senat hat bereits für die dem § 43
+GmbHG vergleichbare Bestimmung des Aktienrechts, nämlich § 93 Abs. 1 AktG, ausgeführt, daß sie kein Schutz-
+recht i.S. von § 823 Abs. 2 BGB ist; sie regelt allein die Pflichten von Organmitgliedern aus ihrem durch die Bestel-
+lung begründeten Rechtsverhältnis zur Gesellschaft (vgl. Sen.Urt. v. 9. Juli 1979 - II ZR 211/76, WM 1979, 853, 854).
+Was für § 93 AktG gilt, gilt auch für § 43 GmbHG. Die im Verstoß gegen § 30 GmbHG bestehende Verletzung der
+gebotenen Sorgfalt i.S. des § 43 Abs. 1 GmbHG ist hiervon nicht ausgenommen.
+§ 30 GmbHG ist aber auch kein Schutzgesetz, soweit er den Gesellschaftern verbietet, eine Auszahlung entgegen-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+66/168
+u e
+e  ode  
+ de  Gese sc a te
+e sa
+u g au  e
+e so c e 
+u
+e . 
+e est
+u g so  
+a  ge
+währleisten, daß der Gesellschaft im Interesse ihrer Gläubiger das gezeichnete Kapital erhalten bleibt; deren
+Schutz ist aber in ausreichendem Maße dadurch gewährleistet, daß die unberechtigte Entgegennahme haftenden
+Kapitals oder auf diese abzielende Weisungen an die Geschäftsführer zu Erstattungs- oder Schadensersatzan-
+sprüchen der Gesellschafter führen, die der Gläubiger jederzeit pfänden und sich zur Einziehung überweisen las-
+sen kann (vgl. BGHZ 69, 274, 283 für den Fall der Verpfändung). Eine dem § 62 Abs. 2 AktG entsprechende Rege-
+lung, die den Gläubigern unter bestimmten Voraussetzungen einen unmittelbaren Anspruch gegen den Gesell-
+schafter gibt, kennt das GmbH-Recht nicht. Sie kann auch nicht auf dem Umweg über § 823 Abs. 2 BGB geschaf-
+fen werden. Das Berufungsgericht hat mithin zu Unrecht eine deliktische Haftung des Beklagten wegen dessen
+Verstoß gegen § 30 GmbHG bejaht.
+2.a) Nach Ansicht des Berufungsgerichts ist der Beklagte ferner verpflichtet, den Schaden zu ersetzen, der ent-
+standen ist, weil der Beklagte den Konkursantrag verspätet gestellt hat (§ 823 Abs. 2 BGB i.V.m. § 64 Abs. 1
+GmbHG, 177 a, 130 a HGB). Es ist allgemein anerkannt, daß diese Bestimmungen Schutzgesetze i.S. von § 823
+Abs. 2 BGB zugunsten der Konkursgläubiger sind, deren vorsätzliche oder fahrlässige Verletzung zu deliktischen
+Ansprüchen der Gläubiger gegen den Geschäftsführer auf Ersatz des Konkursverschleppungsschadens führt (vgl.
+BGHZ 29, 100, 102; 75, 96, 106; 100, 19, 21; Sen.Urt. v. 26. Juni 1989 - II ZR 289/88, WM 1989, 1568). Dieser soge-
+nannte Quotenschaden wird im Konkurs der Gesellschaft als Gesamtgläubigerschaden vom Konkursverwalter
+geltend gemacht, ohne daß ihm die Gläubiger ihre Ansprüche zu diesem Zweck zuvor abgetreten haben müssen
+(vgl. BGH, Urt. v. 24. Oktober 1973 - VIII ZR 82/72, WM 1973, 1354, 1355).
+b) Das Berufungsgericht hat den Pensionssicherungsverein als einzigen geschädigten Gläubiger angesehen und
+deshalb bei der Beantwortung der Frage, ob der Ersatzanspruch nach § 852 BGB verjährt ist, allein darauf abge-
+stellt, wann dessen Vertreter vom Schaden Kenntnis erlangt haben. Diese Beurteilung ist aus mehreren Gründen
+nicht haltbar.
+Zu dem geschützten Personenkreis, der nach § 64 Abs. 1 GmbHG, § 130 a Abs. 1 HGB i.V.m. § 823 Abs. 2 BGB im
+Falle der Konkursverschleppung aus eigenem Recht einen Schadensersatzanspruch gegen den Geschäftsführer
+auf Ausgleich des sogenannten Quotenschadens hat, gehören nur diejenigen Gesellschaftsgläubiger, die ihre For-
+derung bereits vor Konkurseröffnung erworben haben. Personen, die erst mit oder nach Konkurseröffnung Gläu-
+biger der Gesellschaft werden, sind nicht geschützt (vgl. Sen.Urt. v. 26. Juni 1989 II ZR 289/88, WM 1989, 1568 ff.).
+Das trifft für den Pensionssicherungsverein hinsichtlich aller Ansprüche oder Anwartschaften der Versorgungsbe-
+rechtigten gegen die Kommanditgesellschaft zu, die nach § 9 Abs. 2 BetrAVG mit Eröffnung des Konkursverfah-
+rens auf ihn übergegangen sind. Vor diesem Zeitpunkt hat der Pensionssicherungsverein eine Gläubigerstellung
+nach § 9 Abs. 2 BetrAVG nur in den Fällen erlangt, in denen er den Berechtigten die ihnen zustehenden Ansprü-
+che mitgeteilt oder - was der Mitteilung nach der Rechtsprechung des Bundesarbeitsgerichts gleichsteht (BAG,
+Urt. v. 11. September 1980 - 3 AZR 544/79, ZIP 1981, 307, 311) - die Leistung aufgenommen hat. Vor Konkurseröff-
+nung erbracht worden sind die Leistungen gegenüber den Rentnern Schi. und L. nach Erlaß des zweitinstanzli-
+chen Urteils vom 22. Februar 1979 (BU 19/20) und ab 1980 auch wohl gegenüber dem Rentner Ap. (BU 21). Aber
+auch in diesen drei Versorgungsfällen ist offen, ob die auf Konkursverschleppung beruhende Schadensentwick-
+lung nicht bereits abgeschlossen war, bevor die Versorgungsansprüche gegen die Kommanditgesellschaft gemäß
+§ 9 Abs. 2 BetrAVG auf den Pensionssicherungsverein übergegangen sind. Das Berufungsgericht hat hierzu keine
+Feststellungen getroffen, weil es der Meinung war, daß nach § 9 Abs. 2 BetrAVG auch die Schadensersatzansprü-
+che gegen den Beklagten auf den Pensionssicherungsverein übergegangen seien, dieser also aus abgeleitetem
+Recht Anspruch auf Ausgleich des Quotenschadens habe.
+In diesem Punkt irrt das Berufungsgericht. Die Ansprüche der Versorgungsberechtigten auf Ersatz ihres Quoten-
+schadens sind nicht auf den Pensionssicherungsverein übergegangen. Rechtsgeschäftlich abgetreten haben ihm
+die Rentner ihre Ersatzansprüche gegenüber dem Beklagten unstreitig nicht. § 9 Abs. 2 BetrAVG sieht nur den
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+67/168
+ec tsübe ga g o  
+sp üc e  u d 
+a tsc a te  des e so gu gsbe ec t gte  gege  de  
+be tgebe , 
+c t
+aber den Übergang von Ersatzansprüchen gegen Dritte vor. Diese Ansprüche zählen ungeachtet der Tatsache,
+daß sie ebenfalls dem Versorgungsinteresse des Berechtigten dienen, als selbständige, gegen einen nicht mit
+dem Schuldner der Versorgung personengleichen Dritten gerichtete Ansprüche auch nicht zu den unselbständi-
+gen Nebenrechten, die nach §§ 401, 412 BGB beim gesetzlichen Forderungsübergang kraft Gesetzes zusammen
+mit der Hauptforderung auf den Nebengläubiger übergehen. Was der Senat in diesem Punkt zu § 141 m AFG aus-
+geführt hat (vgl. Sen.Urt. v. 26. Juni 1989 - II ZR 289/88, WM 1989, 1568, 1569), gilt auch für § 9 Abs. 2 BetrAVG.
+Hiernach kommt es für die Verjährung nicht auf die Kenntnis des Pensionssicherungsvereins, sondern auf die der
+Versorgungsberechtigten und ab Konkurseröffnung auf die des Klägers an. Hierzu hat das Berufungsgericht
+nichts festgestellt, so daß das Urteil auch insoweit aufzuheben ist.
+IV.
+Die Sache wird zurückverwiesen, damit die Parteien Gelegenheit zu ergänzendem Vortrag erhalten und das Beru-
+fungsgericht die noch fehlenden Feststellungen treffen kann.

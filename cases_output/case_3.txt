@@ -1,0 +1,271 @@
+II ZB 4/02
+Gericht: BGH,    Datum: 7. Jul 2003,    Fundstelle: 2003/11428; BGHZ 155, 318
+§ 7 GmbHG; § 8 GmbHG; § 11 GmbHG: Wirtschaftliche Neugründung auch bei Mantelgesellschaft; Offenlegung
+der wirtschaftlichen Neugründung gegenüber dem Registergericht; entsprechende Anwendung des Haftungsmo-
+dells der Unterbilanzhaftung bezogen auf den Stichtag der Offenlegung der wirtschaftlichen Neugründung; Vor-
+ausetzungen der Handelndenhaftung analog § 11 Abs. 2 GmbHG
+Leitsätze:
+a) Auf die wirtschaftliche Neugründung durch Verwendung des "alten" Mantels einer existenten, im Rah-
+men ihres früheren Unternehmensgegenstand tätig gewesenen, jetzt aber unternehmenslosen GmbH sind
+die der Gewährleistung der Kapitalausstattung dienenden Gründungsvorschriften des GmbHG einschließ-
+lich der registergerichtlichen Kontrolle entsprechend anzuwenden (Fortführung von BGH, Beschluß vom 9.
+Dezember 2002 - II ZB 12/02, ZIP 2003, 251 - zur Veröffentlichung in BGHZ bestimmt).
+b) Die Tatsache der Wiederverwendung eines zwischenzeitlich leer gewordenen Gesellschaftsmantels ist ge-
+genüber dem Registergericht offenzulegen. Diese Offenlegung der wirtschaftlichen Neugründung ist mit
+der - am satzungsmäßigen Stammkapital auszurichtenden - Versicherung gemäß § 8 Abs. 2 GmbHG zu
+verbinden.
+c) Die reale Kapitalaufbringung ist sowohl bei der Mantelverwendung als auch bei der Aktivierung einer Vor-
+ratsgesellschaft durch entsprechende Anwendung des Haftungsmodells der Unterbilanzhaftung - bezogen
+auf den Stichtag der Offenlegung der wirtschaftlichen Neugründung gegenüber dem Registergericht -
+sicherzustellen.
+d) Neben der Unterbilanzhaftung kommt auch eine Handelndenhaftung analog § 11 Abs. 2 GmbHG in Be-
+tracht, wenn vor Offenlegung der wirtschaftlichen Neugründung die Geschäfte aufgenommen werden,
+ohne daß alle Gesellschafter dem zugestimmt haben.
+Zur Examensrelevanz: noch nicht bearbeitet
+Fundstellen:
+BGHZ 155, 318; NJW 2003, 3198; GmbHR 2003, 1125; BB 2003, 2079
+Aus dem Urteil:
+(DRsp Nr. 2003/11428 - nach www.deubner-recht.de)
+ 
+Gründe:
+I. Die Antragstellerin wurde am 23. Dezember 1972 unter der Firma "U. J. F. GmbH" im Handelsregister des Amts-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+11/168
+ge c ts 
+. e
+get age . ac  e au set u g des Sta
+ap ta s au  50.000,00 
+ u d Übe t agu g de  Ge
+schäftsanteile auf die F. Bauunternehmung AG änderte die Antragstellerin im Jahre 1991 ihre Firma in die jetzt im
+Handelsregister eingetragene Bezeichnung und paßte den Unternehmensgegenstand der neuen Unternehmens-
+form ihrer Alleingesellschafterin wie folgt an: "Soziale Einrichtung der Firma F. Bauunternehmung AG. Ausschließ-
+licher Zweck: freiwillige, einmalige, wiederholte oder laufende Unterstützung von Betriebsangehörigen und ehe-
+maligen Betriebsangehörigen sowie deren Angehörigen ... bei Hilfsbedürftigkeit, Krankheit, Invalidität, Berufsun-
+fähigkeit, Arbeitslosigkeit und im Alter." Das Stammkapital wurde zur Hälfte eingezahlt. Nachdem über das Ver-
+mögen der F. Bauunternehmung AG Anfang 1998 das Konkursverfahren eröffnet worden war, veräußerte der
+Konkursverwalter die neu gebildeten Geschäftsanteile an der Antragstellerin im Nennbetrag von 48.500,00 DM an
+K. S. und im Nennwert von 1.500,00 DM an H. -J. Ku. zum Kaufpreis von insgesamt 5.000,00 DM. In derselben Ur-
+kunde beriefen die neuen Gesellschafter die bisherigen Geschäftsführer ab und bestellten Fr. S. zum neuen Ge-
+schäftsführer. Zugleich verlegten sie den Sitz der Gesellschaft nach Fü., änderten die Firma in "Z. Metallbau
+GmbH" und den Gegenstand des Unternehmens in "industrielle Herstellung von Zäunen, Toren, Türen, Geländer-
+systemen, Schweißkonstruktionen, Hundezwingern, Pferdeboxen, Treppenanlagen etc. aus Stahl, Metall und Holz
+sowie deren Vertrieb und Montage". Die übrigen Bestimmungen des bisherigen Gesellschaftsvertrages ließen die
+neuen Gesellschafter unverändert.
+Mit Zwischenverfügung vom 19. März 2001 hat der Registerrichter des Amtsgerichts die Eintragung der vom Ge-
+schäftsführer der Antragstellerin angemeldeten Änderungen u.a. von der Abgabe einer § 8 Abs. 2 GmbHG ent-
+sprechenden Versicherung abhängig gemacht, weil eine wirtschaftliche Neugründung in Form der Mantelverwen-
+dung vorliege. Die gegen diesen Teil der Zwischenverfügung gerichtete Beschwerde der Antragstellerin hat das
+Landgericht durch Beschluß vom 27. September 2001 zurückgewiesen. Die dagegen erhobene weitere Be-
+schwerde möchte das Oberlandesgericht (NZG 2002, 641) ebenfalls zurückweisen, sieht sich hieran jedoch durch
+die Entscheidungen des Bayerischen Obersten Landesgerichts vom 24. März 1999 (GmbHR 1999, 607) und des
+Oberlandesgerichts Frankfurt/Main vom 14. Mai 1991 (GmbHR 1992, 456) gehindert, weil es bei Befolgung der
+dort geäußerten Rechtsansicht dem Rechtsmittel - mindestens teilweise - stattgeben müßte. Daher hat es die Sa-
+che dem Bundesgerichtshof gemäß § 28 Abs. 2 FGG zur Entscheidung vorgelegt.
+II. Die Voraussetzungen für eine Vorlage nach § 28 Abs. 2 FGG sind aus den vom Oberlandesgericht in seinem Vor-
+lagebeschluß angeführten Gründen gegeben. Das Bayerische Oberste Landesgericht und der 20. Zivilsenat des
+Oberlandesgerichts Frankfurt/Main verneinen generell eine analoge Anwendung der Gründungsvorschriften des
+GmbH-Gesetzes bei der sog. Mantelverwendung; insbesondere lehnen sie eine Verpflichtung der Verwender der
+GmbH zur erneuten Versicherung nach § 8 Abs. 2 GmbHG über die Unversehrtheit des Stammkapitals und eine
+diesbezügliche Kontrollbefugnis des Registergerichts ab, so daß das vorlegende Oberlandesgericht sich mit seiner
+beabsichtigten Entscheidung in Divergenz hierzu befinden würde.
+III. Die weitere Beschwerde der Antragstellerin ist unbegründet.
+Das Registergericht hat mit seiner Zwischenverfügung vom 19. März 2001 zu Recht die begehrten Eintragungen
+von der vorherigen Abgabe einer Versicherung nach § 8 Abs. 2 GmbHG abhängig gemacht, weil die angemeldeten
+Änderungen aus Anlaß der wirtschaftlichen Neugründung eines Unternehmens unter Verwendung des "Mantels"
+einer zwar rechtlich bestehenden, aber inaktiv gewordenen Gesellschaft ohne Geschäftsbetrieb erfolgt sind und
+daher in entsprechender Anwendung der Gründungsvorschriften des GmbH-Gesetzes die registergerichtliche
+Kontrolle der Unversehrtheit des Stammkapitals erforderlich ist.
+1. Wie der Senat im Anschluß an seine Entscheidung zur Vorratsgesellschaft des Aktienrechts (BGHZ 117, 323) be-
+reits zur vergleichbaren Problematik bei der Vorratsgesellschaft des GmbH-Rechts entschieden hat (Beschl. v. 9.
+Dezember 2002 - II ZB 12/02, ZIP 2003, 251 - zur Veröffentlichung in BGHZ bestimmt), stellt die Verwendung einer
+"auf Vorrat" gegründeten Gesellschaft mit beschränkter Haftung wirtschaftlich eine Neugründung dar. Auf diese
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+12/168
+o
+ de  
+tsc a t c e  eug ü du g du c  usstattu g de  o atsgese sc a t 
+t e
+e
+ U te
+e
+e  u d
+erstmalige Aufnahme ihres Geschäftsbetriebes sind die der Gewährleistung der Kapitalausstattung dienenden
+Gründungsvorschriften des GmbH-Gesetzes einschließlich der registergerichtlichen Kontrolle entsprechend anzu-
+wenden. Dementsprechend hat der Geschäftsführer entsprechend § 8 Abs. 2 GmbHG zu versichern, daß die in § 7
+Abs. 2 und 3 GmbHG bezeichneten Leistungen auf die Stammeinlagen bewirkt sind und daß der Gegenstand der
+Leistungen sich - weiterhin oder jedenfalls wieder - in seiner freien Verfügung befindet.
+2. Diese für die Verwendung der auf Vorrat gegründeten Gesellschaft aufgestellten Grundsätze sind auf den - vor-
+liegenden - Fall der Verwendung des "alten" Mantels einer existenten, im Rahmen ihres früheren Unternehmens-
+gegenstandes tätig gewesenen, jetzt aber unternehmenslosen GmbH entsprechend übertragbar (überwiegende
+Meinung in Rechtsprechung und Literatur, vgl. nur OLG Brandenburg aaO., 641 ff.; Baumbach/Hueck/Fastrich,
+GmbHG 17. Aufl. § 3 Rdn. 15 - jew. m. umfangreichen Rechtsprechungs- und Literaturnachweisen zum Meinungs-
+stand). Auch die Verwendung eines solchen alten, leer gewordenen Mantels einer GmbH stellt wirtschaftlich eine
+Neugründung dar. Als wirtschaftliche Neugründung ist es anzusehen, wenn die in einer GmbH verkörperte juristi-
+sche Person als unternehmensloser Rechtsträger ("Mantel") besteht und sodann mit einem Unternehmen ausge-
+stattet wird. Dabei macht es bei wertender Betrachtung keinen Unterschied, ob die Unternehmenslosigkeit im
+Sinne des Fehlens eines Geschäftsbetriebes - wie bei der "offenen" Vorratsgründung - von Anfang an vorgesehen
+ist und sodann die Gesellschaft erstmals den Betrieb eines Unternehmens aufnimmt, oder ob sie - wie bei den
+sog. alten Gesellschaftsmänteln - darauf beruht, daß der Betrieb eines (ursprünglich) vorhandenen Unterneh-
+mens mittlerweile eingestellt bzw. endgültig aufgegeben worden ist und sodann der gleichsam als "inhaltsloser
+Hülle" fortbestehenden juristischen Person ein neues Unternehmen "implantiert" wird (vgl. Henze in Großkomm.
+z. AktG, 4. Aufl. § 54 Rdn. 35 m.w.N.). Die mit der wirtschaftlichen Neugründung verbundenen Probleme eines
+wirksamen Gläubigerschutzes bestehen sowohl im Anschluß an eine Vorratsgründung als auch im Zusammen-
+hang mit der "Wiederbelebung" eines leeren Mantels durch Ausstattung mit einem (neuen) Unternehmen: In bei-
+den Fällen besteht die Gefahr einer Umgehung der Gründungsvorschriften mit der Folge, daß die gesetzliche und
+gesellschaftsvertragliche Kapitalausstattung bei Aufnahme der wirtschaftlichen Tätigkeit nicht gewährleistet ist.
+Die Gläubiger sind im Falle der Verwendung eines bereits stillgelegten, leeren Mantels sogar stärker gefährdet
+und daher schutzbedürftiger als bei der Verwendung einer Vorrats-GmbH. Während nämlich bei der zunächst in-
+aktiven Vorratsgesellschaft die zuvor anläßlich der rechtlichen Gründung durch das Registergericht kontrollierte
+Kapitalausstattung zum Zeitpunkt der wirtschaftlichen Neugründung durch Aufnahme ihres Geschäftsbetriebes
+regelmäßig noch unversehrt, vermindert allenfalls um die Gründungskosten und Steuern, vorhanden sein wird
+(BGHZ 117, 323, 333), ist im Zeitpunkt der Verwendung eines alten GmbH-Mantels das früher aufgebrachte
+Stammkapital des inaktiv gewordenen Unternehmens typischerweise nicht mehr unversehrt, sondern zumeist so-
+gar bereits verbraucht. Daher ist gerade bei dieser Art der Mantelverwendung dem vornehmlichen Zweck der
+Gründungsvorschriften, die reale Kapitalaufbringung der gesetzlich vorgeschriebenen Kapitalausstattung der Ge-
+sellschaft im Zeitpunkt ihres Entstehens als Voraussetzung für die Beschränkung ihrer Haftung auf das Gesell-
+schaftsvermögen sicherzustellen, durch deren analoge Anwendung bei der (späteren) wirtschaftlichen Neugrün-
+dung Rechnung zu tragen (vgl. Senat, BGHZ 117, 323, 331; Beschl. v. 9. Dezember 2002 aaO., 251, 252).
+3. Die Frage, wie der Gläubigerschutz aus Anlaß der Verwendung eines leeren Mantels nach vorheriger Einstel-
+lung oder Aufgabe des vormals vorhandenen Unternehmens im Wege der analogen Anwendung der Gründungs-
+vorschriften im einzelnen auszugestalten ist, betrifft auch im vorliegenden Falle die formalrechtliche registerge-
+richtliche Präventivkontrolle.
+Da die Verwendung eines alten Gesellschaftsmantels - nicht anders als diejenige einer Vorrats-GmbH - als wirt-
+schaftliche Neugründung anzusehen ist, ist sie der registergerichtlichen Kontrolle nach denselben Maßstäben zu
+unterwerfen, wie sie der Senat bereits im Beschluß vom 9. Dezember 2002 (aaO., 252) im Hinblick auf die Verwen-
+dung einer Vorrats-GmbH aufgestellt hat. Das bedeutet, daß die Tatsache der Wiederverwendung eines zwischen-
+zeitlich leer gewordenen Gesellschaftsmantels gegenüber dem Registergericht offenzulegen ist; diese Offenle-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+13/168
+gu g de  
+tsc a t c e  eug ü du g st 
+t de  e s c e u g ge
+äß § 8 bs.  G
+b G u e b
+de , daß d e
+in § 7 Abs. 2 und 3 GmbHG bezeichneten Leistungen auf die Stammeinlagen bewirkt sind und daß der Gegen-
+stand der Leistungen sich zu diesem Zeitpunkt endgültig in der freien Verfügung der Geschäftsführer befindet.
+a) Die gegen eine registergerichtliche Kontrolle der wirtschaftlichen Neugründung bei Verwendung eines ge-
+brauchten Mantels vorgebrachten Bedenken (vgl. dazu im wesentlichen BayObLG aaO., 607 ff.; vgl. auch Altmep-
+pen, NZG 2003, 145, 147 ff.), die sich vor allem auf die Schwierigkeiten der Abgrenzung der wirtschaftlichen Neu-
+gründung von der - nicht zu beanstandenden - Umorganisation der vorhandenen GmbH [aa)] und die Begrenzt-
+heit der Erkenntnismöglichkeiten des Registerrichters [bb)] beziehen, hält der Senat - wie schon in bezug auf die
+Vorrats-GmbH (vgl. dazu Sen.Beschl. v. 9. Dezember 2002 aaO., 252 f.) - nicht für durchgreifend.
+aa) Für die Abgrenzung der Mantelverwendung von der Umorganisation oder Sanierung einer (noch) aktiven
+GmbH ist entscheidend, ob die Gesellschaft noch ein aktives Unternehmen betrieb, an das die Fortführung des
+Geschäftsbetriebes - sei es auch unter wesentlicher Umgestaltung, Einschränkung oder Erweiterung seines Tätig-
+keitsgebietes - in irgendeiner wirtschaftlich noch gewichtbaren Weise anknüpft oder ob es sich tatsächlich um ei-
+nen leer gewordenen Gesellschaftsmantel ohne Geschäftsbetrieb handelt, der seinen - neuen oder alten - Gesell-
+schaftern nur dazu dient, unter Vermeidung der rechtlichen Neugründung einer die beschränkte Haftung gewähr-
+leistenden Kapitalgesellschaft eine gänzlich neue Geschäftstätigkeit - ggf. wieder - aufzunehmen (so zutr. Priester
+aaO., 2297 f.; Hachenburg/Ulmer, GmbHG 8. Aufl. § 3 Rdn. 35). Auf der Grundlage dieser Unterscheidung lassen
+sich die - angesichts der Vielgestaltigkeit möglicher Manteltransaktionen - vorhandenen Abgrenzungsprobleme je-
+denfalls im Regelfall, d.h. vornehmlich beim sog. Mantelkauf, bewältigen. Im übrigen kann der Geltungsanspruch
+der Kapitalaufbringungsnormen nicht von etwaigen Schwierigkeiten ihrer praktischen Umsetzung abhängig ge-
+macht werden, zumal Abgrenzungs- und Kontrollprobleme ein allenthalben anzutreffendes und auch sonst zu be-
+wältigendes Phänomen der Rechtsanwendung sind.
+bb) Der Begrenztheit der Erkennbarkeit von Mantelverwendungen und der diesbezüglichen Erkenntnismöglich-
+keiten des Registergerichts trägt der Senat dadurch Rechnung, daß er nunmehr die Offenlegung der Wiederver-
+wendung des alten Gesellschaftsmantels gegenüber dem Registergericht verlangt. Dadurch wird in der gebote-
+nen Weise die "wirtschaftliche Neugründung" offenkundig gemacht (vgl. dazu Bredow/Schumacher, DStR 2003,
+1032, 1036; Peetz, GmbHR 2003, 229, 331) und zugleich die Effektivität des unverzichtbaren registergerichtlichen
+Präventivschutzes vor einer gläubigergefährdenden wirtschaftlichen Verwendung der Rechtsform der GmbH ver-
+stärkt. Eine derart verläßliche Kontrolle wäre allein aufgrund der dem Registergericht sonst zur Verfügung stehen-
+den Erkenntnisquellen nicht gesichert. Eintragungspflichtige Abänderungen des Gesellschaftsvertrages (§ 54
+GmbHG), wie Änderung des Unternehmensgegenstandes, Neufassung der Firma, Sitzverlegung, Bestellung eines
+neuen Geschäftsführers, sowie eine Veräußerung der Geschäftsanteile gehen zwar typischerweise, aber keines-
+wegs notwendig mit einer Mantelverwendung einher; anhand solcher häufig - aber nicht notwendig - kumulativ
+auftretender, unterschiedlich aussagekräftiger Indizien lassen sich allenfalls eindeutige Mantelverwendungen
+durch die registergerichtliche Kontrolle erfassen, während ein beträchtlicher Teil regelungsbedürftiger Fälle uner-
+kannt bliebe. Dem wirkt die obligatorische Offenlegung der wirtschaftlichen Neugründung entgegen.
+b) Die mit der Offenlegung der Mantelverwendung gegenüber dem Registergericht zu verbindende Versicherung
+gemäß § 8 Abs. 2 GmbHG ist - was der Senat in seinem Beschluß vom 9. Dezember 2002 (aaO.) zur Vorrats-GmbH
+offenlassen konnte - am satzungsmäßigen Stammkapital auszurichten, so daß im Zeitpunkt der Offenlegung die
+Gesellschaft noch ein Mindestvermögen in Höhe der statutarischen Stammkapitalziffer besitzen muß, von dem
+sich ein Viertel - wenigstens aber 12.500,00 EURO - wertmäßig in der freien Verfügung der Geschäftsführung zu
+befinden hat.
+Während Vorratsgesellschaften regelmäßig nur mit dem gesetzlichen Mindestkapital von 25.000,00 EURO (§ 5
+Abs. 1 GmbHG) ausgestattet sind, wird bei den zur Wiederverwendung bestimmten alten GmbH-Mänteln die sta-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+14/168
+tuta sc e ap taff
+e  
+c t se te  da übe  ege . a e  st u
+e
+ a
+uste e , daß 
+ be de  a
+o ste a
+tionen der wirtschaftlichen Neugründung die Kapitalaufbringung - entgegen verbreiteter Ansicht (vgl. Priester, DB
+1983, 2291, 2295 f.; vgl. ferner die Nachweise bei Baumbach/Hueck/Fastrich aaO., § 3 Rdn. 15) - nicht auf das ge-
+setzliche Mindeststammkapital von 25.000,00 EURO begrenzt ist, sondern sich am satzungsmäßig festgelegten
+Stammkapital auszurichten hat (vgl. Peters, Der GmbH-Mantel S. 72 f.; Ihrig, BB 1988, 1197, 1202; Henze aaO., §
+54 Rdn. 38 m.w.N.). Es liegt in der Konsequenz der analogen Anwendung der Kapitalaufbringungsvorschriften,
+daß bei der wirtschaftlichen Neugründung - genauso wie bei jeder "regulären" rechtlichen Neugründung - die Ka-
+pitalaufbringung im Umfang der statutarisch festgelegten Kapitalziffer sichergestellt werden soll. Der Mantelver-
+wender verwendet nicht irgendeinen am gesetzlichen Mindeststammkapital orientierten hypothetischen, son-
+dern den konkreten Gesellschaftsmantel mit dem konkreten - ggf. höheren - satzungsmäßigen Stammkapital; an
+dieser statutarischen, im Handelsregister verlautbaren Kapitalziffer orientiert sich auch das zu schützende Ver-
+trauen des Rechtsverkehrs.
+4. Die reale Kapitalaufbringung als zentrales, die Haftungsbegrenzung auf das Gesellschaftsvermögen rechtferti-
+gendes Element ist sowohl bei der Mantelverwendung als auch bei der Aktivierung einer Vorratsgesellschaft nicht
+nur durch die registergerichtliche Präventivkontrolle, sondern weitergehend auf der materiell-rechtlichen Haf-
+tungsebene durch entsprechende Anwendung des Haftungsmodells der Unterbilanzhaftung (vgl. BGHZ 80, 129,
+140; 105, 300, 303; 134, 333) sicherzustellen. Wie der Senat bereits im Beschluß vom 9. Dezember 2002 (aaO.,
+251, 252) ausgesprochen hat, beinhaltet die dem Geschäftsführer auf der formalen registerrechtlichen Ebene
+nach § 8 Abs. 2 GmbHG obliegende Versicherung von Gesetzes wegen, daß im Anmeldezeitpunkt die geschulde-
+ten Einlagen nicht durch schon entstandene Verluste ganz oder teilweise aufgezehrt sind; bei hinreichenden An-
+haltspunkten obliegt dem Registerrichter insoweit auch die Prüfung auf das etwaige Vorhandensein einer Unter-
+bilanz. Daran anknüpfend ist als maßgeblicher Stichtag für eine Unterbilanzhaftung der Gesellschafter bei der
+wirtschaftlichen Neugründung die - mit der Versicherung nach § 8 Abs. 2 GmbHG zu verbindende - Offenlegung
+(sowie Anmeldung der etwa mit ihr einhergehenden Satzungsänderungen) gegenüber dem Handelsregister anzu-
+nehmen. Eine Gewährleistung der Unversehrtheit des Stammkapitals über diesen Zeitpunkt hinaus ist bei der
+wirtschaftlichen Neugründung nicht veranlaßt. Zum einen bedarf - anders als bei der "echten" Neugründung, die
+erst mit der Eintragung vollzogen ist (vgl. § 11 Abs. 1 GmbHG) - bei der Verwendung einer Vorratsgesellschaft oder
+des Mantels einer inaktiv gewordenen Gesellschaft der bereits früher als GmbH wirksam entstandene Rechtsträ-
+ger zu seiner weiteren rechtlichen Existenz keiner zusätzlichen "konstitutiven" Eintragung mehr; zum anderen ist
+dem Gläubigerschutz bei Unversehrtheit des Stammkapitals im Zeitpunkt der Offenlegung (bzw. Anmeldung) hin-
+reichend genügt, so daß die Gesellschafter solcher Rechtsträger nunmehr tatsächlich das neue Unternehmen als
+werbende GmbH ohne Zeitverlust in Vollzug setzen und mit der bestimmungsgemäßen Verwendung des Stamm-
+kapitals zu dessen Betrieb beginnen können.
+Neben der Unterbilanzhaftung ist auch eine Handelndenhaftung analog § 11 Abs. 2 GmbHG in Betracht zu ziehen,
+wenn vor Offenlegung der wirtschaftlichen Neugründung die Geschäfte aufgenommen werden, ohne daß dem
+alle Gesellschafter zugestimmt haben (vgl. BGHZ 134, 333, 338).
+5. Ausgehend von diesen Rechtsgrundsätzen zur analogen Anwendbarkeit der Gründungsvorschriften des GmbH-
+Gesetzes, insbesondere der registergerichtlichen Präventivkontrolle der Kapitalaufbringung bei der Verwendung
+des alten Mantels einer GmbH, hat das Registergericht zu Recht die Eintragung der angemeldeten Veränderungen
+von der vorherigen Abgabe der Anmeldeversicherung nach § 8 Abs. 2 GmbHG abhängig gemacht. Nach den von
+den Vorinstanzen getroffenen Feststellungen rechtfertigen die zur Eintragung angemeldeten Änderungen den
+Schluß auf die von der Antragstellerin beabsichtigte wirtschaftliche Neugründung eines Unternehmens unter Ver-
+wendung des "Mantels" einer rechtlich bestehenden, aber inaktiv gewordenen GmbH. Mit notariellem Vertrag
+vom 26. September 2000 haben K. S. und H.-J. Ku. im Wege des sog. Mantelkaufs die Geschäftsanteile der inaktiv
+gewordenen F. Bauunternehmung U. GmbH erworben. Diese Gesellschaft, deren satzungsmäßiger Zweck aus-
+schließlich darin bestand, ohne eigene wirtschaftliche Betätigung aus freiwilligen Zuwendungen ihrer Mutterge-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+15/168
+se sc a t de e  et ebsa ge ö ge  (steue
+c  begü st gte) U te stüt u gs e stu ge  u ge ä
+e , at 
+o ge
+der Eröffnung des Konkursverfahrens über deren Vermögen Anfang 1998 ihre wirtschaftliche Grundlage verloren.
+Irgendeine betriebliche Tätigkeit im Rahmen ihres ursprünglichen Gesellschaftszwecks war jedenfalls im Zeit-
+punkt der Übertragung der Geschäftsanteile 2 1/2 Jahre nach Konkurseröffnung nicht mehr feststellbar; so läßt
+insbesondere auch der Übertragungsvertrag nicht erkennen, daß noch irgendwelche abzuwickelnden Unterstüt-
+zungsleistungen von der Gesellschaft zu erbringen wären. Dementsprechend stellt die Veräußerung der Anteile
+zum Preis von 5.000,00 DM durch den Konkursverwalter die Verwertung des inaktiv gewordenen "leeren" Mantels
+der Gesellschaft dar. Die zugleich mit dem Erwerb der Geschäftsanteile von den neuen Gesellschaftern beschlos-
+sene Auswechselung der Geschäftsführung, Sitzverlegung sowie Änderung der Firma und des Unternehmensge-
+genstandes zum Zwecke der Neuaufnahme eines Geschäftsbetriebes lassen - typischerweise - auf die wirtschaftli-
+che Neugründung eines Unternehmens unter Verwendung eines "leeren" GmbH-Mantels schließen.
+Nach Maßgabe der vom Senat oben unter III. 3. aufgestellten Rechtsgrundsätze wird das Registergericht die be-
+gehrten Eintragungen - außer von einer Versicherung gemäß § 8 Abs. 2 GmbHG - nunmehr auch noch von der Of-
+fenlegung der wirtschaftlichen Neugründung durch die Antragstellerin abhängig zu machen haben.

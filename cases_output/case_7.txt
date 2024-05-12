@@ -1,0 +1,263 @@
+II ZR 173/04
+Gericht: BGH,    Datum: 19. Sep 2005,    Fundstelle: BGHZ 164, 98; DRsp Nr. 2005/18038
+§ 138 BGB: Gesellschafterbeteiligung auf Zeit; "Managermodell"; Zulässigkeit von Hinauskündigungsklauseln
+Leitsätze:
+In den Personengesellschaften und der GmbH sind Regelungen, die einem Gesellschafter, einer Gruppe
+von Gesellschaftern oder der Gesellschaftermehrheit das Recht einräumen, einen Mitgesellschafter ohne
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+33/168
+sac
+c e  G u d aus de  Gese sc a t aus usc
+eße  (
+aus ü d gu gs ause
+), g u dsät
+c  ac  §
+138 Abs. 1 BGB nichtig. Das gleiche gilt für eine neben dem Gesellschaftsvertrag getroffene schuldrechtliche
+Vereinbarung, die zu demselben Ergebnis führen soll.
+Dieser Grundsatz gilt aber nicht ausnahmslos. Eine an keine Voraussetzungen geknüpfte Hinauskündi-
+gungsklausel ist vielmehr wirksam, wenn sie wegen besonderer Umstände sachlich gerechtfertigt ist. Das
+ist dann der Fall, wenn einem Geschäftsführer im Hinblick auf seine Geschäftsführerstellung eine Minder-
+heitsbeteiligung eingeräumt wird, für die er nur ein Entgelt in Höhe des Nennwerts zu zahlen hat und die er
+bei Beendigung seines Geschäftsführeramtes gegen eine der Höhe nach begrenzte Abfindung zurückzu-
+übertragen hat (sog. Managermodell).
+Fundstellen: BGHZ 164, 98; JuS 2006, 178; NJW 2005, 3641; NZG 2005, 968; DRsp Nr. 2005/18038
+Aus den Gründen:
+(nach DRsp Nr. 2005/18038 - www.deubner-recht.de)
+Tatbestand:
+Die beklagte GmbH betreibt eine Vielzahl von "M.-Märkten" und "S.-Märkten", die jeweils in der Rechtsform einer
+GmbH organisiert sind.
+Für das operative Geschäft ist ein "Vor-Ort-Geschäftsführer" zuständig. Die administrativen Aufgaben werden von
+einem zweiten Geschäftsführer mit Sitz in der Holding erledigt. Entsprechend ihrem einheitlichen Unternehmens-
+konzept - es zielt darauf ab, die Motivation des Geschäftsführers, der sich als Unternehmer "seines" Marktes füh-
+len soll, zu steigern - beteiligt die Beklagte den jeweiligen Vor-Ort-Geschäftsführer mit einem Geschäftsanteil von
+bis zu 10 % an der von ihm geleiteten GmbH. Das restliche Stammkapital hält die Beklagte. Der Geschäftsführer
+hat für den Erwerb seines Anteils in der Regel nur den Nominalwert zu zahlen und ist am Gewinn, nicht aber am
+Verlust der Gesellschaft beteiligt. Zugleich vereinbart die Beklagte mit dem Geschäftsführer, dass seine Gesell-
+schafterstellung enden soll, wenn er als Geschäftsführer abberufen und/oder sein Geschäftsführeranstellungs-
+vertrag beendet wird. Dazu gibt der Geschäftsführer bei dem Erwerb des Geschäftsanteils ein Angebot zum Rück-
+kauf und zur Rückübertragung des Geschäftsanteils im Falle der Abberufung und/oder der Beendigung des Ge-
+schäftsführeranstellungsvertrages ab, welches die Beklagte nach dem Bedingungseintritt nur binnen zwei Mona-
+ten annehmen kann. Als Kaufpreis für den Rückkauf ist ein Betrag vereinbart, der sich nach dem Einheitswert des
+Betriebsvermögens und einem dreijährigen Durchschnittsertrag richtet, jedoch das Zehnfache des Nominalwerts
+nicht übersteigen darf. Im Übrigen ist in dem Gesellschaftsvertrag der jeweiligen Gesellschaft bestimmt, dass eine
+Übertragung von Geschäftsanteilen nur mit Zustimmung der Gesellschaft zulässig ist.
+Der Kläger war Geschäftsführer der "M.-Markt GmbH E." (im Folgenden: M.-Markt GmbH E.), deren Stammkapital
+200.000,00 DM betrug. Mit Vertrag vom 30. Dezember 1997 wurde er entsprechend dem geschilderten Unterneh-
+menskonzept Mitgesellschafter. Dazu erwarb er von der Beklagten einen Geschäftsanteil in Höhe von nominal
+20.000,00 DM, für den er den gleichen Betrag zahlte und der später - gegen finanziellen Ausgleich - auf 19.900,00
+DM verringert wurde. Ebenfalls am 30. Dezember 1997 ließ der Kläger ein Kauf- und Abtretungsangebot der oben
+beschriebenen Art notariell beurkunden.
+Am 28. Mai 2001 wurde der Kläger mit den Stimmen der Beklagten als Geschäftsführer abberufen und sein An-
+stellungsvertrag gekündigt. Mit Erklärung vom 1. Juni 2001 nahm die Beklagte das Kauf- und Abtretungsangebot
+des Klägers vom 30. Dezember 1997 an. Als Abfindung zahlte sie dem Kläger 199.000,00 DM.
+Der Kläger hält den Kauf- und Abtretungsvertrag für nichtig. Er will dies festgestellt wissen und hat - auf Anregung
+des Berufungsgerichts - im zweiten Rechtszug hilfsweise beantragt, festzustellen, dass er weder durch die Kündi-
+gung des Geschäftsführeranstellungsvertrages noch durch den Kauf- und Abtretungsvertrag seine Gesellschafter-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+34/168
+ste u g a  de  
+.
+a
+t G
+b  . e o e  at. as e u u gsge c t at d e 
+age 
+ aupta t ag a s u
+u äss g
+und im Hilfsantrag als unbegründet abgewiesen (ZIP 2004, 1801). Dagegen richtet sich die in dem angefochtenen
+Urteil zugelassene Revision des Klägers.
+Entscheidungsgründe:
+Die Revision hat im Ergebnis keinen Erfolg.
+I.
+Das Berufungsgericht hat ausgeführt: Für den Hauptantrag fehle das Rechtsschutzinteresse. Es gehe dem Kläger
+um die Klärung der Frage, ob er noch Gesellschafter der M.-Markt GmbH E. sei. Dafür komme es aber nicht allein
+auf die Unwirksamkeit des Rückübertragungsvertrages an. Der zulässige Hilfsantrag sei unbegründet. Zwar sei
+das Rückübertragungsangebot des Klägers vom 31. Dezember 1997 wegen Verstoßes gegen die guten Sitten nach
+§ 138 Abs. 1 BGB nichtig. Es stelle der Sache nach eine "Hinauskündigungsklausel" dar, die nur ausnahmsweise
+bei Vorliegen eines sachlichen Grundes wirksam sei. Ein solcher sachlicher Grund liege hier nicht vor. Insbeson-
+dere reiche dafür das Geschäftsmodell der Beklagten nicht aus. Die damit verfolgten Ziele hätte die Beklagte auch
+mit einer Tantiemeregelung erreichen können. Die Klage sei aber trotz der Unwirksamkeit der Rückübertragung
+unbegründet. Die Sittenwidrigkeit des Rückübertragungsangebots habe nämlich gemäß § 139 BGB die Nichtigkeit
+auch des Anteilserwerbs zur Folge. Beide Geschäfte sollten nach dem Konzept der Beklagten miteinander "stehen
+und fallen". Damit sei der Kläger niemals Gesellschafter der GmbH geworden.
+II.
+Diese Ausführungen begegnen durchgreifenden rechtlichen Bedenken; das von dem Berufungsgericht gefundene
+Ergebnis erweist sich nur mit anderer Begründung als richtig.
+A. Vertretbar - und von der Revision nicht angegriffen - ist die Annahme des Berufungsgerichts, dass der Haupt-
+klageantrag mangels Rechtsschutzinteresses unzulässig ist. Auch wenn festgestellt würde, dass der durch das An-
+gebot des Klägers vom 30. Dezember 1997 und die Annahme der Beklagten vom 1. Juni 2001 zustande gekom-
+mene Kauf- und Abtretungsvertrag unwirksam ist, steht damit nicht zwingend fest, dass der Kläger Gesellschafter
+der M.-Markt GmbH E. ist.
+B. Der Hilfsantrag ist unbegründet. Das folgt entgegen der Auffassung des Berufungsgerichts aber nicht aus § 139
+BGB. Vielmehr hat der Kläger seine Gesellschafterstellung aufgrund seines am 1. Juni 2001 von der Beklagten an-
+genommenen Kauf- und Abtretungsangebots verloren. Der damit zustande gekommene Vertrag ist wirksam.
+1. Allerdings sind nach der mittlerweile ständigen Rechtsprechung des Senats in den Personengesellschaften und
+der GmbH gesellschaftsvertragliche Regelungen, die einem Gesellschafter, einer Gruppe von Gesellschaftern oder
+der Gesellschaftermehrheit das Recht einräumen, einen Mitgesellschafter ohne sachlichen Grund aus der Gesell-
+schaft auszuschließen ("Hinauskündigungsklauseln"), grundsätzlich wegen Verstoßes gegen die guten Sitten nach
+§ 138 Abs. 1 BGB nichtig (BGHZ 81, 263, 266 ff.; 105, 213, 216 f.; 112, 103, 107 f.; Urt. v. 8. März 2004 - II ZR 165/02,
+ZIP 2004, 903, 904; v. 14. März 2005 - II ZR 153/03, ZIP 2005, 706). Das gleiche gilt für eine - wie hier - neben dem
+Gesellschaftsvertrag getroffene schuldrechtliche Vereinbarung, die zu demselben Ergebnis führen soll (BGHZ 112,
+103, 107). Der davon betroffene Gesellschafter ist schutzwürdig. Die freie Ausschließungsmöglichkeit kann von
+ihm als Disziplinierungsmittel empfunden werden, das ihn daran hindert, von seinen Mitgliedschaftsrechten nach
+eigener Entscheidung Gebrauch zu machen und seine Mitgliedschaftspflichten zu erfüllen ("Damoklesschwert").
+Dieser Grundsatz gilt aber - wie der Senat bereits mehrfach entschieden hat - nicht ausnahmslos. Eine an keine
+Voraussetzungen geknüpfte Hinauskündigungsklausel oder eine vergleichbare schuldrechtliche Regelung ist wirk-
+sam, wenn sie wegen besonderer Umstände sachlich gerechtfertigt ist. So hat der Senat freie Ausschließungs-
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+35/168
+ec te a s 
+sa
+ a gese e , e
+ de  aussc
+eßu gsbe ec t gte Gese sc a te  
+t üc s c t au  d e e ge
+persönliche Beziehung zu seiner Mitgesellschafterin die volle Finanzierung der Gesellschaft übernimmt und der
+Partnerin eine Mehrheitsbeteiligung und die Geschäftsführung einräumt (BGHZ 112, 103), wenn eine Praxisge-
+meinschaft von Ärzten einen neuen Gesellschafter aufnimmt und sich dabei eine zeitlich begrenzte Prüfungsmög-
+lichkeit vorbehalten will (Urt. v. 8. März 2004 - II ZR 165/02, ZIP 2004, 903) oder wenn die Gesellschaftsbeteiligung
+nur als Annex zu einem Kooperationsvertrag der Gesellschafter anzusehen ist und sichergestellt werden soll, dass
+der Gesellschaft nur die Partner des Kooperationsvertrages angehören (Urt. v. 14. März 2005 - II ZR 153/03, ZIP
+2005, 706). Keine Bedenken hatte der Senat auch gegen eine Satzungsklausel, nach der in einer GmbH, in der alle
+Gesellschafter persönlich mitarbeiten, ein Geschäftsanteil eingezogen werden kann, wenn der betreffende Gesell-
+schafter nicht mehr in dem Gesellschaftsunternehmen tätig ist (Urt. v. 20. Juni 1983 - II ZR 237/82, WM 1983, 956;
+im Ergebnis ebenso der Prozesskostenhilfe-Beschluss des Senats v. 7. Oktober 1996 - II ZR 238/95, bei Goette,
+DStR 1997, 336).
+Auch die Rückkauf- und -abtretungsvereinbarung der Parteien stellt einen derartigen Ausnahmefall dar. Die Mög-
+lichkeit, die Gesellschafterstellung des Geschäftsführers zu beenden, ist nicht an einen sachlichen Grund gebun-
+den, sondern unterliegt dem freien Ermessen der Beklagten. Sie kann mit ihrer Stimmenmehrheit in der Gesell-
+schafterversammlung den Geschäftsführer nach § 38 Abs. 1 GmbHG ohne Grund abberufen und damit die Bedin-
+gung für die Rückübertragung seines Geschäftsanteils herbeiführen. Diese Koppelung des freien Widerrufs der
+Geschäftsführerbestellung und der Beendigung der Gesellschafterstellung ist aufgrund der besonderen Um-
+stände des Falles sachlich gerechtfertigt.
+Die gesellschaftsrechtliche Beteiligung des jeweiligen Geschäftsführers hat nach dem Unternehmenskonzept der
+Beklagten die Funktion, den Geschäftsführer stärker an das Unternehmen zu binden, seine Motivation zu steigern
+und seine Stellung als "geschäftsführender Gesellschafter" innerhalb des Betriebs und nach außen aufzuwerten.
+Dabei steht wirtschaftlich die Teilhabe am Gewinn der Gesellschaft, der jeweils vollständig ausgeschüttet wird, im
+Vordergrund. Damit wird dem Geschäftsführer eine - von seinem Geschick bei der Unternehmensführung mitab-
+hängige und diesen Erfolg widerspiegelnde - Einnahmequelle neben seinem Gehalt eingeräumt. So sind an den
+Kläger in den Jahren 1998 bis 2000 Gewinnanteile i.H.v. durchschnittlich 148.556,89 DM ausgeschüttet worden,
+das war mehr als sein Gehalt. Demgegenüber sind die Möglichkeiten des Geschäftsführers, in der Gesellschafter-
+versammlung seine Vorstellungen gegen den Willen der Beklagten durchzusetzen, praktisch ausgeschlossen. Alle
+gesetzlichen und satzungsmäßigen Mehrheiten hat die Beklagte. Dafür ist das finanzielle Risiko des Geschäftsfüh-
+rers gering. Er braucht für den Erwerb des Geschäftsanteils nicht mehr als den Nennwert zu zahlen. Im Ergebnis
+erlangt der auf diesem Wege an der Vor-Ort-Gesellschaft beteiligte Manager eine treuhänderähnliche Stellung,
+deren wirtschaftlicher Wert - bei denkbar geringem eigenen Risiko - in dem erheblichen Gewinnausschüttungspo-
+tential während der Dauer seiner organschaftlichen und dienstvertraglichen Bindung an die Gesellschaft liegt. Mit
+deren Beendigung ist es selbstverständlich, dass die weitere Beteiligung ihren rechtfertigenden Sinn - Bindung an
+das Unternehmen, Motivationssteigerung und Belohnung für erfolgreichen Einsatz - verliert. Nur durch die Rück-
+übertragung wird der Beklagten als Mehrheitsgesellschafterin zudem die Möglichkeit eröffnet, den Nachfolger im
+Amt des Geschäftsführers in gleicher Weise zu beteiligen und damit das Geschäftsmodell auf Dauer fortzuführen.
+Bei dieser Sachlage ist der das Hinauskündigungsverbot tragende Gedanke, den Gesellschafter bei der Wahrneh-
+mung seiner Mitgliedschaftsrechte nicht unter unangemessenen Druck zu setzen, nicht berührt. Im Vordergrund
+steht vielmehr die im Gesetz vorgesehene Möglichkeit, den Geschäftsführer ohne Grund aus seiner Organstellung
+abzuberufen. Der dadurch entstehenden Abhängigkeit von der Beklagten als der Mehrheitsgesellschafterin ist er
+schon nach der gesetzlichen Regelung in § 38 Abs. 1 GmbHG ausgesetzt. Die weitere Folge, dass er dann auch
+seine Gesellschafterstellung verliert, fällt demgegenüber nicht entscheidend ins Gewicht, weil die - von vornher-
+ein auf Zeit eingeräumte - Beteiligung in dem "Managermodell" nur einen Annex zu der Geschäftsführerstellung
+darstellt (ebenso Habersack/Verse, ZGR 2005, 451, 461 ff.; Kowalski/Bormann, GmbHR 2004, 1438, 1440 f.; Sos-
+nitza, DStR 2005, 72, 74 f.; Bütter/Tonner, BB 2005, 283, 285 f.; zuvor schon Schäfer/Hillesheim, DStR 2003, 2122;
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+36/168
+Goette, St  99 , 33 ; 
+ede
+a
+, Gese sc a ts ec t  § 8 
+ 3c, S. 53; U
+e  
+ ac e bu g U
+e , G
+b G
+8. Aufl. § 34 Rdn. 42; Westermann in Scholz, GmbHG 9. Aufl. § 34 Rdn. 16; a.A. Binz/Sorg, GmbHR 2005, 893; Pieh-
+ler in FS Rheinisches Notariat 1998, S. 321, 326 ff.; zu den steuerrechtlichen Vorteilen Peetz, GmbHR 2005, 532).
+Ob die vereinbarte Abfindung des Geschäftsführers angemessen ist, hat für die Wirksamkeit der Hinauskündi-
+gungsregelung keine Bedeutung. Denn auch die Vereinbarung einer unangemessen niedrigen Abfindung ließe
+das Kündigungsrecht unberührt. An die Stelle der vereinbarten Abfindung träte lediglich eine Abfindung nach
+dem Verkehrswert (BGHZ 112, 103, 111 f.; Sen.Urt. v. 20. Juni 1983 - II ZR 237/82, WM 1983, 956). Abgesehen da-
+von bestehen bei dem von der Beklagten praktizierten Geschäftsmodell aber auch keine Bedenken gegen eine
+Abfindung, die an dem Ertragswert des Gesellschaftsunternehmens orientiert und auf das Zehnfache des Er-
+werbspreises beschränkt ist, da sogar ein Rückkaufpreis in Höhe des beim Erwerb durch den Betroffenen selbst
+aufgebrachten Entgelts bei dieser Form der Beteiligung zulässig ist, wie der Senat in dem heute entschiedenen
+Parallelfall (II ZR 342/03, z.V.b.) näher ausgeführt hat.
+2. Die Vereinbarung des Rückkaufs und der Rückabtretung bei Wegfall der Geschäftsführerstellung verstößt auch
+nicht gegen den gesellschaftsrechtlichen Gleichbehandlungsgrundsatz (BGHZ 116, 359, 372; 142, 304, 307). Dass
+von dieser Regelung nur einer der beiden Gesellschafter betroffen ist, beruht auf einem sachlichen, dies rechtfer-
+tigenden Grund. Nur der Geschäftsführer kommt als Adressat des von der Beklagten betriebenen "Managermo-
+dells" in Betracht. Die Beklagte als die Kapitalgeberin kann davon sinnvoller Weise nicht betroffen sein. Insoweit
+eine Gleichbehandlung zu verlangen, wäre sachwidrig.
+3. Die Vereinbarung ist auch nicht wegen Verstoßes gegen §§ 134, 622 Abs. 6 BGB nichtig.
+Dabei kann offen bleiben, ob die für Arbeitsverhältnisse vorgesehene Regelung des § 622 Abs. 6 BGB auf das An-
+stellungsverhältnis eines GmbH-Geschäftsführers entsprechend anwendbar ist (zur analogen Anwendung der Re-
+gelungen des § 622 BGB über die Kündigungsfristen BGHZ 79, 291; 91, 217, 220 f.; Sen.Urt. v. 9. März 1987 - II ZR
+132/86, NJW 1987, 2073, 2074). Denn jedenfalls würde die Verknüpfung der Gesellschafterstellung mit dem Ge-
+schäftsführeramt und dem ihm zugrunde liegenden Anstellungsvertrag keine nach § 622 Abs. 6 BGB unzulässige
+Kündigungsbeschränkung darstellen.
+Zwar wird dem Geschäftsführer durch diese Verknüpfung die Entscheidung, seinen Anstellungsvertrag zu kündi-
+gen, insofern erschwert, als er dann auch seine Gesellschafterstellung aufgeben muss. Das Bundesarbeitsgericht
+hat aus dem Verbot des § 622 Abs. 6 BGB, für die Kündigung des Arbeitsverhältnisses durch den Arbeitnehmer
+eine längere Frist zu vereinbaren als für die Kündigung durch den Arbeitgeber, den allgemeinen Grundsatz herge-
+leitet, es sei unzulässig, durch vertragliche Absprachen eine ungleiche Kündigungslage zum Nachteil einer der
+Parteien des Arbeitsverhältnisses, vor allem des Arbeitnehmers, zu schaffen, insbesondere einen einseitigen Ver-
+mögensnachteil des Arbeitnehmers für den Fall einer von ihm erklärten Kündigung zu vereinbaren (BAG DB 1956,
+503, 504; 1971, 1068; 1990, 434). Damit soll die Entscheidungsfreiheit des Arbeitnehmers in bezug auf die Beendi-
+gung seines Arbeitsverhältnisses geschützt werden. Der Arbeitnehmer soll die Freiheit behalten, unter Beachtung
+der geltenden Kündigungsfrist und ohne Diskriminierung im Verhältnis zu seinem Arbeitgeber das Arbeitsverhält-
+nis zu beenden und sich einer anderen Tätigkeit zuzuwenden.
+Dieser Grundsatz schließt allerdings eine für den Arbeitnehmer - und ggf. den Geschäftsführer - ungünstige Re-
+flexwirkung seiner Kündigung nicht aus. Entscheidend ist eine Würdigung der Gesamtumstände unter Beachtung
+des Gebots der Verhältnismäßigkeit (Sen.Urt. v. heutigen Tage - II ZR 342/03, z.V.b.; ebenso BAG MDR 2001, 1301
+für die vergleichbare Rechtslage nach § 5 BBiG). Danach ist die Verknüpfung der Kündigung des Geschäftsführer-
+anstellungsvertrages mit der Beendigung der Gesellschafterstellung im Rahmen des von der Beklagten praktizier-
+ten "Managermodells" nicht zu beanstanden.
+5/12/24, 1:00 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+37/168
+as 
+t de  Gese sc a te ste u g e bu de e Ge
+be ugs ec t ä
+e t e
+e  a t e
+e ege u g, de e  
+eg a
+bei Beendigung des zugrunde liegenden Vertragsverhältnisses selbstverständlich ist. Abgesehen von dem Ge-
+winnbezugsrecht würde eine weitere Beteiligung des ausgeschiedenen Geschäftsführers als Gesellschafter für ihn
+auch keine schutzwürdigen Vorteile bringen. Aufgrund seines geringen Anteils kann er auf die Geschicke der Ge-
+sellschaft in der Gesellschafterversammlung ohnehin kaum Einfluss nehmen. Eine Teilhabe an dem künftigen
+Wertzuwachs des Gesellschaftsvermögens würde ohne die Geschäftsführerstellung einen unverdienten Vermö-
+gensvorteil darstellen.
+4. Die Rückkauf- und -abtretungsvereinbarung ist auch nicht wegen Verstoßes gegen das - darauf noch anwend-
+bare - Gesetz zur Regelung des Rechts der Allgemeinen Geschäftsbedingungen unwirksam.
+Dabei kann offen bleiben, ob die Anwendbarkeit dieses Gesetzes schon durch § 23 Abs. 1 AGBG (jetzt § 310 Abs. 4
+Satz 1 BGB) ausgeschlossen ist. Danach findet das Gesetz keine Anwendung bei Verträgen auf dem Gebiet des
+Gesellschaftsrechts. Selbst wenn man wegen des schuldrechtlichen Charakters des Anteilskaufs und des Anteils-
+rückkaufs die Voraussetzungen dieser Bereichsausnahme nicht als erfüllt ansehen wollte, ändert das im Ergebnis
+nichts. Die Voraussetzungen der allein in Betracht kommenden § 10 Nr. 1 und 3 sowie § 9 AGBG (jetzt § 308 Nr. 1
+und 3 und § 307 BGB) sind nämlich nicht erfüllt.
+Nach § 10 Nr. 1 AGBG ist eine Bestimmung unwirksam, durch die sich der Verwender unangemessen lange oder
+nicht hinreichend bestimmte Fristen für die Annahme oder Ablehnung eines Angebots vorbehält. Das ist hier
+nicht der Fall. Die Frist, binnen derer die Beklagte das Rückübertragungsangebot des Geschäftsführers annehmen
+kann, ist auf zwei Monate ab dem Ende der Geschäftsführerstellung und/oder des Anstellungsvertrages bemes-
+sen. Das ist ein angemessener und hinreichend bestimmter Zeitraum. Dass der Zeitpunkt des Bedingungseintritts
+ungewiss ist, spielt demgegenüber keine Rolle.
+Nach § 10 Nr. 3 AGBG ist die Vereinbarung eines Rechts des Verwenders, sich ohne sachlich gerechtfertigten und
+im Vertrag angegebenen Grund von seiner Leistungspflicht zu lösen, unwirksam. Auch diese Vorschrift greift hier
+nicht ein. Durch den Anteilsrückkauf löst sich die Beklagte nicht von einer Leistungspflicht, sondern begründet
+neue Leistungspflichten. Allenfalls bezogen auf den Gesellschaftsvertrag kann von einer Lösung aus einer Leis-
+tungspflicht gesprochen werden. Das ist aber unerheblich, weil § 10 Nr. 3 AGBG schon nach seinem Wortlaut auf
+Dauerschuldverhältnisse wie das Gesellschaftsverhältnis nicht anwendbar ist.
+Die Rückübertragungsvereinbarung ist auch nicht wegen einer den Geboten von Treu und Glauben widerspre-
+chenden unangemessenen Benachteiligung i.S. des § 9 AGBG unwirksam. Das ergibt sich aus dem oben zu § 138
+BGB Gesagten.
+5. Schließlich bestehen keine Anhaltspunkte dafür, dass die Beklagte den Kläger als Geschäftsführer in einer Treu
+und Glauben widersprechenden Weise abberufen hat, so dass der Eintritt der Bedingung gemäß § 162 Abs. 2 BGB
+als nicht erfolgt gelten würde. Das könnte nur in Betracht kommen, wenn es der Beklagten nicht darum gegangen
+wäre, sich von dem Kläger als Geschäftsführer zu lösen, sondern wenn sie ausschließlich das Ziel verfolgt hätte,
+ihn aus der Gesellschafterstellung zu drängen. Das wird von dem Kläger selbst nicht geltend gemacht.

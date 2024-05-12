@@ -1,0 +1,329 @@
+V ZB 74/08
+Gericht: BGH,    Datum: 4. Dez 2008,    Fundstelle: DRsp Nr. 2009/632; NJW 2009, 594
+§ 15 GBV: Eintragung einer Gesellschaft bürgerlichen Rechts (GbR) in das Grundbuch; Rubrum eines Urteils als
+Nachweis der Identität und Vertretungsbefugnis einer GbR eines handelnden Gesellschafters
+Leitsätze:
+a. Die Gesellschaft bürgerlichen Rechts (GbR) kann unter der Bezeichnung in das Grundbuch eingetragen wer-
+den, die ihre Gesellschafter im Gesellschaftsvertrag für sie vorgesehen haben.
+b. Sieht der Gesellschaftsvertrag keine Bezeichnung der GbR vor, wird die GbR als "Gesellschaft bürgerlichen
+Rechts bestehend aus..." und den Namen ihrer Gesellschafter eingetragen.
+c. Leitet die GbR ihr Recht aus einer Gerichtsentscheidung ab, genügt deren Rubrum als Nachweis ihrer Iden-
+tität und der Vertretungsbefugnis des handelnden Gesellschafters. Zusätzliche Nachweise können nur ver-
+langt werden, wenn konkrete tatsächliche Anhaltspunkte dafür vorliegen, dass sich nach Erlass der Ge-
+richtsentscheidung Veränderungen bei Namen, Gesellschafterbestand oder Vertretungsbefugnissen erge-
+ben haben; der bloße Zeitablauf genügt als Anhaltspunkt nicht.
+Zur Examensrelevanz: noch nicht bearbeitet
+Fundstellen:
+DRsp Nr. 2009/632; NJW 2009, 594; BB 2009, 346; DB 2009, 109
+Aus dem Urteil:
+(DRsp Nr. 2009/632 - nach www.deubner-recht.de)
+Gründe:
+I. Die Beschwerdeführerin, eine Gesellschaft bürgerlichen Rechts [GbR], erwirkte am 28. November 2005 unter ih-
+rer Bezeichnung ein Versäumnisurteil gegen die Beteiligte zu 2, durch welches diese gesamtschuldnerisch mit
+dem mitverurteilten W. L. verurteilt wurde, an die Beschwerdeführerin 40.157,67 EUR nebst Zinsen in Höhe von 8
+Prozentpunkten über dem Basiszinssatz zu zahlen. Außerdem erwirkte sie gegen die Beteiligte zu 2 am 7. Dezem-
+ber 2005 einen Kostenfestsetzungsbeschluss, durch welchen dieser die Erstattung von Prozesskosten in Höhe von
+3.070,88 EUR nebst Zinsen aufgegeben wurde. Wegen beider Zahlungsansprüche beantragte sie unter Vorlage
+der Titelausfertigungen die Eintragung einer Zwangssicherungshypothek auf dem Miteigentumsanteil der Betei-
+ligten zu 2.
+Das Grundbuchamt hat den Eintragungsantrag zurückgewiesen. Die Beschwerde der Beschwerdeführerin hat das
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+139/168
+a dge c t u üc ge
+ese . 
+e  e te e  esc
+e de 
+öc te das o ege de a
+e ge c t e tsp ec e
+und das Grundbuchamt anweisen, die beantragte Zwangssicherungshypothek einzutragen. Daran sieht es sich
+durch Entscheidungen des Bayerischen Obersten Landesgerichts (NJW 2003, 70; NJW-RR 2005, 43) und des Ober-
+landesgerichts Schleswig (NJW 2008, 306) gehindert. Mit Beschluss vom 6. Mai 2008 (NJW 2008, 3444) hat es die
+Sache deshalb dem Bundesgerichtshof zur Entscheidung vorgelegt.
+II. Das Landgericht hat im Wesentlichen ausgeführt, die Voraussetzungen des § 29 GBO lägen bei einer GbR man-
+gels Möglichkeit, die Identität und Verfügungsbefugnis des Einzutragenden sicher festzustellen, nicht vor. Einer
+Eintragung der Gesellschaft selbst stehe zudem die Vorschrift § 15 Abs. 1 lit. a und Abs. 3 GBV entgegen. Gegen
+die Grundbuchfähigkeit der GbR spreche auch, dass der Bundesgerichtshof der GbR die Fähigkeit abgesprochen
+habe, Verwalterin einer Wohnungseigentümergemeinschaft zu sein (Senat, Beschl. v. 26. Januar 2006, V ZB
+132/05, NJW 2006, 2189).
+III. Die Vorlage ist statthaft (§ 79 Abs. 2 GBO).
+Das vorlegende Kammergericht und das Oberlandesgericht Stuttgart (NJW 2008, 304) einerseits und das Bayeri-
+sche Oberste Landesgericht sowie das Oberlandesgericht Schleswig andererseits sind unterschiedlicher Ansicht
+darüber, ob eine GbR (unter ihrem Namen) in das Grundbuch eingetragen werden kann. Während die erstge-
+nannten Oberlandesgerichte die Fragen bejahen (wollen), werden sie von den zweitgenannten Gerichten ver-
+neint. Diese Divergenz rechtfertigt die Vorlage.
+IV. Die weitere Beschwerde ist zulässig (§§ 78, 80 GBO) und hat auch in der Sache Erfolg. Die von dem Amtsgericht
+- Grundbuchamt - in seinem Beschluss vom 27. Juni 2006 genannten Gründe (mangelnde Grundbuchfähigkeit der
+Gesellschaft Bürgerlichen Rechts sowie fehlender Nachweis der Zustellung und der Wartefrist) rechtfertigen die
+Zurückweisung des Eintragungsantrags nicht.
+1. Nach §§ 864 Abs. 2, 866 Abs. 1, 867 Abs. 1 Satz 1 ZPO hat das Grundbuchamt zur Zwangsvollstreckung in einen
+Miteigentumsanteil an einem Grundstück auf Antrag des Gläubigers eine Sicherungshypothek in das Grundbuch
+einzutragen, wenn eine vollstreckbare Ausfertigung des Vollstreckungstitels vorgelegt wird, dieser zugestellt ist
+und, bei der Vollstreckung aus einem Kostenfestsetzungsbeschluss, der nicht auf das zugrunde liegende Urteil ge-
+setzt ist, die in § 798 ZPO bestimmte Wartefrist von zwei Wochen ab Zustellung verstrichen ist. Diese Vorausset-
+zungen lagen entgegen der Annahme des Grundbuchamtes schon bei Antragstellung vor. Dem Antrag waren, wie
+das vorlegende Kammergericht in seinem Beschluss festgestellt hat, die vollstreckbaren Ausfertigungen des Ver-
+säumnisurteils und des Kostenfestsetzungsbeschlusses beigefügt. Diese waren der Schuldnerin am 16. Februar
+2006 durch den Gerichtsvollzieher zugestellt worden. Damit war auch die hinsichtlich des Kostenfestsetzungsbe-
+schlusses zu beachtende Wartefrist bei Eingang des Antrags am 26. Juni 2006 abgelaufen. Der Eintragung der Si-
+cherungshypothek steht auch nicht entgegen, dass die Gläubigerin eine GbR ist. Eine GbR kann unter ihrem Na-
+men in das Grundbuch eingetragen werden.
+2. Die Frage nach der so genannten Grundbuchfähigkeit einer GbR ist allerdings umstritten. Nach einer wohl
+überwiegenden Ansicht kann eine GbR nicht als solche als Eigentümerin oder Inhaberin von beschränkten dingli-
+chen Rechten an einem Grundstück oder - wie hier - einem Miteigentumsanteil an einem Grundstück in das
+Grundbuch eingetragen werden (BayObLG NJW 2003, 70, 71; NJW-RR 2004, 810, 811; 2005, 43; OLG Celle NJW
+2006, 2194 f.; OLG Schleswig NJW 2008, 306 f.; LG Aachen Rpfleger 2003, 496, 497; RNotZ 2006, 348, 349; LG Berlin
+Rpfleger 2004, 283 f.; LG Dresden NotBZ 2002, 384; LG Hagen, Rpfleger 2007, 26 [für nicht rechtsfähigen Verein];
+wohl auch OLG München BB 2005, 1621, 1622; Demharter, GBO, 26. Aufl., § 19 Rdn. 108; Hügel/Holzer, GBO, § 1
+Rdn. 54 f.; Meikel/Böhringer, Grundbuchrecht, 9. Aufl., § 47 GBO Rdn. 182 b; Meikel/Ebeling, aaO.; § 15 GBV Rdn.
+30 c Anm. dd; Abel/Eitzert, DZWiR 2001, 353, 361; Ann, MittBayNot 2001, 197, 198; Armbrüster, Grundeigentum
+2001, 821, 826; R. Böttcher, NJW 2008, 2088, 2094; Demharter, Rpfleger 2001, 329, 330 f.; 2002, 538; Derleder, BB
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+140/168
+00 , 
+85, 
+90; e , 
+G 00 , 300, 305; de s. J
+ 00 , 
+58, 
+59; de s., 
+ot  00 , 3 9; 38  .; e , 
+2003, 913, 914; ders. DZWiR 2003, 120, 121; Kremer, RNotZ 2004, 239, 245; Münch, DNotZ 2001, 535, 548 f.; Prüt-
+ting, Festschrift f. Wiedemann [2002], S. 1177, 1185; Schemmann, DNotZ 2001, 244, 250; K. Schmidt, NJW 2001,
+993, 1002; Schöpflin, NZG 2003, 117 f., Stöber, MDR 2001, 544, 545; Vogt, Rpfleger 2003, 491, 492; Volmer, ZfIR
+2006, 475 f.; Westermann, NZG 2001, 289, 293 f.; Wiedemann, JZ 2001, 661). Nach anderer Auffassung ist eine sol-
+che Eintragung möglich (OLG Stuttgart FGPrax 2007, 66, 67, m. krit. Anm. Demharter; OLG Dresden NL-BzAR 2008,
+349, 352; LG Magdeburg NotBZ 2008, 39 f.; Dümig in Kuntze/Ertl/Herrmann/Eickmann, Grundbuchrecht, 6. Aufl.,
+Einl. B 61 f.; ders., Rpfleger 2003, 80, 82; MünchKomm-BGB/Ulmer, 4. Aufl., § 705 Rdn. 314; Ulmer, ZIP 2001, 585,
+595; Behrens, ZfIR 2008, 1, 2 ff.; L. Böttcher/Blasche, NZG 2007, 121, 122 ff.; Demuth, BB 2002, 1555, 1558 ff.; Eick-
+mann, ZfIR 2001, 433, 436 f.; Elsing, BB 2003, 909, 914; Hadding, ZGR 2001, 712, 724; Heßeler/Kleinhenz, NZG
+2007, 250, 251 f.; Hess, ZZP 117 [2004], 267, 299 f.; Kazemi, ZfIR 2007, 101 f.; Knöfel, AcP 205 [2005], 645, 663;
+ders. ZfIR 2006, 428, 429; Krebs, NL-BzAR 2008, 327, 329; Leipold, Festschrift f. Canaris [2007], 221, 230 ff.; Ott,
+NJW 2003, 1223; Pohlmann, WM 2002, 1421, 1430; Schmeken, Festschrift f. Streitbörger [2008], S. 251, 258 ff.;
+Schodder, EWiR 2007, 167, 168; Tavakoli/Fehrenbacher, DB 2007, 382, 384; G. Wagner, ZZP 117 [2004], 305, 348 f.;
+ders. ZIP 2005, 637, 645 f.; K.-R. Wagner, ZNotP 2006, 408, 410). Nach einer dritten Meinung sind neben der Ge-
+sellschaft selbst auch ihre Gesellschafter einzutragen (Bauer/v. Oefele/Wilke, Grundbuchordnung, 2. Aufl., § 13
+Rdn. 34 a.E.; Schöner/Stöber, Grundbuchrecht, 14. Aufl., Rdn. 240, 240b; Böhringer, BwNotZ 2006, 118, 121; Ham-
+mer, NotBZ 2002, 385; Kesseler, ZIP 2007, 421, 423; ders., ZNotP 2008, 231, 234; Lautner, MittBayNot 2005, 93, 99;
+2006, 37, 38; Nagel, NJW 2003, 1646, 1647; dagegen aber Demharter, FGPrax 2007, 68). Nach einer vierten Mei-
+nung ist die GbR grundbuchfähig, aber - wie bisher - unter Eintragung ihrer Gesellschafter mit einem Hinweis auf
+das Gesellschaftsverhältnis einzutragen (Bielicke, Rpfleger 2007, 441, 442; Hertel, in: Krüger/Hertel, Der Grund-
+stückskauf, 9. Aufl., Rdn. 1000 b ff.; Langenfeld, BWNotZ 2003, 1, 4; Pohlmann, EWiR 2003, 107, 108; Priester, BB
+2007, 837, 838; Ruhwinkel, MittBayNot 2007, 92, 95 f.; Weidenmann, BWNotZ 2004, 130, 139).
+3. Der Senat folgt im Ansatz der zweiten Meinung.
+a) Auszugehen ist davon, dass die GbR, ohne juristische Person zu sein (BGHZ 146, 341, 343; Leipold, FS Canaris
+[2007] S. 221, 227 f.), (teil-) rechtsfähig ist, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflich-
+ten begründet (BGHZ 146, 341, 344; Senat, Urt. v. 25. Januar 2008, V ZR 63/07, NJW 2008, 1378, 1379). Im Rahmen
+ihrer Teilrechtsfähigkeit ist die GbR natürlichen und juristischen Personen einerseits und den registerfähigen
+rechtsfähigen Personengesellschaften andererseits allerdings nicht in jeder Hinsicht gleich gestellt. Es gibt Aufga-
+ben mit Anforderungen, denen zwar natürliche und juristische Personen und auch registerfähige rechtsfähige
+Personengesellschaften genügen können, wegen ihrer strukturellen Unterschiede zu diesen aber nicht die GbR.
+Der Senat hat das für die Aufgabe des Verwalters einer Wohnungseigentümergemeinschaft angenommen (Be-
+schl. v. 26. Januar 2006, V ZB 132/05, NJW 2006, 2189, 2190).
+b) Daraus folgt aber nicht, dass die GbR Eigentum an Grundstücken und grundstücksgleichen Rechten oder be-
+schränkte dingliche Rechte an Grundstücken und grundstückgleichen Rechten nicht erwerben könnte, ihr also die
+materielle Grundbuchfähigkeit fehlt. Diese Folgerung ist zwar aus den "Besonderheiten des Grundbuchrechts
+und [der] Eigenart dinglicher Rechtspositionen" (BayObLG, NJW 2003, 70, 71) abgeleitet worden. Dem sind aber
+weder der für das Gesellschaftsrecht zuständige II. Zivilsenat des Bundesgerichtshofs (Urt. v. 25. September 2006,
+II ZR 218/05, NJW 2006, 3716) noch der für das Grundstückssachen- und das Grundbuchrecht zuständige erken-
+nende Senat (Urt. v. 25. Januar 2008, V ZR 63/07, NJW 2008, 1378) gefolgt. Danach führt die Anerkennung der Teil-
+rechtsfähigkeit der GbR dazu, dass eine GbR auch Eigentum an Grundstücken und grundstücksgleichen Rechte
+sowie beschränkte dingliche Rechte an Grundstücken und grundstücksgleichen Rechten erwerben kann; daran
+änderte es nichts, wenn ein solcher Rechtserwerb durch die GbR nicht unter der für diese von ihren Gesellschaf-
+tern vereinbarten Bezeichnung im Grundbuch gebucht werden könnte (Senat, Urt. v. 25. Januar 2008, V ZR 63/07,
+NJW 2008, 1378, 1379). Deshalb ist ein Grundstück, als dessen Eigentümer mehrere natürliche Personen mit dem
+Zusatz "als Gesellschafter bürgerlichen Rechts" eingetragen sind, auch nicht (gesamthänderisch gebundenes) Ei-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+141/168
+ge tu
+ d ese  atü
+c e  e so e , so de
+ 
+ge tu
+ de  Gb  ( G , U t. . 5. Septe
+be  006,  
+ 
+8 05,
+NJW 2006, 3716, 3717).
+c) Der materiellen Grundbuchfähigkeit der GbR steht auch nicht entgegen, dass der Erwerb von Eigentum oder
+beschränkten dinglichen Rechte von einer GbR auf Schwierigkeiten stößt, die sich in dieser Form bei anderen
+rechtsfähigen Personengesellschaften nicht stellen. Eine GbR kann wie diese nur durch ihre Organe handeln. Wer
+zur Vertretung einer GbR befugt ist, lässt sich indessen anders als bei registerfähigen rechtsfähigen Personenge-
+sellschaften nicht einem öffentlichen Register entnehmen, weil ein solches Register für die GbR nicht vorgesehen
+ist (Senat, Beschl. v. 6. April 2006, V ZB 158/05, NJW 2006, 2191 f.). Das Vertrauen in die Vertretungsbefugnis eines
+oder mehrerer Gesellschafter wird auch durch den Grundbucheintrag nicht geschützt (Senat, BGHZ 107, 268, 272;
+Beschl. v. 26. Januar 2006, V ZB 132/05, NJW 2006, 2189, 2190). Ob diesen Schwierigkeiten bis zu ihrer erforderli-
+chen (Senat, Urt. v. 25. Januar 2008, V ZR 63/07, NJW 2008, 1378, 1379) Behebung durch den Gesetzgeber dadurch
+begegnet werden kann, dass die GbR bei jeder Eintragung den Gesellschaftsvertrag in öffentlich beglaubigter
+Form vorzulegen hat (so Leipold, FS Canaris [2007] S. 221, 232), oder ob es etwa genügte, wenn die Gesellschafter
+Änderungen des Gesellschafterbestands oder der Vertretungsbefugnis in notariell beglaubigter Form vornehmen
+und nachweisen oder in ihrem notariell beglaubigten Gesellschaftsvertrag vereinbaren, dass solche Veränderun-
+gen nur wirksam sind, wenn sie dem Urkunds- oder einem anderen Notar gegenüber erklärt werden, mit der
+Folge, dass dieser die Funktion des fehlenden Registers übernähme, bedarf hier keiner Entscheidung. Die aufge-
+zeigten Schwierigkeiten ändern an der Eigentumslage nichts. Sie sind vielmehr die zwangsläufige und hinzuneh-
+mende Folge der Anerkennung der Teilrechtsfähigkeit der GbR und der damit geschaffenen Möglichkeit des
+Grunderwerbs durch die GbR.
+d) Das materiell-rechtlich bestehende Eigentum der GbR ist auch formell buchungsfähig. Die technischen Einzel-
+heiten dieser Buchung sind zwar bislang weder in der Grundbuchordnung selbst noch in der diese ausführenden
+Grundbuchverfügung geregelt. Die Grundbuchverfügung geht (s. noch im Folgenden) von der früheren Rechts-
+lage aus. Die damit fehlende Anpassung des Grundbuchrechts an die Veränderung der materiellen Rechtslage er-
+schwert zwar, wie aufgezeigt, den zum Vollzug von Verfügungen der Gesellschaft im Grundbuch notwendigen
+Nachweis der Befugnis der Gesellschafter zur Vertretung der Gesellschaft (vgl. Ulmer/Steffek, NJW 2002, 330, 336
+f.; Nagel, NJW 2003, 1646, 1647; Behrens ZfIR 2008, 1, 2 ff.), ändert aber an der Buchungsfähigkeit von Eigentum
+und beschränkten dinglichen Rechten einer GbR und damit an ihrer formellen Grundbuchfähigkeit im Grundsatz
+nichts (Senat, Urt. v. 25. Januar 2008, V ZR 63/07, NJW 2008, 1378, 1379). Welche Rechtsträger von Eigentum es
+gibt, bestimmt sich nämlich allein nach dem materiellen bürgerlichen Recht (vgl. Ulmer/Steffek, NJW 2002, 330,
+332). Allein danach bestimmt sich auch, welche Rechtsträger eintragungsfähig sind. Das Grundbuchrecht be-
+schränkt die Buchbarkeit von Eigentum nicht; dies widerspräche auch seiner dienenden Funktion (vgl. Senat, Urt.
+v. 25. Januar 2008, V ZR 63/07, NJW 2008, 1378, 1379; Leipold, FS Canaris [2007] S. 221, 230 f.; Krüger, AcP 208
+[2008] S. 699, 711 f.). Das Grundbuchrecht soll den rechtsgeschäftlichen Verkehr mit dem nach bürgerlichem
+Recht möglichen Grundeigentum und beschränkten dinglichen Rechten an Grundstücken nämlich auf sichere und
+verlässliche Weise ermöglichen, aber nicht verhindern. Die fehlende Anpassung des Grundbuchrechts an die An-
+erkennung der Teilrechtsfähigkeit der GbR darf deshalb nicht zu einer Blockade des rechtsgeschäftlichen Verkehrs
+mit Grundstücken und beschränkten dinglichen Rechten von Gesellschaften bürgerlichen Rechts führen. Das Ver-
+fahrensrecht ist vielmehr an das geänderte Verständnis des Wesens der GbR anzupassen (Senat, Urt. v. 25. Januar
+2008, V ZR 63/07, NJW 2008, 1378, 1379). Daran hat sich die Auslegung des Grundbuchrechts auszurichten. Es
+kann damit nicht mehr darum gehen, ob Grundeigentum oder - wie hier - beschränkte dingliche Rechte an
+Grundstücken oder Miteigentumsanteilen an Grundstücken gebucht werden. Zu entscheiden ist vielmehr, wie die
+GbR in der Eintragung bezeichnet werden muss und wie der Nachweis der Eintragungsvoraussetzungen zu erfol-
+gen hat. Beide Fragen hat der Bundesgerichtshof bislang nicht entschieden.
+e) Die erste der beiden Fragen ist hier zu entscheiden.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+142/168
+aa) ü  
+e ea t o tu g st be  de  sc o  a gesp oc e e  o sc
+t des § 5 bs. 3 Sat   G
+ a
+uset e .
+Diese Vorschrift befasst sich zwar nicht unmittelbar mit der Bezeichnung einer GbR im Grundbuch, sondern mit
+dem Vollzug der Umwandlung einer GbR in eine oHG, KG oder Partnerschaft. Sie beschreibt dabei aber auch die
+grundbuchtechnische Ausgangslage. Aus dieser Beschreibung ergibt sich, wie sich der Verordnungsgeber die Bu-
+chung eines im Gesellschaftseigentum stehenden Grundstücks vorstellt, nämlich in der Weise, dass die Gesell-
+schafter mit einem auf das Bestehen eines Gesellschaftsverhältnisses hinweisenden Zusatz eingetragen werden.
+bb) Gedankliche Grundlage dieser Form der Buchung ist, wie bereits erwähnt und aus § 15 Abs. 1 GBV zu erschlie-
+ßen, dass das Eigentum (und beschränkte dingliche Rechte) an Grundstücken nur entweder natürlichen oder ju-
+ristischen Personen oder registerfähigen rechtsfähigen Personengesellschaften zustehen kann und dass Gesell-
+schaftsvermögen einer GbR Vermögen natürlicher Personen ist, das einer gesamthänderischen Bindung unter-
+liegt. Mit der Anerkennung ihrer Teilrechtsfähigkeit gehört die GbR aber auch zu den Gesellschaften, die im Sinne
+von § 14 Abs. 2 BGB mit der Fähigkeit ausgestattet sind, Rechte zu erwerben und Verbindlichkeiten einzugehen.
+Das Vermögen einer GbR ist damit nicht mehr, wie von § 15 Abs. 3 GBV vorausgesetzt, Vermögen ihrer Mitglieder,
+sondern Vermögen einer rechtsfähigen Personengesellschaft. Solches Vermögen wird grundbuchtechnisch bei al-
+len anderen rechtsfähigen Personengesellschaften entsprechend der materiellen Rechtslage wie bei juristischen
+Personen als deren Vermögen und unter deren Bezeichnung, und nicht unter Nennung ihrer Gesellschafter ge-
+bucht.
+cc) Damit entsteht eine planwidrige Lücke. Die bisher vorgesehene Form der Buchung von Vermögen einer GbR
+durch Nennung ihrer Gesellschafter entspricht nicht mehr der materiellen Rechtslage. Sie ist im Gegenteil irrefüh-
+rend, weil sie den Blick darauf verstellt, dass das Grundstück oder Recht an einem Grundstück gerade kein Gesell-
+schafter-, sondern Gesellschaftsvermögen ist. Aus diesem Grund ist die bisherige Form der Eintragung für die
+GbR auch prozessual nicht mehr erreichbar. Ihre Ansprüche können nur durch diese selbst, nicht durch ihre Ge-
+sellschafter klageweise durchgesetzt werden. Eine Klage der Gesellschafter wäre als Klage der Gesellschaft anzu-
+sehen. Ein auf die Gesellschafter lautendes Rubrum ist ohne Parteiwechsel auf die GbR zu berichtigen (BGH, Ur-
+teil vom 15. Januar 2003, XII ZR 300/99, NJW 2003, 1043, 1044; Beschl. v. 11. Juni 2008, XII ZR 136/05, juris). An-
+spruch auf Eintragung einer Sicherungshypothek im Wege der Zwangsvollstreckung hätte auch nur die GbR als
+Gläubigerin des erstrittenen Titels. Mangels einer Anpassung der Grundbuchverfügung an die neue rechtliche
+Ausgangslage steht aber keine passende Buchungsvorgabe zur Verfügung. Dieser Zustand entspricht nicht den
+Vorstellungen des Gesetz- und Verordnungsgebers; er kann auch in der Sache nicht hingenommen werden. Denn
+ohne Vorgaben zur Form der Buchung können eine einheitliche und für den Rechtsverkehr eindeutige Führung
+der Grundbücher nicht gewährleistet und die Anforderungen an die Eintragungsnachweise nicht sachgerecht be-
+stimmt werden. Selbst die von den Gerichten entsprechend der materiellen Rechtslage erlassenen vollstreckba-
+ren Entscheidungen zugunsten von Gesellschaften bürgerlichen Rechts könnten im Grundbuch nicht vollzogen
+werden. Derart widersprüchliche Ergebnisse gefährdeten die Einheit der Rechtsordnung und müssen verhindert
+werden, indem die durch die Anerkennung der Teilrechtsfähigkeit der GbR aufgetretene Regelungslücke geschlos-
+sen wird.
+dd) Das ist nach dem Plan des Gesetzes nur durch eine rechtsanaloge Anwendung der §§ 124 Abs. 1, 161 Abs. 2
+HGB, § 7 Abs. 2 PartGG und § 15 Abs. 1 Buchstabe b GBV möglich.
+(1) Das Grundbuch hat den Zweck, die Rechtsverhältnisse an Grundstücken genau und verlässlich zu dokumentie-
+ren. Dieser Zweck tritt etwa in § 47 GBO zutage, wonach bei einer Mehrheit von Eigentümern auch ihr Rechtsver-
+hältnis untereinander anzugeben ist. Das zwingt zu einer Buchungsform, die das Vermögen einer GbR als das
+ausweist, was es materiell-rechtlich ist, nämlich als Gesellschaftsvermögen. Das ist im Ansatz nur zu erreichen,
+wenn als Eigentümer oder Inhaber beschränkter dinglicher Rechte die GbR eingetragen wird (Leipold, FS Canaris
+[2007] S. 221, 231 f.), nicht mehr ihre Gesellschafter.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+143/168
+( ) a u 
+uss d e Gb  a e d
+gs 
+ e
+e  o
+ e
+get age  e de , d e s e o  a de e  Gese sc a te  bü ge
+chen Rechts unterscheidet. Das ist in Anlehnung an die Vorschriften für die registerfähigen rechtsfähigen Perso-
+nengesellschaften dadurch zu erreichen, dass die GbR grundsätzlich unter der Bezeichnung eingetragen wird, die
+von ihren Gesellschaftern für das Auftreten der Gesellschaft im Rechtsverkehr vereinbart ist (Leipold, FS Canaris
+[2007] S. 221, 231 f.). Diese Bezeichnung genügt, um die GbR von anderen zu unterscheiden. Die Bezeichnung
+kann ihre Individualisierungsfunktion zwar im Einzelfall einbüßen, wenn die Gesellschafter mehrerer Gesellschaf-
+ten bürgerlichen Rechts für ihre Gesellschaft die gleiche Bezeichnung gewählt haben. Darin unterscheidet sich
+eine GbR aber nicht signifikant von anderen rechtsfähigen Personengesellschaften, von juristischen Personen
+und letztlich nicht einmal von natürlichen Personen. Gerade bei ihnen tritt der Fall einer Namensgleichheit sehr
+häufig auf. Deshalb sieht § 15 Abs. 1 Buchstabe a GBV für natürliche Personen zusätzliche Merkmale vor, die zur
+Unterscheidung in das Grundbuch eingetragen werden können. An ihre Stelle können bei der GbR die Angabe des
+gesetzlichen Vertreters und des Sitzes treten.
+(3) Der entsprechenden Anwendung der Buchungsvorschriften für andere rechtsfähige Personengesellschaften
+steht nicht entgegen, dass diese im Gegensatz zur GbR registerfähig sind. Die Eintragung in das Handels- bzw.
+Partnerschaftsregister führt zwar dazu, dass Name und Bezeichnung sowie die Rechtsverhältnisse dieser Gesell-
+schaften durch den Auszug aus dem mit den Wirkungen der Registerpublizität versehenen Register in der Form
+des § 29 GBO leicht und sicher nachgewiesen werden können. Ein inhaltlicher Einwand gegen die Sachgerechtig-
+keit der Bezeichnung der GbR lässt sich daraus aber nicht ableiten. Das zeigt sich daran, dass eine Gesellschaft
+nicht erst dann oHG ist, wenn sie in das Handelsregister eingetragen wird, sondern nach § 105 Abs. 1 i.V.m. § 1
+Abs. 2 HGB kraft Gesetzes schon dann, wenn sie ein Handelsgewerbe betreibt oder wenn der Umfang ihres Ge-
+werbes wächst und einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb erfordert. Auch für eine sol-
+che noch nicht registrierte oHG gilt § 124 Abs. 1 HGB. Seine Voraussetzungen werden ohne Eintragung in das
+Handelsregister schwieriger nachzuweisen sein. An der Form der Bezeichnung, unter welcher die Gesellschaft in
+das Grundbuch einzutragen ist, ändert das nichts. Noch deutlicher wird das bei der Partnerschaft, auf die nach §
+1 Abs. 4 PartGG die Vorschriften des bürgerlichen Rechts über die Gesellschaft anzuwenden sind. Auf sie ist mit
+dem Vollzug der Eintragung nach § 7 Abs. 2 PartGG die Vorschrift des § 124 HGB anzuwenden, ohne dass sich an
+ihrer Identität etwas ändert. Die Registerfähigkeit einer rechtsfähigen Personengesellschaft besagt damit nichts
+darüber, wie sie einzutragen ist; sie erleichtert vielmehr "nur" den Vollzug der Eintragung im Grundbuch.
+(4) Gegen die Möglichkeit, die GbR unter ihrer im Gesellschaftsvertrag bestimmten Bezeichnung einzutragen,
+spricht auch nicht, dass nicht jede GbR nach dem zugrunde liegenden Gesellschaftsvertrag eine Bezeichnung
+führt. In solchen Fällen kann die notwendige Individualisierung zwar nicht mit der Bezeichnung erfolgen. Sie
+bleibt aber möglich (Leipold, FS Canaris [2007], S. 221, 232; Krüger, AcP 208 [2008], 699, 712). Sie kann dann in An-
+lehnung an die bisherige, so nicht mehr mögliche Buchungsform nur, aber auch stets dadurch erfolgen, dass der
+Bezeichnung des Berechtigten mit "Gesellschaft bürgerlichen Rechts" der Zusatz "bestehend aus" und die Namen
+der Gesellschafter der Gesellschaft hinzugesetzt werden. Das können zwar im Einzelfall, etwa bei Publikumsge-
+sellschaften, sehr viele Gesellschafter sein. Das unterscheidet diese Form der Buchung aber nicht von der in § 15
+Abs. 3 Satz 1 GBV unter alter Rechtslage vorgesehenen Form der Buchung.
+ee) Danach kann die Gläubigerin wie beantragt unter ihrer Bezeichnung in das Grundbuch eingetragen werden.
+d) Die Gläubigerin hat die Voraussetzungen für die Eintragung der Sicherungshypothek auch in der Form des § 29
+GBO nachgewiesen.
+aa) Eine GbR kann ihre Bezeichnung, den etwa nachzuweisenden Bestand ihrer Gesellschafter und ihre Vertre-
+tungsverhältnisse zwar nicht, wie die anderen rechtsfähigen Personengesellschaften, durch einen mit öffentli-
+chem Glauben versehenen Auszug aus einem öffentlichen Register nachweisen. Leitet sie ihr Recht aber, wie hier,
+aus einer vollstreckbaren Gerichtsentscheidung ab, kann sie den Nachweis mit der vollstreckbaren Ausfertigung
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+144/168
+d ese  
+tsc e du g ü
+e . e
+ das Ge c t 
+uss d ese U
+stä de o  
+ass se
+e  
+tsc e du g p ü e  u d
+darüber entscheiden. Das schließt zwar nicht aus, dass sich nach dem Erlass der Entscheidung, aber vor der Ein-
+tragung in das Grundbuch Veränderungen ergeben. Darin unterscheidet sich eine vollstreckbare Gerichtsent-
+scheidung aber nicht von anderen öffentlichen Urkunden, ja nicht einmal von einem notariell beurkundeten Kauf-
+vertrag, der ohne Kenntnis des Grundbuchamts materiellrechtlich wirksam Veränderungen erfahren haben kann,
+oder der Bewilligung, der die nach § 873 BGB erforderliche Einigung im Einzelfall fehlen kann. Deshalb wird sich
+das Grundbuchamt grundsätzlich an die Gerichtsentscheidung zu halten haben. Etwas anderes gilt nur, wenn sich
+im Einzelfall konkrete Anhaltspunkte für Veränderungen ergeben, die einen ergänzenden Nachweis erforderlich
+machen. Dafür ist hier auch unter Berücksichtigung des infolge des Gerichtsverfahrens seit der Antragstellung
+verstrichenen Zeitraums von etwa zwei Jahren nichts ersichtlich.
+bb) Die Forderung selbst ergibt sich aus dem Urteil. Die Zustellung und die Einhaltung der Wartefrist sind durch
+die Zustellungsurkunden des Gerichtsvollziehers nachgewiesen. Der Eintragung stehen deshalb die von dem
+Grundbuchamt angeführten Gründe nicht entgegen.
+V. Eine Kostenentscheidung ist nicht veranlasst. Gerichtskosten und die Erstattung von Auslagen fallen nach §§ 1,
+131 Abs. 1 Satz 2 und Abs. 5 KostO nicht an. Eine Erstattung von außergerichtlichen Kosten ist nach §§ 1, 13 FGG
+nicht vorgesehen.

@@ -1,0 +1,222 @@
+II ZR 56/02
+Gericht: BGH,    Datum: 7. Apr 2003,    Fundstelle: BGHZ 154, 370; DRsp-Nr. 2003/7386
+§ 705 BGB: Haftung des neu eintretenden BGB-Gesellschafters für Alt-Verbindlichkeiten
+Leitsätze:
+a. Der in eine Gesellschaft bürgerlichen Rechts eintretende Gesellschafter hat für vor seinem Eintritt begrün-
+dete Verbindlichkeiten der Gesellschaft grundsätzlich auch persönlich und als Gesamtschuldner mit den
+Altgesellschaftern einzustehen.
+b. Dieser Grundsatz gilt auch für Gesellschaften bürgerlichen Rechts, in denen sich Angehörige freier Berufe
+zu gemeinsamer Berufsausübung zusammengeschlossen haben. Ob für Verbindlichkeiten aus beruflichen
+Haftungsfällen dieser Gesellschaften eine Ausnahme zu machen ist, bleibt offen.
+Zur Examensrelevanz: noch nicht bearbeitet
+Fundstellen:
+BGHZ 154, 370; DRsp-Nr. 2003/7386; JuS 2003, 815; JA 2004, 1799; MDR 2003, 756; NJW 2003, 1803
+Aus dem Urteil:
+(nach DRsp-Nr. 2003/7386 - www.deubner-recht.de)
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+119/168
+Tatbestand:
+Die Klägerin hat den Beklagten zu 2 gemeinsam mit den am Revisionsverfahren nicht mehr beteiligten Beklagten
+zu 1 und 3 gesamtschuldnerisch auf Rückzahlung eines ohne Rechtsgrund geleisteten Honorarvorschusses von
+172.500,00 DM in Anspruch genommen.
+Die Beklagten sind Rechtsanwälte, die sich am 1. Juli 1998 zu einer Sozietät zusammengeschlossen haben. Die
+Klägerin hatte den Vorschuß Anfang Mai 1997 gezahlt. Zu diesem Zeitpunkt war der Beklagte zu 2 noch nicht als
+Rechtsanwalt zugelassen. Das Landgericht hat der Klage gegen alle drei Beklagten stattgegeben. Die von den Be-
+klagten gegen diese Entscheidung eingelegte Berufung ist nur von dem Beklagten zu 2 begründet worden, die Be-
+klagten zu 1 und 3 haben ihre Rechtsmittel zurückgenommen. Der Beklagte zu 1 zahlte Anfang April 2001 auf die
+Klagforderung 223.700,00 DM an die Klägerin, die daraufhin den Rechtsstreit im Berufungsverfahren für erledigt
+erklärt hat. Der Beklagte zu 2 hat sich der Erledigungserklärung nicht angeschlossen, weil er die Klage, soweit sie
+ihn betrifft, für von Anfang an unbegründet hält. Da er noch nicht Mitglied der Sozietät gewesen sei, als der auf
+die rechtsgrundlose Vorschußzahlung gegründete Bereicherungsanspruch der Klägerin entstanden sei, hafte er
+für diese Altverbindlichkeit der Sozietät nicht mit seinem Privatvermögen.
+Das Oberlandesgericht hat die Berufung des Beklagten zu 2 zurückgewiesen und die Erledigung des Rechtsstreits
+festgestellt. Mit seiner - zugelassenen - Revision verfolgt der Beklagte zu 2 sein Klagabweisungsbegehren weiter.
+Entscheidungsgründe:
+Da die Klägerin im Verhandlungstermin trotz dessen rechtzeitiger Bekanntgabe nicht vertreten war, ist über die
+sie betreffende Revision des Beklagten zu 2 durch Versäumnisurteil zu entscheiden, §§ 557, 331 ZPO a.F.. Das Ur-
+teil beruht jedoch inhaltlich nicht auf der Säumnis, sondern auf einer Sachprüfung (BGHZ 37, 79, 82).
+Die Revision führt unter teilweiser Aufhebung des angefochtenen Urteils zur Abweisung der Klage, soweit sie die
+Verurteilung des Beklagten zu 2 zur Zahlung aus seinem Privatvermögen betrifft.
+I. Das Berufungsgericht ist der Ansicht, die Klage sei bis zur Zahlung der 223.700,00 DM durch den Beklagten zu 1
+am 6. April 2001 gegenüber dem Beklagten zu 2 zulässig und begründet gewesen. Das Verhältnis zwischen der
+Gesellschafts- und der Gesellschafterhaftung bestimme sich nach der Entscheidung des Senats vom 29. Januar
+2001 (BGHZ 146, 341, 358) analog §§ 128 f. HGB. Als Folge der Bejahung des Akzessorietätsprinzips sei der Gesell-
+schafter einer Gesellschaft bürgerlichen Rechts auch einer Haftung entsprechend § 130 HGB zu unterwerfen, da
+diese ein zentraler Bestandteil des auf dem Akzessorietätsprinzip beruhenden Haftungsregimes sei. Der Beklagte
+zu 2 habe deshalb bis zur Begleichung der Klagforderung für den vor seinem Eintritt in die Sozietät begründeten
+Rückforderungsanspruch der Klägerin auch mit seinem Privatvermögen gehaftet.
+Das hält revisionsrechtlicher Prüfung nur zum Teil stand. Dem Berufungsgericht ist zwar darin zu folgen, daß als
+Konsequenz des akzessorischen Haftungsprinzips der in eine bestehende Gesellschaft bürgerlichen Rechts ein-
+tretende Gesellschafter für bereits begründete Verbindlichkeiten der Gesellschaft grundsätzlich entsprechend der
+Regelung des § 130 HGB für die offene Handelsgesellschaft gesamtschuldnerisch mit den Altgesellschaftern auch
+persönlich, also mit seinem Privatvermögen, haftet. Der Beklagte zu 2 hatte für die Forderung der Klägerin mit
+seinem Privatvermögen jedoch nicht einzustehen. Ihm ist mit Rücksicht auf die bisherige Rechtsprechung des
+Bundesgerichtshofs, der zufolge der Eintretende für Altverbindlichkeiten lediglich mit dem bei seinem Eintritt er-
+worbenen Anteil am Gesellschaftsvermögen, nicht aber mit seinem Privatvermögen haftete, Vertrauensschutz zu
+gewähren.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+120/168
+. . 
+tgege  de  uff assu g de  e s o  a tet e
+ eu 
+ e
+e sc o  beste e de Gese sc a t bü ge
+c e
+Rechts eintretender Gesellschafter grundsätzlich auch für die bereits vor seinem Eintritt begründeten Verbindlich-
+keiten der Gesellschaft, die sog. Altverbindlichkeiten.
+a) Es kann dahinstehen, ob dies bereits daraus, daß der Gesellschafter im Grundsatz stets wie die Gesellschaft
+haftet, also dem sog. Akzessorietätsprinzip, folgt, das in der neueren Rechtsprechung (BGHZ 146, 341) an die
+Stelle der früher von ihr vertretenen Doppelverpflichtungslehre getreten ist. Im Schrifttum ist in diesem Zusam-
+menhang darauf hingewiesen worden, daß ausländische Rechtsordnungen, insbesondere die US-amerikanische,
+eine akzessorische Gesellschafterhaftung auch ohne Erstreckung auf Altschulden kennen (Wiedemann, JZ 2001,
+661, 664).
+Denn jedenfalls entspricht der Gedanke, daß ein neu in eine Gesellschaft bürgerlichen Rechts eintretender Gesell-
+schafter auch ohne dahingehende besondere Verpflichtungserklärungen gegenüber den Gläubigern mit dem Er-
+werb der Mitgliedschaft auch in die bestehenden Verbindlichkeiten der Gesellschaft eintritt und damit nicht an-
+ders als der Altgesellschafter für alle Verbindlichkeiten der Gesellschaft ohne Unterscheidung nach dem Zeitpunkt
+ihrer Begründung haftet, sowohl dem Wesen der Personengesellschaft als auch - damit innerlich zusammenhän-
+gend - einer im Verkehrsschutzinteresse zu Ende gedachten Akzessorietät der Haftung (vgl. auch Baumbach/Hopt,
+HGB 30. Aufl. § 130 Rdn. 1). Auch die Senatsentscheidung vom 30. April 1979 (BGHZ 74, 240, 242) bezeichnet es
+bereits als folgerichtig, den Gesellschafter einer Gesellschaft bürgerlichen Rechts - ähnlich wie nach § 130 HGB
+den Handelsgesellschafter - bei Annahme einer akzessorischen Haftung der Gesellschafter für die Verbindlichkei-
+ten der Gesellschaft auch für die vor seinem Beitritt begründeten Gesamthandsverbindlichkeiten haften zu las-
+sen. Der Weg dahin war für die Rechtsprechung jedoch damals noch verschlossen, weil sie bis zu der grundlegen-
+den Entscheidung BGHZ 146, 341 der sog. Doppelverpflichtungslehre folgte.
+Die persönliche Haftung aller Gesellschafter in ihrem jeweiligen personellen Bestand entspricht dem Wesen der
+Personengesellschaft und ihren Haftungsverhältnissen, weil die Gesellschaft kein eigenes, zu Gunsten ihrer Gläu-
+biger gebundenes garantiertes Haftkapital besitzt. Ihr Gesellschaftsvermögen steht dem Zugriff der Gesellschaf-
+ter jederzeit uneingeschränkt und sanktionslos offen. Bei dieser Sachlage ist die persönliche Haftung ihrer Gesell-
+schafter für die Gesellschaftsverbindlichkeiten nicht nur die alleinige Grundlage für die Wertschätzung und Kredit-
+würdigkeit der Gesellschaft; sie ist vielmehr das notwendige Gegenstück zum Fehlen jeglicher Kapitalerhaltungs-
+regeln. Dabei kann die Rechtsordnung konsequenterweise nicht bei einer Haftung nur der Altgesellschafter Halt
+machen. Denn mit dem Erwerb seiner Gesellschafterstellung erlangt auch ein neu eintretender Gesellschafter
+dieselben Zugriffsmöglichkeiten auf das Gesellschaftsvermögen wie die Altgesellschafter, was angesichts der
+Komplementarität von Entnahmefreiheit und persönlicher Haftung sinnvollerweise nur durch Einbeziehung der
+Neugesellschafter in dasselbe Haftungsregime, dem auch die Altgesellschafter unterliegen, kompensiert werden
+kann.
+Zudem erwirbt der neu Eintretende mit seinem Eintritt in die Gesellschaft auch Anteil an dem Vermögen, der
+Marktstellung sowie den Kunden- bzw. Mandantenbeziehungen, die die Gesellschaft durch ihre bisherige wirt-
+schaftliche Tätigkeit begründet hat. Es ist deshalb nicht unangemessen, wenn er im Gegenzug auch in die Ver-
+bindlichkeiten eintritt, die die Gesellschaft im Zuge ihrer auf Erwerb und Vermehrung dieser Vermögenswerte ge-
+richteten wirtschaftlichen Tätigkeit begründet hat. Nicht selten wird die Altverbindlichkeit, für die der neu einge-
+tretene Gesellschafter mithaften soll, exakt einem Aktivum der Gesellschaft als Gegenleistung (aus der Sicht der
+Gesellschaft Gegenverpflichtung) zuzuordnen sein, an dem der Eintretende für sich eine Mitberechtigung rekla-
+miert.
+Bei der grundsätzlichen Mithaftung der Neugesellschafter einer Gesellschaft bürgerlichen Rechts auch für die be-
+reits vor seinem Eintritt in die Gesellschaft begründeten Verbindlichkeiten handelt es sich damit keineswegs um
+ein überraschendes Geschenk an die Gläubiger, sondern um das wohlbegründete Ergebnis einer Abwägung der
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+121/168
+eg t
+e  
+te esse  de  G äub ge  u d des eue
+get ete e . 
+e Geset es o
+o
+tät d ese  b ägu g 
+d
+dadurch belegt, daß das kodifizierte deutsche Recht überall dort, wo es eine ausdrückliche Regelung getroffen
+hat, zumindest eine grundsätzliche Mithaftung neu eintretender Gesellschafter vorsieht, so außer in § 130 HGB
+auch in § 173 HGB, in § 8 Abs. 1 PartGG und in Art. 26 Abs. 2 EWIV-VO (dort allerdings mit der Möglichkeit des Aus-
+schlusses durch Gesellschafts- oder Aufnahmevertrag und Eintragung im Handelsregister).
+Die innere Berechtigung des damit gesicherten Gläubigerschutzes ist um so fundierter, als ohne ihn eine Haftung
+neu eintretender Gesellschafter für alle vor ihrem Eintritt "begründeten" Verbindlichkeiten ausgeschlossen wäre.
+"Begründet" ist eine Verbindlichkeit bzw. Forderung nach überkommenem Verständnis, sobald ihr Rechtsgrund
+gelegt ist. Ohne eine haftungsmäßige Gleichstellung von Alt- und Neugesellschaftern bräuchten letztere bei Dau-
+erschuldverhältnissen oder langfristigen Vertragsverhältnissen auch für die nach ihrem Beitritt fällig werdenden
+Verpflichtungen nicht aufzukommen, sofern nur das Rechtsverhältnis selber davor begründet worden war. Im Ex-
+tremfall könnte dies, wie etwa bei Aufnahme eines Kredits mit zehnjähriger Laufzeit für ein langfristiges Wirt-
+schaftsgut, dazu führen, daß niemand mehr für die Rückzahlung der Kreditsumme haftet, weil alle bei Fälligkeit
+vorhandenen Gesellschafter erst nach der Aufnahme des Kredits in die Gesellschaft eingetreten waren und die
+Haftung der ausgeschiedenen Gesellschafter gemäß §§ 736 Abs. 2 BGB, 160 HGB beendet ist. Bei anderen Dauer-
+schuldverhältnissen mit über den Beitrittszeitpunkt hinaus bestehenden Pflichten könnte es dazu kommen, daß
+der neu eingetretene Gesellschafter für eine Pflichtverletzung selbst dann nicht persönlich zu haften hätte, wenn
+er die Pflichtverletzung selber verschuldet hätte. Diesen unakzeptablen Ergebnissen könnte ohne Annahme einer
+auch auf neu eingetretene Gesellschafter erstreckten akzessorischen Gesellschafterhaftung weiterhin nur durch
+methodisch unaufrichtige (so zu Recht K. Schmidt, Gesellschaftsrecht 4. Aufl. § 60 III. 2. d), S. 1898) Konstruktionen
+wie etwa einer stillschweigenden Einbeziehung in den Vertrag oder eines konkludenten Vertragsbeitritts begegnet
+werden, zu denen sich die Rechtsprechung unter Geltung der Doppelverpflichtungslehre genötigt sah (s. etwa
+BGHZ 124, 47, 48 m.w.N.; Urt. v. 17. Oktober 1989 - XI ZR 158/88, NJW 1990, 827, 828 f.; s. ferner OLG Frankfurt
+a.M., NJW 1986, 3144; OLG Bamberg, NJW-RR 1989, 223).
+Des weiteren kann die Mithaftung neu eingetretener Gesellschafter auch für die vor ihrem Beitritt begründeten
+Gesellschaftsverbindlichkeiten den Vorteil für sich in Anspruch nehmen, daß sich der Gläubiger nicht auf einen
+gerade in der Gesellschaft bürgerlichen Rechts in Ermangelung jedweder Registerpublizität u.U. besonders heik-
+len Streit über die Zeitpunkte des Entstehens seiner Forderung und der Mitgliedschaft des in Anspruch genom-
+menen Gesellschafters einlassen muß (Ulmer, ZIP 2001, 585, 598; K. Schmidt, NJW 2001, 993, 999; Habersack, BB
+2001, 477, 482; Gesmann-Nuissl, WM 2001, 973, 978).
+Die vorstehenden Erwägungen machen deutlich, daß der in § 130 Abs. 1 HGB kodifizierte Gedanke keineswegs
+auf Besonderheiten gerade des handelsrechtlichen Geschäftsverkehrs beruht. Er findet seine Begründung und
+Rechtfertigung vielmehr in den Eigenheiten rechtsfähiger Personengesellschaften mit auf dem Prinzip der Akzess-
+orietät aufbauender Haftungsverfassung, wie auch seine Übernahme in die moderne Kodifikation der Partner-
+schaftsgesellschaft (§ 8 Abs. 1 Satz 2 PartGG) bestätigt; s. dazu auch nachstehend unter b).
+Die Annahme der Mithaftung auch des neu eingetretenen Gesellschafters einer Gesellschaft bürgerlichen Rechts
+für die bereits bei seinem Eintritt begründeten Verbindlichkeiten der Gesellschaft ergänzt damit in rechtsprakti-
+scher und methodisch folgerichtiger Weise die Rechtsprechung des Senats, wonach bei der Gesellschaft bürgerli-
+chen Rechts die persönliche Haftung der Gesellschafter für die Verbindlichkeiten der Gesellschaft derjenigen bei
+der oHG entspricht (BHGZ 142, 315 und 146, 341).
+Die Richtigkeit dieser Auffassung wird auch dadurch belegt, daß sich bei gewerblich tätigen Gesellschaften der
+Übergang von der Rechtsform der oHG zu derjenigen der Gesellschaft bürgerlichen Rechts und umgekehrt in Ab-
+hängigkeit von Art und vor allem Umfang der Geschäfte angesichts der Veränderlichkeit und Wertungsbedürftig-
+keit dieser Kriterien bei fehlender Handelsregistereintragung oft unmerklich vollzieht, was bei einer unterschiedli-
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+122/168
+c e  a tu gs e assu g u e
+eb c e  U s c e
+e t ü
+e  ü de (
+este
+a
+, 
+G 00 , 89, 9 ).
+b) Der Grundsatz der persönlichen Haftung des Neugesellschafters für Altverbindlichkeiten gilt auch für Gesell-
+schaften bürgerlichen Rechts, die von Angehörigen freier Berufe zur gemeinsamen Berufsausübung gegründet
+worden sind. Der Gesetzgeber hat in § 8 Abs. 1 PartGG die Haftung für Verbindlichkeiten der Partnerschaft dahin
+geregelt, daß neben deren Vermögen die Partner als Gesamtschuldner den Gläubigern haften (Satz 1 der Bestim-
+mung) und insoweit die Vorschriften der §§ 129 und 130 HGB entsprechend anzuwenden sind (Satz 2), also ein
+neu in die Partnerschaft eintretender Gesellschafter auch für bereits bestehende Verbindlichkeiten der Partner-
+schaft haftet. Da der Gesetzgeber mit dem Partnerschaftsgesellschaftsgesetz eine spezielle Rechtsform geschaf-
+fen hat, die gerade den besonderen Verhältnissen und legitimen Bedürfnissen der freien Berufe Rechnung tragen
+soll, kann diese Regelung nur dahin verstanden werden, daß aus der Sicht des Gesetzgebers keine Bedenken da-
+gegen bestehen, die Angehörigen freier Berufe grundsätzlich einer Haftung zu unterwerfen, die hinsichtlich Alt-
+verbindlichkeiten derjenigen des Gesellschafters einer offenen Handelsgesellschaft gleicht. Für Verbindlichkeiten
+vertraglicher, quasi-vertraglicher und gesetzlicher Art steht danach der Annahme einer persönlichen Haftung der
+Neugesellschafter für Altverbindlichkeiten einer von Angehörigen freier Berufe gebildeten Gesellschaft bürgerli-
+chen Rechts im Grundsatz nichts im Wege. Eine Ausnahme könnte lediglich für Verbindlichkeiten aus beruflichen
+Haftungsfällen in Betracht kommen, da sie, wie die Bestimmung des § 8 Abs. 2 PartGG zeigt, eine Sonderstellung
+einnehmen. Ob der Grundsatz der persönlichen Haftung für Altverbindlichkeiten auch insoweit Anwendung fin-
+det, kann, da dies für die hier zu treffende Entscheidung unerheblich ist, offen bleiben.
+2. Erwägungen des Vertrauensschutzes gebieten es, den Grundsatz der persönlichen Haftung des in eine Gesell-
+schaft bürgerlichen Rechts Eintretenden für Altverbindlichkeiten der Gesellschaft erst auf künftige Beitrittsfälle
+anzuwenden.
+Die seit langem bestehende gefestigte Rechtsprechung des Bundesgerichtshofs, wonach der Neugesellschafter
+einer Gesellschaft bürgerlichen Rechts für deren Altverbindlichkeiten nicht mit seinem Privatvermögen haftet, hat
+auf seiten der Neugesellschafter schützenswertes Vertrauen dahin begründet, daß sie für Altverbindlichkeiten
+nicht mit ihrem Privatvermögen einzustehen haben. Neugesellschafter brauchten sich auf Grund jener Rechtspre-
+chung vor ihrem Gesellschaftsbeitritt weder um Informationen über etwa bestehende Gesellschaftsschulden zu
+bemühen noch wirtschaftliche Vorkehrungen für eine eventuelle persönliche Haftung für solche Verbindlichkeiten
+zu treffen. Es träfe sie deshalb unverhältnismäßig hart, wenn sie nunmehr rückwirkend der persönlichen Haftung
+für Altverbindlichkeiten unterworfen würden, wie sie sich als Folge des geänderten Verständnisses von der Haf-
+tungsverfassung der Gesellschaft bürgerlichen Rechts ergibt (vgl. Sen.Urt. v. 21. Januar 2002 - II ZR 2/00, ZIP 2002,
+851, z.V. in BGHZ 150, 1 bestimmt). Aspekte, die der Gewährung von Vertrauensschutz entgegenstünden, sind
+nicht ersichtlich.
+III. Nach dem Vorstehenden war die Klage gegen den Beklagten zu 2 von Anfang an unbegründet, soweit sie auf
+seine persönliche Haftung zielte.
+Der Beklagte zu 2 ist zwar am 1. Juli 1998 in die zwischen den Beklagten zu 1 und 3 bestehende (Außen-)Sozietät
+eingetreten, die der Klägerin die Rückzahlung des im Mai 1997 ungerechtfertigt vereinnahmten Honorarvorschus-
+ses schuldete. Er haftete für dessen Rückzahlung jedoch nicht, da er in seinem Vertrauen auf die eine persönliche
+Haftung des Neugesellschafters für Altverbindlichkeiten ablehnende bisherige Rechtsprechung geschützt wird.
+Weitere Feststellungen kommen nicht in Betracht. Daher kann der Senat in der Sache selbst entscheiden (§ 565
+ZPO a.F.) und dem Begehren des Beklagten zu 2, die Klage abzuweisen, stattgeben, soweit es seine persönliche
+Haftung betrifft.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPre…
+123/168

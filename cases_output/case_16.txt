@@ -1,0 +1,114 @@
+II ZR 330/00
+Gericht: BGH,    Datum: 29. Apr 2002,    Fundstelle: BGHZ 150, 373; DRsp Nr. 2002/7244
+§ 160 HGB, § 564 BGB: Rechtsfolgen einer Verlängerungsklausel in einem Mietvertrag
+Leitsatz:
+Enthält ein Mietvertrag die Bestimmung, das Mietverhältnis, das zu einem festgelegten Zeitpunkt ende, ver-
+längere sich jeweils um ein Jahr, wenn eine der Parteien dem nicht (fristgerecht) widerspreche, so wird der
+ursprüngliche Mietvertrag fortgesetzt, wenn ein solcher Widerspruch nicht erfolgt, nicht aber ein neuer Ver-
+trag geschlossen.
+Zur Examensrelevanz: noch nicht bearbeitet
+Fundstellen:
+BGHZ 150, 373; DRsp Nr. 2002/7244; MDR 2002, 1199; NJW 2002, 2170
+Aus dem Urteil:
+(nach DRsp Nr. 2002/7244 - www.deubner-recht.de)
+Tatbestand:
+Am 15. Januar 1976 vermietete der Kläger der P. H. & Co. oHG, deren Gesellschafter damals P. H. und seine Ehe-
+frau E. waren, Gewerberäume in B. K.straße 151/152. Der Mietvertrag bestimmt:
+"Das Mietverhältnis beginnt am 1. April 1976. ... Das Mietverhältnis endet am 31. März 1996. Es verlängert sich je-
+weils um ein Jahr, wenn eine der Parteien nicht spätestens sechs Monate vor Ablauf der Mietzeit der Verlänge-
+rung widerspricht. ..."
+P. H. verstarb im Jahre 1993. Mit Wirkung vom 10. Mai 1993 trat der Beklagte als Gesellschafter in das Unterneh-
+men ein; dies wurde am 7. März 1995 in das Handelsregister eingetragen. Am 31. März 1995 kam als neue, per-
+sönlich haftende Gesellschafterin die H. B. Verwaltungsgesellschaft mbH hinzu, der Beklagte und E. H. wurden
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+79/168
+o
+a d t ste . 
+e u
+e
+ge . . G
+b  & Co. G (
+ o ge de : G), de e  a
+ 3. Ju
+ 995 e o gte 
+tragung in das Handelsregister im Juni/Juli 1995 bekannt gemacht wurde, setzte das Mietverhältnis auch über den
+31. März 1996 hinaus fort. Obwohl sie schon Anfang des Jahres 1996 in Zahlungsschwierigkeiten geraten war,
+räumte die KG das Mietobjekt erst Ende März 1998, nachdem der Kläger das Mietverhältnis am 28. Januar 1998
+fristlos gekündigt hatte. Am 1. April 1998 wurde über ihr Vermögen das Konkursverfahren eröffnet.
+Es verblieb ein Mietrückstand von insgesamt 227.913,48 DM. Davon entfielen 16.344,22 DM auf den März 1996
+und 211.569,26 DM auf den Zeitraum August 1996 bis März 1998. Mit seiner Klage begehrt der Kläger von dem
+Beklagten, den Rückstand zu zahlen. Das Landgericht hat der Klage stattgegeben, das Berufungsgericht hat nur
+16.344,22 DM, also den Mietrückstand aus der Zeit vor der Verlängerung des Mietvertrages, zugesprochen und
+sie im übrigen abgewiesen. Mit der Revision verfolgt der Kläger seinen ursprünglichen Klageantrag weiter.
+Entscheidungsgründe:
+Die Revision des Klägers hat Erfolg. Der Beklagte schuldet ihm die gesamten Mietrückstände in Höhe von
+227.913,48 DM (§§ 128, 160 Abs. 1 HGB).
+I. Dem Berufungsgericht, dem darin zuzustimmen ist, daß die Klageforderung nach der neuen Rechtslage zu be-
+urteilen ist (Art. 35 Satz 1 EGHGB), hat eine Nachhaftung des Beklagten gemäß § 160 HGB n.F., d.h. in der Fassung
+des NachhBG 1994, für Rückstände aus der Zeit von August 1996 bis März 1998 unter Berufung auf frühere Ent-
+scheidungen des Reichsgerichts und des Bundesgerichtshofes verneint, weil für die Mietparteien kein rechtlicher
+Zwang bestand, das Mietverhältnis über den 31. März 1996 hinaus fortzusetzen. Da sowohl der Vermieter als
+auch die Mieterin frei entscheiden konnten, ob sie das Mietverhältnis am 31. März 1996 auslaufen lassen sollten
+oder nicht, stelle sich die "Verlängerung" des Vertrages als Abschluß eines neuen Mietvertrages dar. Diese Rechts-
+auffassung greift die Revision mit Erfolg an.
+II. Der Anspruch des Klägers auf Zahlung der Miete für den fraglichen Zeitraum war bereits vor dem Ausscheiden
+des Beklagten aus der Gesellschaft als persönlich haftender Gesellschafter im Sinne des § 160 HGB n.F. begrün-
+det.
+1. Nach dieser Vorschrift (Abs. 1 und 3) haftet ein aus der oHG ausgeschiedener oder in die Stellung eines Kom-
+manditisten zurückgetretener Gesellschafter noch für die Dauer von fünf Jahren für die bis zu seinem Ausschei-
+den oder Zurücktreten begründeten Verbindlichkeiten der Gesellschaft. Die Frist beginnt mit dem Ende des Tages
+zu laufen, an dem das Ausscheiden oder Zurücktreten in die Kommanditistenstellung in das Handelsregister ein-
+getragen wird.
+Im vorliegenden Fall wurde der Mietvertrag am 15. Januar 1976 geschlossen und sah die Möglichkeit, ihn zu been-
+den, erstmals zum 31. März 1996 vor. Da hiervon in der Folge keine der Parteien Gebrauch machte, endete der
+Vertrag erst Ende Januar 1998 (dazu unter 2), wobei die darüber hinausgehende Nutzung des Mietobjekts durch
+die KG bis Ende 1998 weitere Mietzinsansprüche des Klägers auslöste. Für diese Ansprüche haftet der Beklagte.
+Sein Wechsel in die Kommanditistenstellung wurde am 13. Juni 1995 in das Handelsregister eingetragen, so daß
+die fünfjährige Frist erst am 13. Juni 2000 endete.
+2. In der Praxis sind Mietverträge über Grundstücke und Räume auf bestimmte Zeit mit Verlängerungsklausel
+häufig anzutreffen. Diese Verträge verlängern sich automatisch auf bestimmte oder unbestimmte Zeit, wenn sie
+nicht zum vereinbarten Vertragsende gekündigt werden. Unterbleibt die Kündigung, so wird das Mietverhältnis
+mit demselben Vertragsinhalt fortgesetzt. Die Identität des damit in die Zukunft verlängerten Vertrages bleibt er-
+halten (Blank in Schmidt-Futterer, Mietrecht 7. Aufl. BGB § 564 Rdn. 12; Derleder in AK, BGB § 564 Rdn. 2; Münch-
+Komm.-Voelskow, BGB 4. Aufl. Rdn. 6; RGRK-Gelhaar, BGB 12. Aufl. § 564 Rdn. 6; Soergel/Heintzmann, BGB 12.
+5/12/24, 1:01 PM
+UniRep Online - eLearning für Jurastudierende der Universität Münster: Gesellschaftsrecht - Entscheidungsregister
+https://unirep-online.de/ilias.php?ref_id=5551&cmd=post&cmdClass=ilglossarypresentationgui&cmdNode=15v&baseClass=ilGlossaryPres…
+80/168
+ufl . § 56  d . ; a. . . Sc
+dt, Gese sc a ts ec t 3. ufl . S. 
+8 ). 
+e be
+stete ü d gu g bee det de  e
+trag erst zum vertraglich oder gesetzlich bestimmten Zeitpunkt. Dies hat zur Folge, daß das Mietverhältnis bis da-
+hin unverändert weiter besteht und es daher während dieses Zeitraums noch dem Einfluß vertraglicher Vereinba-
+rungen über seinen Inhalt und gegebenenfalls über seine (weitere) Fortdauer unterworfen ist (BGHZ 139, 123,
+127).
+Im vorliegenden Fall war die Verlängerung zwar nicht vom Ausbleiben einer Kündigung abhängig, sondern vom
+Ausbleiben eines Widerspruchs gegen die Verlängerung. Für die rechtliche Beurteilung, ob der Vertrag fortdauert,
+kann diesem lediglich terminologischen Unterschied jedoch keine Bedeutung beigemessen werden.
+3. Der Gesetzgeber hat mit § 160 n.F. HGB nicht lediglich eine zeitliche Obergrenze festgelegt. Er hat vielmehr eine
+umfassende Regelung des Problems der Nachhaftungsbegrenzung vorgenommen und dabei die Rechtsprechung
+zu dem alten Recht gesehen und berücksichtigt. Er wollte auch die Dauerschuldverhältnisse einbezogen wissen.
+Damit hat der Gesetzgeber im Interesse der Rechtssicherheit für alle Verbindlichkeiten einheitlich den Weg einer
+klar festgelegten Ausschlußfrist gewählt. Mit diesem Weg hat er zugleich die Interessen der Beteiligten in einer
+Weise berücksichtigt und ausgeglichen, die zwar fraglos gewisse Härten mit sich bringt, aber letztlich für keinen
+der jeweils Beteiligten als unzumutbar anzusehen ist (so auch Sen.Urt. v. 27. September 1999 - II ZR 356/98, WM
+1999, 2406, 2408 = BGHZ 142, 324, 331, das das Berufungsgericht aber nicht für einschlägig hält, da es im vorlie-
+genden Fall um ein befristetes Schuldverhältnis mit Verlängerungsmöglichkeit gehe).
+Sinn dieser Regelung ist es in erster Linie zu vermeiden, daß ein ausgeschiedener Gesellschafter zu lange Zeit mit
+einer Haftung für Verbindlichkeiten belastet wird, obwohl er wegen seines Ausscheidens weder weiteren Einfluß
+auf die Gesellschaft nehmen noch von den Gegenleistungen und sonstigen Erträgen profitieren kann. Sinn ist es
+aber zugleich, einen Ausgleich zwischen diesem Anliegen und den Interessen der Gesellschaftsgläubiger zu schaf-
+fen. Allein schon im Hinblick auf diese Zweckrichtung sind Dauerschuldverhältnisse ohne Differenzierung nach
+gewissem oder ungewissem Verlauf in der Zukunft als Verbindlichkeiten im Sinne von § 160 Abs. 1 HGB anzuse-
+hen. Bei Dauerschuldverhältnissen ist die Rechtsgrundlage für die einzelnen Schuldverpflichtungen bereits in
+dem Vertrag selber angelegt, mit der Folge, daß diese Schuldverpflichtungen mit dem Vertragsschluß als entstan-
+den anzusehen sind, auch wenn einzelne Verpflichtungen erst später fällig werden (Sen.Urt. aaO. m.w.N.).
+4. Handelt es sich bei einem Mietvertrag mit Verlängerungsklausel um die Fortsetzung des alten Vertrages, wenn
+die Kündigung nicht erfolgt oder ein Widerspruch gegen die Verlängerung unterbleibt, so liegt nichts anderes vor,
+als ein Dauerschuldverhältnis mit für die Zukunft ungewissem Verlauf.
+III. Da die Höhe der Mietrückstände unstreitig ist, kann der Senat die Sache selber entscheiden (§ 565 Abs. 3 Nr. 1
+ZPO a.F., § 563 Abs. 3 ZPO n.F.).
